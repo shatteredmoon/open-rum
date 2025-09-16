@@ -1,0 +1,51 @@
+html
+{
+	overflow-y: scroll;
+}
+
+.u4m
+{
+	font-family: "Book Antiqua";
+	font-size: 12px;	
+	color: #333333;
+	text-decoration: none;
+	background-color: #FFFFFF;
+	background-repeat: no-repeat;
+	text-align: left;
+	vertical-align: top;
+	margin: 10px;
+	padding: 10px;
+}
+
+A:link, A:visited, A:active { text-decoration: underline; color: #663300 }
+
+body.u4m
+{
+	background-color: #a07050;
+	background-image: url(img/paper3.jpg);
+	background-repeat: repeat;
+}
+
+table.u4m
+{
+	border: 3px double #000000;
+	padding: 10px;
+	width: 640px;
+	height: 90%;
+}
+
+h1.u4m
+{
+	font-size: 36px;
+	text-align: center;
+	padding: 0px;
+	margin: 5px;
+}
+
+h2.u4m
+{
+	font-size: 24px;
+	text-align: center;
+	padding: 0px;
+	margin: 5px;
+}

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>StringManager</class>
+ <widget class="QMainWindow" name="StringManager">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1024</width>
+    <height>768</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>String Manager</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <widget class="QSplitter" name="splitter">
+      <property name="orientation">
+       <enum>Qt::Horizontal</enum>
+      </property>
+      <widget class="QSplitter" name="splitter_2">
+       <property name="orientation">
+        <enum>Qt::Vertical</enum>
+       </property>
+       <widget class="QWidget" name="verticalLayoutWidget_1">
+        <layout class="QVBoxLayout" name="verticalLayout_1">
+         <item>
+          <widget class="QTableWidget" name="tableWidget"/>
+         </item>
+        </layout>
+       </widget>
+       <widget class="QWidget" name="verticalLayoutWidget_2">
+        <layout class="QVBoxLayout" name="verticalLayout_2">
+         <item>
+          <widget class="QTableWidget" name="tableWidget_2"/>
+         </item>
+        </layout>
+       </widget>
+      </widget>
+      <widget class="QWidget" name="verticalLayoutWidget_3">
+       <layout class="QVBoxLayout" name="verticalLayout_3">
+        <property name="spacing">
+         <number>0</number>
+        </property>
+        <item>
+         <widget class="QToolBar" name="toolBar3">
+          <property name="windowTitle3" stdset="0">
+           <string>toolBar3</string>
+          </property>
+          <addaction name="actionTranslate_All"/>
+         </widget>
+        </item>
+        <item>
+         <widget class="QTableWidget" name="tableWidget_3"/>
+        </item>
+       </layout>
+      </widget>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1024</width>
+     <height>26</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuFile">
+    <property name="title">
+     <string>File</string>
+    </property>
+    <addaction name="separator"/>
+    <addaction name="actionSave"/>
+    <addaction name="separator"/>
+    <addaction name="actionClose"/>
+   </widget>
+   <widget class="QMenu" name="menuLanguage">
+    <property name="title">
+     <string>Language</string>
+    </property>
+    <addaction name="actionNew_Language"/>
+    <addaction name="actionRemove_Language"/>
+   </widget>
+   <widget class="QMenu" name="menuString">
+    <property name="title">
+     <string>String</string>
+    </property>
+    <addaction name="actionNew_String"/>
+    <addaction name="actionRemove_String"/>
+    <addaction name="separator"/>
+    <addaction name="actionTranslate_All"/>
+   </widget>
+   <widget class="QMenu" name="menuString_Table">
+    <property name="title">
+     <string>String Table</string>
+    </property>
+    <addaction name="actionNew_String_Table"/>
+    <addaction name="actionRemove_String_Table"/>
+   </widget>
+   <addaction name="menuFile"/>
+   <addaction name="menuString_Table"/>
+   <addaction name="menuLanguage"/>
+   <addaction name="menuString"/>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <widget class="QToolBar" name="toolBar">
+   <property name="windowTitle">
+    <string>toolBar</string>
+   </property>
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+   <addaction name="actionSave"/>
+   <addaction name="separator"/>
+   <addaction name="actionNew_String_Table"/>
+   <addaction name="actionRemove_String_Table"/>
+   <addaction name="separator"/>
+   <addaction name="actionNew_String"/>
+   <addaction name="actionRemove_String"/>
+   <addaction name="separator"/>
+   <addaction name="actionNew_Language"/>
+   <addaction name="actionRemove_Language"/>
+  </widget>
+  <action name="actionSave">
+   <property name="text">
+    <string>Save</string>
+   </property>
+   <property name="toolTip">
+    <string>Save changes</string>
+   </property>
+  </action>
+  <action name="actionClose">
+   <property name="text">
+    <string>Close</string>
+   </property>
+  </action>
+  <action name="actionNew_Language">
+   <property name="text">
+    <string>New Language</string>
+   </property>
+   <property name="toolTip">
+    <string>Add a new language</string>
+   </property>
+  </action>
+  <action name="actionRemove_Language">
+   <property name="text">
+    <string>Remove Language</string>
+   </property>
+   <property name="toolTip">
+    <string>Remove selected language</string>
+   </property>
+  </action>
+  <action name="actionNew_String">
+   <property name="text">
+    <string>New String</string>
+   </property>
+   <property name="toolTip">
+    <string>Add a new string</string>
+   </property>
+  </action>
+  <action name="actionRemove_String">
+   <property name="text">
+    <string>Remove String</string>
+   </property>
+   <property name="toolTip">
+    <string>Remove selected string</string>
+   </property>
+  </action>
+  <action name="actionTranslate_All">
+   <property name="text">
+    <string>Translate All</string>
+   </property>
+   <property name="toolTip">
+    <string>Translate all empty items</string>
+   </property>
+  </action>
+  <action name="actionNew_String_Table">
+   <property name="text">
+    <string>New String Table</string>
+   </property>
+   <property name="toolTip">
+    <string>Add a new string table</string>
+   </property>
+  </action>
+  <action name="actionRemove_String_Table">
+   <property name="text">
+    <string>Remove String Table</string>
+   </property>
+   <property name="toolTip">
+    <string>Remove selected string table</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections>
+  <connection>
+   <sender>actionClose</sender>
+   <signal>triggered()</signal>
+   <receiver>StringManager</receiver>
+   <slot>close()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>-1</x>
+     <y>-1</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>399</x>
+     <y>299</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+</ui>

@@ -1,0 +1,41 @@
+Stones found: PASS
+Rune materials found: PASS
+Runes found: PASS
+Bell, Book, and Candle found: PASS
+Bell, Book, and Candle imbued: PASS
+Bell, Book, and Candle used: PASS
+Horn found: PASS
+Horn imbued: PASS
+Three Part Key obtained: PASS
+Player is dead: PASS
+Player is alive: PASS
+Lord British not met: PASS
+Lord British met: PASS
+Player promoted to level 8: PASS
+Skull fragment found: PASS
+Skull fragment destroyed: PASS
+All virtues increased: PASS
+All virtues elevated: PASS
+Entered Shrine of Honesty: PASS
+Meditated for 1 cycle: PASS
+Meditated for 2 cycle: PASS
+Meditated for 3 cycle: PASS
+Elevated in Honesty: PASS
+Elevated in all virtues: PASS
+Player equipped Mystic Sword: PASS
+Player equipped Mystic Robe: PASS
+Entered Stygian Abyss: PASS
+Used Blue Stone in Abyss: PASS
+Used Yellow Stone in Abyss: PASS
+Used Red Stone in Abyss: PASS
+Used Green Stone in Abyss: PASS
+Used Orange Stone in Abyss: PASS
+Used Purple Stone in Abyss: PASS
+Used White Stone in Abyss: PASS
+Used Black Stone in Abyss: PASS
+Codex Word of Power given: PASS
+Codex Virtue test passed: PASS
+Codex Principle test passed: PASS
+Player achieved Avatarhood: PASS
+Codex Test Passed: PASS
+Completed Ultima 4

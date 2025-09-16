@@ -1,0 +1,3247 @@
+Joshua,0x1000005
+a wise mage,0x1000006
+job,0x1000007
+I can help.,0x1000008
+heal,0x1000009
+Well.,0x100000a
+help,0x100000b
+The riddle!,0x100000c
+ridd,0x100000d
+"If the eight philosophies of avatarhood combine into and are made from truth, love & courage...<q>More?<y>What one thing creates and is created by all truths, all love & all courage?<n>Oh.",0x100000e
+a guard,0x100000f
+a burly guard,0x1000010
+job,0x1000011
+I guard the castle and all within.,0x1000012
+heal,0x1000013
+Couldn't be better!,0x1000014
+guar,0x1000015
+I guard the castle!,0x1000016
+cast,0x1000017
+The castle is fair and strong!<q>Do you seek Lord British?<y>He is on the upper level in the throne room.<n>He will aid you if you are in need!,0x1000018
+Water,0x1000019
+water,0x100001a
+job,0x100001b
+I hold a secret.,0x100001c
+heal,0x100001d
+Fine.,0x100001e
+secr,0x100001f
+To what?,0x1000020
+alta,0x1000021
+"There are three altar rooms which connect the bottom levels of all eight dungeons!<q>More?<y>If the correct colors of stones are used in the altars, a key of three parts can be gained!<n>Oh.",0x1000022
+Shawn,0x1000023
+a shepherdess both strong and beautiful,0x1000024
+job,0x1000025
+I watch the water.,0x1000026
+heal,0x1000027
+Well.,0x1000028
+wate,0x1000029
+It brings me peace.,0x100002a
+peac,0x100002b
+"I come from a proud city.<q>Art thou proud?<y><@lose_humility>Hmmm.<n><@gain_humility>My towne was destroyed for its pride. The ruins lie on an isle at lat-K'J"" long-L'L""!",0x100002c
+Seesha,0x100002d
+an injured fighter,0x100002e
+job,0x100002f
+I fight for my country.,0x1000030
+heal,0x1000031
+I have a grievous wound.,0x1000032
+woun,0x1000033
+Deep.,0x1000034
+coun,0x1000035
+"Britannia.<q>Fight ye for Britannia?<y>Then seek out the smith named Zircon in Minoc for he made the mystic arms, only they will save thee in the abyss!<n>Hmm.",0x1000036
+Chuckles,0x1000037
+a bouncing jester,0x1000038
+job,0x1000039
+I am the royal jester.,0x100003a
+heal,0x100003b
+"Good, thanks.",0x100003c
+jest,0x100003d
+Welcome unto the Castle Britannia!<q>Hast thou an ankh?<y>Then enter in peace!<n>Then why art thou here?,0x100003e
+clue,0x100003f
+Speak ye unto the waters of the well and ask of altars!,0x1000040
+a guard,0x1000041
+a guard,0x1000042
+job,0x1000043
+A guard,0x1000044
+heal,0x1000045
+Excellent,0x1000046
+guar,0x1000047
+We guard the castle and its treasures.,0x1000048
+trea,0x1000049
+That is not your business.<q>Do you mean to steal?<y>I believe you will find that an unfruitful venture.<n>Then please leave at once!,0x100004a
+Sheila,0x100004b
+a solemn ranger,0x100004c
+job,0x100004d
+I search for the inner light.,0x100004e
+heal,0x100004f
+I am well.,0x1000050
+ligh,0x1000051
+Seek inner light in the shrines!,0x1000052
+shri,0x1000053
+Runes are needed to enter shrines!<q>Dost thou know of mantra?<y>Good.<n>The mantra are chants needed to focus thy thoughts while meditating.,0x1000054
+Landri,0x1000055
+a grim shepherd,0x1000056
+job,0x1000057
+I am here to warn thee!,0x1000058
+heal,0x1000059
+"I am fine, but thou must go back!",0x100005a
+warn,0x100005b
+Ahead lies a perilous place!,0x100005c
+peri,0x100005d
+Once thou enters thou may not return whence thee came!<q>Wilt thou go on?<y>Then thou art doomed!<n>That is good.,0x100005e
+"a person. I will not be pushed, filed, stamped, indexed, briefed, debriefed, or numbered.",0x100005f
+a stern man,0x1000060
+heal,0x1000061
+Top notch.,0x1000062
+resi,0x1000063
+Questions are a burden to others.,0x1000064
+ques,0x1000065
+Answers are a prison for oneself.,0x1000066
+Juliet,0x1000067
+a fair maiden,0x1000068
+job,0x1000069
+I can help thee.,0x100006a
+heal,0x100006b
+"Fine, thanks.",0x100006c
+help,0x100006d
+Seek ye to know how the eight virtues form into the three principles.<q>Know ye this?<y>Now the one!<n>Seek it!,0x100006e
+one,0x100006f
+Seek ye to know what one thing the three principles of virtue combine into!,0x1000070
+Jester Twin,0x1000071
+a dancing jester,0x1000072
+job,0x1000073
+To entertain.,0x1000074
+heal,0x1000075
+Perfectly hoppy!,0x1000076
+jest,0x1000077
+A jester needs a good bard!,0x1000078
+bard,0x1000079
+"Our bard is very good.<q>Dost thou like the music?<y>Then you should go to Britain, for there lives the best!<n>A shame, we do!",0x100007a
+a guard,0x100007b
+a burly guard,0x100007c
+job,0x100007d
+I guard the castle and my liege!,0x100007e
+heal,0x100007f
+Great!,0x1000080
+guar,0x1000081
+A guard must be a valiant warrior!<q>Art thou the most valiant warrior?<y><@lose_humility>Then thou should be a guard!<n><@gain_humility>Still flee not from battle!,0x1000082
+lieg,0x1000083
+I serve Lord British!,0x1000084
+Le Chef,0x1000085
+a person with a white hat,0x1000086
+job,0x1000087
+I am the chef.,0x1000088
+heal,0x1000089
+"Well.. All but my finger, which I cut!",0x100008a
+food,0x100008b
+"Food, glorious food, to cook is my life!",0x100008c
+cook,0x100008d
+Cooking is a practiced art.<q>Do you eat?<y>Then thou should try my soup!<n>Then thou must be a spiritualist!,0x100008e
+a reaper,0x100008f
+a reaper,0x1000090
+job,0x1000091
+I kill adventurers!,0x1000092
+heal,0x1000093
+"Not so good, no one to eat in here!",0x1000094
+kill,0x1000095
+There is a thing which can kill many!,0x1000096
+thin,0x1000097
+Knowledge of it is found at Buccaneer's Den!<q>Wilt thou seek this thing?<y>It will bring thee great power!<n>Then thou must be stupid.,0x1000098
+a nameless prisoner,0x1000099
+a ragged soul,0x100009a
+job,0x100009b
+I have none.,0x100009c
+heal,0x100009d
+Very poor.,0x100009e
+crim,0x100009f
+Crime is an evil thing!,0x10000a0
+pris,0x10000a1
+"Here I pay for my crimes!<q>Are you a pirate?<y><@lose_humility>You may never complete thy quests, for evil makes not an avatar!<n><@gain_humility>I hope that this is true!",0x10000a2
+Zorin,0x10000a3
+a wise mage,0x10000a4
+job,0x10000a5
+I am here to help thee.,0x10000a6
+heal,0x10000a7
+"I am old, very old....",0x10000a8
+help,0x10000a9
+Seek help in the castles!,0x10000aa
+cast,0x10000ab
+"Seek the Lycaeum, Empath Abbey, and Serpent's Castle!<q>Wilt thou go hither?<y>Find therein all named Antos and ask each for a bell, book, and candle!<n>Alas.",0x10000ac
+Lord Robert,0x10000ad
+a stately baron,0x10000ae
+job,0x10000af
+I rule this province.,0x10000b0
+heal,0x10000b1
+Very well.,0x10000b2
+prov,0x10000b3
+My Lady Marcy can tell thee more!,0x10000b4
+word,0x10000b5
+I know but one of three syllables.<q>Dost thou wish to know it now?<y>It is 'amo'. Seek ye now the other parts!<n>Perhaps another time.,0x10000b6
+Lady Marcy,0x10000b7
+a charming lady,0x10000b8
+job,0x10000b9
+I rule with my Lord.,0x10000ba
+heal,0x10000bb
+Well.,0x10000bc
+rule,0x10000bd
+This province.,0x10000be
+prov,0x10000bf
+Our people believe in love as a way of life and live it to the fullest!<q>Dost thou seek love?<y>Then may thou find it!<n>Then thou shalt not find it!,0x10000c0
+Suzanna,0x10000c1
+a lovely lady,0x10000c2
+job,0x10000c3
+I am a lady in waiting.,0x10000c4
+heal,0x10000c5
+Overworked!,0x10000c6
+lady,0x10000c7
+I serve Marcy.<q>Art thou allowed to be in here?<y>I doubt it! Thou should leave!<n>Thou should leave!,0x10000c8
+horn,0x10000c9
+"Ask the fighter and the paladin at the healer, for they have recently returned from Spiritwood!",0x10000ca
+Life.,0x10000cb
+an ankh,0x10000cc
+job,0x10000cd
+I resonate thoughts.,0x10000ce
+heal,0x10000cf
+I exist.,0x10000d0
+reso,0x10000d1
+What are thy thoughts?,0x10000d2
+love,0x10000d3
+The spirit of love is mightiest in the oak grove!<q>Dost though have a candle from the shrine of love?<y>Use it at the center of the grove!<n>Ask the bard beyond the secret passage!,0x10000d4
+the pass guard,0x10000d5
+a guard,0x10000d6
+job,0x10000d7
+I guard the passages.,0x10000d8
+heal,0x10000d9
+Fine.,0x10000da
+pass,0x10000db
+There is no danger.,0x10000dc
+dang,0x10000dd
+"Well not compared to a dungeon altar room!<q>Hast thou solved the altars?<y>Good.<n>From them a three part key is gained, needed to enter the chamber of the codex!",0x10000de
+a gate guard,0x10000df
+a guard,0x10000e0
+job,0x10000e1
+A gate guard,0x10000e2
+heal,0x10000e3
+Top notch.,0x10000e4
+gate,0x10000e5
+To the abbey.,0x10000e6
+abbe,0x10000e7
+"Here, in the oak grove many find the meaning of peace and love!<q>Art thou saturated with love?<y><@lose_humility>Then thou need not be here!<n><@gain_humility>Visit the small shrine within the abbey!",0x10000e8
+Derek the Bard,0x10000e9
+a young bard playing a lute,0x10000ea
+job,0x10000eb
+"I am a bard, I sing songs.",0x10000ec
+heal,0x10000ed
+Pretty good.,0x10000ee
+song,0x10000ef
+"Oh, all types.<q>Dost thou like this one?<y>Thanks, I just wrote it!<n>Alas, it was new.",0x10000f0
+cand,0x10000f1
+Search ye well the shrine of love found in a secret place hidden off Lock Lake!,0x10000f2
+Chinup,0x10000f3
+a small but stately child,0x10000f4
+job,0x10000f5
+I welcome thee unto the Abbey!<q>Art thou here in search of love?<y>Perhaps then the oak grove!<n>Oh.,0x10000f6
+heal,0x10000f7
+"Very well, thank you!",0x10000f8
+grov,0x10000f9
+A grove of oak.,0x10000fa
+oak,0x10000fb
+The people therein seek the wisdom of love!,0x10000fc
+Diane,0x10000fd
+a tall woman,0x10000fe
+job,0x10000ff
+I counsel those who enter the grove.,0x1000100
+heal,0x1000101
+Good.,0x1000102
+coun,0x1000103
+"Herein thou may find insights into love, within thyself or the others here in the grove.",0x1000104
+love,0x1000105
+Ask the others.<q>Art thou the most loving person?<y><@lose_humility>Doubtful!<n><@gain_humility>Strive for love!,0x1000106
+Benjamin,0x1000107
+a solemn bard,0x1000108
+job,0x1000109
+I relate love and compassion.,0x100010a
+heal,0x100010b
+Fine.<q>Art thou well?<y>Very good.<n>Too bad...,0x100010c
+love,0x100010d
+"When the three combine in eight ways, love alone is compassion.",0x100010e
+comp,0x100010f
+"Of the eight avatar attributes, compassion is derived from love alone.",0x1000110
+Deirdre,0x1000111
+"a druid, lost in thought",0x1000112
+job,0x1000113
+I ponder love and justice.,0x1000114
+heal,0x1000115
+Fine.<q>Art thou?<y>Most good.<n>I see.,0x1000116
+love,0x1000117
+"When three build eight, truth tempered by love becomes justice!",0x1000118
+just,0x1000119
+Justice is one of the eight avatar virtues and derives from truth and love.,0x100011a
+Thomas,0x100011b
+a hearty tinker,0x100011c
+job,0x100011d
+I am thinking of love's part in sacrifice.,0x100011e
+heal,0x100011f
+Fine.<q>Thyself?<y>Good.<n>Shame.,0x1000120
+love,0x1000121
+Love of others and the courage to face even death is self-sacrifice.,0x1000122
+sacr,0x1000123
+Sacrifice is built upon the motive of love and the ability of courage.,0x1000124
+Lastro,0x1000125
+a solemn ranger,0x1000126
+job,0x1000127
+I follow the spiritual path.,0x1000128
+heal,0x1000129
+Most well.<q>And thee?<y>Good.<n>So sad.,0x100012a
+spir,0x100012b
+"My spirituality is not a religion, but a searching to know and improve my own inner being.",0x100012c
+bein,0x100012d
+"My being is based on my own truth, love and courage.",0x100012e
+Humlock,0x100012f
+a mumbling beggar,0x1000130
+job,0x1000132
+I seek salvation.,0x1000133
+heal,0x1000134
+Not so good.,0x1000135
+mumb,0x1000136
+The...ankh... spoke to me!,0x1000137
+salv,0x1000138
+"I am but a poor, destitute beggar. I have nothing!<q>Will you give me some money?<y>I would be soooo grateful....<n>But I am in most dire need!",0x1000139
+Malchor,0x100013a
+a bold paladin,0x100013b
+job,0x100013c
+I solve quests.,0x100013d
+heal,0x100013e
+Just now fully healed!,0x100013f
+ques,0x1000140
+My last quest took me near Spiritwood.<q>Art thou on a quest?<y>Best of luck to thee!<n>Oh.,0x1000141
+horn,0x1000142
+Some say that the small isles off the tip of Spiritwood are rumored to be ancient daemon graveyards!,0x1000143
+Brother Antos,0x1000144
+a wise druid,0x1000145
+job,0x1000146
+I hold great wisdom.,0x1000147
+heal,0x1000148
+I am getting old and frail.,0x1000149
+wisd,0x100014a
+What dost thou ask of me?,0x100014b
+cand,0x100014c
+Thou dost need a candle imbued with the spirit of love to enter the abyss.<q>Dost thou know where to find one?<y>Very good.<n>Meditate on love at our shrine.,0x100014d
+Roland,0x100014e
+a bandaged fighter,0x100014f
+job,0x1000150
+I quest.<q>Been ye to Spiritwood?<y>'Tis a spooky place.<n>Don't go!,0x1000151
+heal,0x1000152
+I'll live.,0x1000153
+spir,0x1000154
+"To capture their power, 'tis said thou must blow a daemon horn where their hordes have unleashed great evil and destruction!",0x1000155
+horn,0x1000156
+The horns of ancient daemons can be imbued to hold great power!,0x1000157
+Robert Frasier,0x1000158
+a stately baron,0x1000159
+job,0x100015a
+I rule this province.,0x100015b
+heal,0x100015c
+Very well.,0x100015d
+prov,0x100015e
+My Lady Beth can tell thee more!,0x100015f
+word,0x1000160
+I know but one of three syllables.<q>Dost thou wish to know it now?<y>It is 'ver'! Seek ye now the other parts!<n>Perhaps another time.,0x1000161
+Beth Frasier,0x1000162
+a charming lady,0x1000163
+job,0x1000164
+I rule with my Lord.,0x1000165
+heal,0x1000166
+Well.,0x1000167
+rule,0x1000168
+This province.,0x1000169
+prov,0x100016a
+Our people believe in truth as a way of life and live it to the fullest!<q>Dost thou seek truth?<y>Then may thou find it!<n>Then thou shalt not find it!,0x100016b
+a guard,0x100016c
+a sleepy guard,0x100016d
+job,0x100016f
+"Guard the gate, guard the baron, guard the baroness, watch the towers....",0x1000170
+heal,0x1000171
+Very sleepy.,0x1000172
+guar,0x1000173
+I have been here for hours!,0x1000174
+hour,0x1000175
+"Yes, many hours!<q>See why I'm tired?<y>It's hard work and long hours in the baronial guard!<n>Bum!",0x1000176
+Palamar,0x1000177
+a wise old sage,0x1000178
+job,0x1000179
+"I am an old wizard, but have much to show!",0x100017a
+heal,0x100017b
+My bones ache but my mind is sharp!,0x100017c
+show,0x100017d
+Here in my telescope!,0x100017e
+tele,0x100017f
+Look for an eyepiece there by the end.<q>Dost thou see where?<y>Look into the eyepiece and thou shalt see!<n>Look!!!,0x1000180
+Father Antos,0x1000181
+"an old druid, who looks strangely familiar",0x1000182
+job,0x1000183
+I hold great knowledge.,0x1000184
+heal,0x1000185
+"Old and frail, I've seen many quests!",0x1000186
+know,0x1000187
+What is it you seek?,0x1000188
+book,0x1000189
+Seek ye a book on the subject of truth where other books lie.<q>Found ye this book?<y>Now imbue it with the spirit of truth!<n>Seek it!,0x100018a
+Jon,0x100018b
+a brawny guard,0x100018c
+job,0x100018d
+I guard the throne room.,0x100018e
+heal,0x100018f
+Bit tired.,0x1000190
+thro,0x1000191
+Throne of truth!,0x1000192
+trut,0x1000193
+"There are four townes that follow the principle of truth.<q>Know which?<y>Good!<n>There are eight possible combinations of the three principles, there are eight cities!",0x1000194
+Scatu,0x1000195
+a tall mage wearing strange armour,0x1000196
+job,0x1000197
+I advise.,0x1000198
+heal,0x1000199
+Well!,0x100019a
+advi,0x100019b
+Thou would be well advised to visit the Seer often!,0x100019c
+armo,0x100019d
+"I wear mystic armour.<q>Art thou a partial avatar?<y>When thou art eight parts avatar, seek Zircon in Minoc and ask of mystics!<n>Alas.",0x100019e
+Estro,0x100019f
+a short druid,0x10001a0
+job,0x10001a1
+Research.,0x10001a2
+heal,0x10001a3
+"Why I am fine, you too I hope.",0x10001a4
+rese,0x10001a5
+I am looking for a book on the subject of  justice!,0x10001a6
+just,0x10001a7
+There must be one here somewhere!<q>Hast thou never committed *any* crime!?<y><@lose_humility>I believe thou art boasting a lie!<n><@gain_humility>Then speak to the judge in Yew!,0x10001a8
+Tymus,0x10001a9
+a stately wizard,0x10001aa
+job,0x10001ab
+To welcome thee!,0x10001ac
+heal,0x10001ad
+"Very well, thanks!",0x10001ae
+welc,0x10001af
+"Yes, welcome to the Lycaeum, the keep of truth!<q>Know ye how many cities follow the principles of truth?<y>How many?<n>Travel and learn!",0x10001b0
+four,0x10001b1
+The dungeon altar rooms need four stones each!,0x10001b2
+a truth seeker.,0x10001b3
+a person lost in thought,0x10001b4
+job,0x10001b5
+I seek to know truth.,0x10001b6
+heal,0x10001b7
+I am in a meditative state.,0x10001b8
+trut,0x10001b9
+The principle upon which I meditate.,0x10001ba
+medi,0x10001bb
+"Meditate at each shrine for one, two and three cycles. Then shalt thou know the paths of goodness!",0x10001bc
+a fighter,0x10001bd
+an injured warrior,0x10001be
+job,0x10001bf
+None now!,0x10001c0
+heal,0x10001c1
+My wounds are grievous!,0x10001c2
+warr,0x10001c3
+No more!,0x10001c4
+woun,0x10001c5
+I lost in a dungeon altar room!<q>Hast thou seen one?<y>Notice that each of the three rooms connect to four dungeons each!<n>They connect the dungeons unto each other!,0x10001c6
+Lord Terence,0x10001c7
+a tall agile man,0x10001c8
+job,0x10001c9
+I am the librarian.,0x10001ca
+heal,0x10001cb
+I am well.,0x10001cc
+libr,0x10001cd
+Herein is the largest store of knowledge in Britannia except the codex!<q>Art thou looking for a book?<y>Which book?<n>Feel free to browse.,0x10001ce
+trut,0x10001cf
+There are many books here on the subject of truth. Look under 't'.,0x10001d0
+Zajac,0x10001d1
+a flighty jester,0x10001d2
+job,0x10001d3
+To entertain!,0x10001d4
+heal,0x10001d5
+Unhappy.,0x10001d6
+ente,0x10001d7
+"Ah, not now.",0x10001d8
+unha,0x10001d9
+Because my friend Chuckles won't tell me his secret!<q>Dost thou know chuckles?<y>Why dost thou not ask him for his clue!<n>He lives in the castle Britannia. Ask him of his clue!,0x10001da
+Catriona,0x10001db
+a strong guard,0x10001dc
+job,0x10001dd
+To watch the treasures.,0x10001de
+heal,0x10001df
+Very good.,0x10001e0
+trea,0x10001e1
+The treasures are of great value!,0x10001e2
+valu,0x10001e3
+"Yes, much gold.<q>Dost thou intend to steal?<y>I am required to stop thee.<n>Good, thou had me worried!",0x10001e4
+"Nigel, at thy service.",0x10001e5
+a noble wizard,0x10001e6
+job,0x10001e7
+I teach magical spells.,0x10001e8
+heal,0x10001e9
+Good enough.,0x10001ea
+spel,0x10001eb
+I have a specialty!<q>Dost thou know what it is?<y>What do I call the spell?<n>Sorry.,0x10001ec
+reca,0x10001ed
+"Yes, resurrection. It takes ash, ginseng, garlic, silk, bloodmoss, and mandrake!",0x10001ee
+Shylock the Meek,0x10001ef
+a pitiful beggar,0x10001f0
+job,0x10001f2
+I sit and beg oh... please...,0x10001f3
+heal,0x10001f4
+I am cold and sick! oh... please...<q>Wilt thou help me? Oh... please...<y>Oh... please...<n>Oh... please...,0x10001f5
+beg,0x10001f6
+"Yes, please give me money! Oh... please...",0x10001f7
+sick,0x10001f8
+I have the black plague!,0x10001f9
+Cally,0x10001fa
+a person lost in thought,0x10001fb
+job,0x10001fc
+I ponder the depths of the well of truth.,0x10001fd
+heal,0x10001fe
+Contemplative.,0x10001ff
+well,0x1000200
+It is more than just a deep-sea well.<q>Seek ye this well?<y>Find it northeast of Serpent's Castle.<n>Typical.,0x1000201
+trut,0x1000202
+The well is said to be the source of knowledge in this world.,0x1000203
+Sentri,0x1000204
+a stately baron,0x1000205
+job,0x1000206
+I rule this province.,0x1000207
+heal,0x1000208
+Very well.,0x1000209
+prov,0x100020a
+"Yes, these islands and much more.",0x100020b
+word,0x100020c
+"I know but one of three syllables-'cor'.<q>Dost thou know the four cities of courage?<y>Very good.<n>They are Jhelom, Minoc, Trinsic and Skara Brae.",0x100020d
+the gate guard.,0x100020e
+a very big guard,0x100020f
+job,0x1000210
+"Guard the gates, of course.",0x1000211
+heal,0x1000212
+Very strong!,0x1000213
+gate,0x1000214
+These are the gates to Serpent castle.,0x1000215
+guar,0x1000216
+"Guard, watch, protect.<q>Art thou here to find courage?<y>Then thou art at the right place.<n>Then perhaps to become a guard!",0x1000217
+Lassorn,0x1000218
+a wounded sailor,0x1000219
+job,0x100021a
+I am a sailor.,0x100021b
+heal,0x100021c
+I alone survived the shipwreck.,0x100021d
+ship,0x100021e
+The H.M.S. Cape.<q>Ever heard of her?<y>She had a courageous crew!<n>She was a mighty vessel!,0x100021f
+whee,0x1000220
+She went down in the deep waters of the bay in the Cape of Heroes!,0x1000221
+Roark,0x1000222
+a seasoned fighter,0x1000223
+job,0x1000224
+I fight for Britannia!,0x1000225
+heal,0x1000226
+Just healed.<q>Art thou well?<y>Then strive to find the secrets of the abyss.<n>Thou hast come to the right place.,0x1000227
+abys,0x1000228
+The Great Stygian Abyss holds the codex of ultimate wisdom!,0x1000229
+code,0x100022a
+I know little.,0x100022b
+a ranger.,0x100022c
+a ranger engrossed in training,0x100022d
+job,0x100022e
+I am training!,0x100022f
+heal,0x1000230
+Excellent.,0x1000231
+trai,0x1000232
+I train so that I might survive the dungeons!,0x1000233
+dung,0x1000234
+"I plan to conquer the secret of the altar rooms.<q>Dost thou?<y>Ask our teacher about the rooms, for she knowns much!<n>Wimp.",0x1000235
+Shyra,0x1000236
+the training master,0x1000237
+job,0x1000238
+I train warriors to fight with courage!,0x1000239
+heal,0x100023a
+Prime.,0x100023b
+trai,0x100023c
+Train well and thy courage can grow with confidence.<q>Wilt thou train?<y>Bravo!<n>Pity.,0x100023d
+room,0x100023e
+"In the altar room of courage use the red, orange, purple and white stones!",0x100023f
+a baronial guard,0x1000240
+a stern guard,0x1000241
+job,0x1000242
+I guard our lord,0x1000243
+heal,0x1000244
+Most good.,0x1000245
+lord,0x1000246
+"Sentri rules this castle.<q>Dost thou wish an audience with Sentri?<y>Granted, enter.<n>Then do not disturb him.",0x1000247
+cast,0x1000248
+This castle is built on courage.,0x1000249
+a treasure guard,0x100024a
+a burly guard,0x100024b
+job,0x100024c
+We guard our lord's treasure.,0x100024d
+heal,0x100024e
+Excellent.,0x100024f
+trea,0x1000250
+This treasure is not for thee<q>Dost thou intend to steal our lord's treasure?<y>Fool!<n>Wise move!,0x1000251
+dung,0x1000252
+Seek out Durham for knowledge of dungeons.,0x1000253
+Garam,0x1000254
+a bold fighter,0x1000255
+job,0x1000256
+I fight with courage!<q>Dost thou?<y>Good.<n>Then train!,0x1000257
+heal,0x1000258
+Quite well.,0x1000259
+cour,0x100025a
+Courage makes kings out of knaves!,0x100025b
+bell,0x100025c
+Seek ye where the courageous train!,0x100025d
+Durham,0x100025e
+a tall fighter,0x100025f
+job,0x1000260
+I quest for glory!,0x1000261
+heal,0x1000262
+Fairly well.,0x1000263
+ques,0x1000264
+I feel that when on a quest my life has purpose!<q>Art thou on a quest?<y>Then thy life has meaning!<n>What a loss.,0x1000265
+dung,0x1000266
+The altar room of courage gives the third part of a key.,0x1000267
+Lori,0x1000268
+a buxom guard,0x1000269
+job,0x100026a
+I guard this passage.<q>Art thou looking for someone?<y>Who?<n>Then be on thy way!,0x100026b
+heal,0x100026c
+"So far, so good.",0x100026d
+gara,0x100026e
+He is in the west chamber.,0x100026f
+durh,0x1000270
+He is in the east chamber.,0x1000271
+Samuel,0x1000272
+a handsome guard,0x1000273
+job,0x1000274
+I guard this passage.<q>Art thou looking for someone?<y>Who?<n>Then be on thy way!,0x1000275
+heal,0x1000276
+"So far, so good.",0x1000277
+gara,0x1000278
+He is in the west chamber.,0x1000279
+durh,0x100027a
+He is in the east chamber.,0x100027b
+Roderick,0x100027c
+"a destitute, stinking beggar",0x100027d
+job,0x100027f
+I cannot work.,0x1000280
+heal,0x1000281
+I've lost a hand!,0x1000282
+hand,0x1000283
+It was eaten by a zorn.<q>Wilt thou give me gold?<y>Thou art kind.<n>Stingy!,0x1000284
+orbs,0x1000285
+"Dungeon orbs will raise thy strength, dexterity or intelligence, but at a cost!",0x1000286
+Sister Antos,0x1000287
+a wise druid,0x1000288
+job,0x1000289
+I have important information.,0x100028a
+heal,0x100028b
+Well enough.,0x100028c
+info,0x100028d
+On what subject?,0x100028e
+bell,0x100028f
+"A bell from the foundations of courage is needed to enter the abyss.<q>Dost thou have one?<y>Seek ye to imbue it with the spirit of courage.<n>Then ask Garam, for he can help thee!",0x1000290
+Noxum,0x1000291
+a spiny nixie!,0x1000292
+job,0x1000293
+I swim the seas!,0x1000294
+heal,0x1000295
+Nice and wet!,0x1000296
+seas,0x1000297
+There are many ships at the bottom!,0x1000298
+ship,0x1000299
+A survivor would know where to search.<q>Hast thou heard of the H.M.S. Cape?<y>The hull of any ship that nears her wreckage becomes magically strengthened!<n>She had a magical wheel that would strengthen her hull!,0x100029a
+Michelle,0x100029b
+a beautiful paladin!,0x100029c
+job,0x100029d
+I welcome thee unto Serpent Castle!,0x100029e
+heal,0x100029f
+"Very well.<q>Art thou well?<y>Very good, perhaps thou seeks Sentri.<n>Then thou should visit Windwalker!",0x10002a0
+sent,0x10002a1
+"He is the lord here, take the north passage.",0x10002a2
+wind,0x10002a3
+"Windwalker is our healer, found straight ahead and on the right.",0x10002a4
+Roofus,0x10002a5
+a mean looking guard,0x10002a6
+job,0x10002a8
+We guard the bridge slime!,0x10002a9
+heal,0x10002aa
+What's it to ya scumpuppy!,0x10002ab
+brid,0x10002ac
+This bridge ya stupid jerk!<q>Art thou a wise &##!?<y>Thou had best ditch it then!<n>Then just buzz off!,0x10002ad
+Rankbreath,0x10002ae
+"a tall, muscular, impressive guard",0x10002af
+job,0x10002b1
+I am a guard.,0x10002b2
+heal,0x10002b3
+Very hungry!,0x10002b4
+guar,0x10002b5
+I guard the city!,0x10002b6
+hung,0x10002b7
+"Yes, I am very hungry!<q>Art thou here to feed me?<y>I am grateful.<n>Then thou had better run!!!",0x10002b8
+Sailor,0x10002b9
+a scruffy sailor,0x10002ba
+job,0x10002bb
+I am a sailor!,0x10002bc
+heal,0x10002bd
+Salty.,0x10002be
+sail,0x10002bf
+"Oh, a sailor's life is the life for me...",0x10002c0
+life,0x10002c1
+"As I sail across the bounding sea!<q>The rest?<y>And never ever ever do I worry 'bout the weather, for the weather never ever did a thing for me!<n>Oh.",0x10002c2
+Silver John,0x10002c3
+a tall sailor,0x10002c4
+job,0x10002c5
+I'm a pirate matey!,0x10002c6
+heal,0x10002c7
+"Good enough, eh!",0x10002c8
+pira,0x10002c9
+"We raid the coasts of Britannia, fun eh!<q>Art thou a pirate?<y><@lose_humility>Good matey!<n><@gain_humility>Thou had best leave this place 'fore there's any trouble!",0x10002ca
+raid,0x10002cb
+Pillage and burn!,0x10002cc
+Slysam,0x10002cd
+a nimble thief,0x10002ce
+job,0x10002cf
+What's it to thee?,0x10002d0
+heal,0x10002d1
+As good as I need be!,0x10002d2
+thie,0x10002d3
+"Yea, and clever too.",0x10002d4
+clev,0x10002d5
+"Thou dost ask too many questions!<q>Art thou a thief?<y>Oh, I'd better watch out!<n>Just as I thought",0x10002d6
+Ragnar,0x10002d7
+a solemn ranger,0x10002d8
+job,0x10002d9
+I travel.,0x10002da
+heal,0x10002db
+O.K.,0x10002dc
+trav,0x10002dd
+The lands of Britannia.<q>Art thou here looking for information?<y>On what?<n>Then buzz off.,0x10002de
+shar,0x10002df
+"Be warned that if thou dost ever use a shard from Mondain's Gem, except to destroy it, all thy virtues will be lost!",0x10002e0
+Seanna,0x10002e1
+a slinky mage,0x10002e2
+job,0x10002e3
+"I am a sorceress<q>My dear friend, may I help you?<y>How about with thy magic?<n>Ah",0x10002e4
+heal,0x10002e5
+I am well.,0x10002e6
+magi,0x10002e7
+How about the sleep spell... sleep... sleep....,0x10002e8
+slee,0x10002e9
+A sleep spell requires but one part silk! sleep... sleep... sleep...,0x10002ea
+Jeremy James Scirlock,0x10002eb
+a sneaky thief!,0x10002ec
+job,0x10002ed
+At thy service!,0x10002ee
+heal,0x10002ef
+Very well!,0x10002f0
+serv,0x10002f1
+How about information?<q>Dost thou seek a special dungeon?<y>Which?<n>I cannot help thee.,0x10002f2
+hyth,0x10002f3
+The dungeon Hythloth can be reached by a secret entrance in the great castle.,0x10002f4
+Starlight,0x10002f5
+a mage dressed all in black,0x10002f6
+job,0x10002f7
+I use black magic!,0x10002f8
+heal,0x10002f9
+Dark indeed.,0x10002fa
+magi,0x10002fb
+I cast powerful magic missile spells.<q>Dost thou?<y>Thou should try my mix of reagents!<n>Too bad.,0x10002fc
+mix,0x10002fd
+Try one black pearl and one part sulfurous ash!,0x10002fe
+Brigant,0x10002ff
+a big fat troll,0x1000300
+job,0x1000302
+"Aw, buzz off!",0x1000303
+heal,0x1000304
+Shove it!<q>Did thou hear me?<y>Then do it!<n>I said shove it!,0x1000305
+it,0x1000306
+Thy face!,0x1000307
+Boris,0x1000308
+an ugly orc!,0x1000309
+job,0x100030a
+I smuggle black market items.,0x100030b
+heal,0x100030c
+Good'n smelly.,0x100030d
+item,0x100030e
+"Magic keys, magic gems, that sort of thing.<q>Dost thou need such an item?<y>I just gave the guild shop a new supply!<n>Ah well, maybe next time.",0x100030f
+Ignap,0x1000310
+a towering wizard,0x1000311
+job,0x1000312
+I must warn thee!,0x1000313
+heal,0x1000314
+Adequate.,0x1000315
+warn,0x1000316
+To step into those woods will seal thy doom!,0x1000317
+doom,0x1000318
+"In there lies the dark side, enter not!<q>Shalt thou go on?<y>Evil shall consume thee!<n>Wise decision!",0x1000319
+Green Beard,0x100031a
+a tall pirate with a green beard!,0x100031b
+job,0x100031c
+I'm buying armour for my crew!,0x100031d
+heal,0x100031e
+Jolly good mate!,0x100031f
+armo,0x1000320
+I hope to get some magical plate!<q>Know where to buy mystic armour?<y>Where?<n>Wish I did!,0x1000321
+nowh,0x1000322
+"Oh, I see.",0x1000323
+Marsor,0x1000324
+a plump merchant,0x1000325
+job,0x1000326
+I sell wine!,0x1000327
+heal,0x1000328
+Great!,0x1000329
+wine,0x100032a
+I have some good vintages.,0x100032b
+vint,0x100032c
+"I own my own vineyards they are on an isle northeast of here!<q>Dost thou like wine?<y>Ah, then join me in a glass!<n>Don't know what thou art missing!",0x100032d
+Dancek,0x100032e
+a jolly old soul,0x100032f
+job,0x1000330
+I am a tinker by trade.,0x1000331
+heal,0x1000332
+"Jolly good, thanks.",0x1000333
+tink,0x1000334
+I create projectile machinery.,0x1000335
+mach,0x1000336
+Primarily ship cannons!<q>Dost thou own a ship!<y>Good odds I built the cannons!<n>Thou really should get one!,0x1000337
+Sniflet,0x1000338
+a cowering man,0x1000339
+job,0x100033a
+I am hiding.,0x100033b
+heal,0x100033c
+O.K. for now.,0x100033d
+hide,0x100033e
+I know something others want!,0x100033f
+some,0x1000340
+"I... I...<q>Wilt thou promise to use it only to aid the powers of good?<y>The lighter than air device that was stolen lies near the dungeon Hythloth!<n>Oh, no.",0x1000341
+Allen,0x1000342
+a small boy,0x1000343
+job,0x1000344
+I know how to find the abyss!,0x1000345
+heal,0x1000346
+I am fine.,0x1000347
+abys,0x1000348
+The abyss may only be approached by ship!,0x1000349
+ship,0x100034a
+Look for the entrance beyond the Pirate's Cove!<q>Wouldst thou like to know more?<y>Ask Blissful of the abyss.<n>Sorry to bore thee.,0x100034b
+Frontis,0x100034c
+a small druid,0x100034d
+job,0x100034e
+"Welcome to Cove, the hidden city of wisdom.",0x100034f
+heal,0x1000350
+"I am well.<q>Art thou well?<y>Very good.<n>Visit our healers, I am sure they can help thee!",0x1000351
+wisd,0x1000352
+Herein is found much wisdom and peace.,0x1000353
+peac,0x1000354
+Find peace in our shrine.,0x1000355
+Sloven,0x1000356
+an old hermit,0x1000357
+job,0x1000358
+I am a recluse.,0x1000359
+heal,0x100035a
+I am well.,0x100035b
+recl,0x100035c
+I have withdrawn from society.,0x100035d
+ston,0x100035e
+Only the ghost of Isaac who haunts the inn at Skara Brae can tell thee.<q>Hast thou seen him?<y>Ask him!<n>Stay at the inn until he shows himself!,0x100035f
+Mentorian,0x1000360
+a tall wizard,0x1000361
+job,0x1000362
+I study the magical arts.,0x1000363
+heal,0x1000364
+Well indeed.,0x1000365
+arts,0x1000366
+"There is truth in magic!<q>Dost thou disagree?<y>Well then, begone!<n>Good.",0x1000367
+gate,0x1000368
+"Since thou dost bear the ankh I shall tell thee. A gate spell requires ash, pearl, and mandrake root!",0x1000369
+the ankh,0x100036a
+a shining ankh!,0x100036b
+job,0x100036c
+I resonate with thoughts.<q>Dost thou seek help?<y>What are thy thoughts?<n>Oh.,0x100036d
+heal,0x100036e
+Bright.,0x100036f
+code,0x1000370
+To enter the codex chamber...,0x1000371
+cham,0x1000372
+"One must be eight parts avatar, have the key of three parts, the word of passage and know the pure axiom!",0x1000373
+Paul,0x1000374
+a strangely familiar bard,0x1000375
+job,0x1000376
+I play of love.<q>Wilt thou listen?<y>About love.<n>Too bad.,0x1000377
+heal,0x1000378
+I am well.,0x1000379
+love,0x100037a
+"I light a candle to our love, in love our problems disappear.",0x100037b
+prob,0x100037c
+But all in all we soon discover that one and one is all we long to hear!,0x100037d
+Linda,0x100037e
+a singer,0x100037f
+job,0x1000380
+I sing of the children.,0x1000381
+heal,0x1000382
+Fine.,0x1000383
+chil,0x1000384
+"All round the world, little children being born to the world.",0x1000385
+worl,0x1000386
+"Got to give them all we can 'til the quest is won, then will the work be done!<q>Wilt thou help?<y>Teach them songs of joy!<n>Hmm.",0x1000387
+Merlin,0x1000388
+a mystical wizard,0x1000389
+job,0x100038a
+I use magic.<q>Dost thou study magic?<y>Best of luck with thy studies!<n>Too bad.,0x100038b
+heal,0x100038c
+Fine.,0x100038d
+ston,0x100038e
+The black stones are caught in a moon gate!,0x100038f
+gate,0x1000390
+Stand where the gate of both moons dark shall appear. Search when the moons go dark!,0x1000391
+Draconian,0x1000392
+an old druid,0x1000393
+job,0x1000394
+I teach the relation.<q>Knew ye this?<y>Very good!<n>Learn the towns and castles!,0x1000395
+heal,0x1000396
+I am well.,0x1000397
+rela,0x1000398
+"There are eight possible combinations of truth, love and courage. Each of the eight virtues is one of those combinations!",0x1000399
+Blissful,0x100039a
+a majestic seahorse!,0x100039b
+job,0x100039c
+I know much of the codex!,0x100039d
+heal,0x100039e
+I am doing well.,0x100039f
+code,0x10003a0
+The shrine ankh knows how to enter the chamber of the codex!,0x10003a1
+abys,0x10003a2
+"Meditate at the shrines of honesty, compassion and valor for three cycles to learn how to enter!",0x10003a3
+Rabindranath tagore,0x10003a4
+a wise man,0x10003a5
+job,0x10003a6
+I speak of love.<q>Dost thou seek to carry love in thy heart?<y>Thou art a good soul.<n>Thou art a fool.,0x10003a7
+heal,0x10003a8
+I am old but strong!,0x10003a9
+love,0x10003aa
+"In love, all life's contradictions dissolve and disappear.",0x10003ab
+hear,0x10003ac
+Carry love within it!,0x10003ad
+Brother Zair,0x10003ae
+an old druid,0x10003af
+job,0x10003b0
+I sit and watch the river.,0x10003b1
+heal,0x10003b2
+I am well.,0x10003b3
+rive,0x10003b4
+It flows endlessly.<q>Agree?<y>Good.<n>Indeed.,0x10003b5
+word,0x10003b6
+The kings of the castles which represent the three principles of virtue each know but one syllable of the word of passage!,0x10003b7
+Spellbind,0x10003b8
+a slender mage,0x10003b9
+job,0x10003ba
+I know of the codex.,0x10003bb
+heal,0x10003bc
+Well indeed.,0x10003bd
+code,0x10003be
+One must know the combination of the three principles of virtue!,0x10003bf
+comb,0x10003c0
+The combination of the three principles of virtue equals the measure of time and space!,0x10003c1
+Shaman,0x10003c2
+a tall mage,0x10003c3
+job,0x10003c4
+I study the 'one' thing that is the secret to the codex!,0x10003c5
+heal,0x10003c6
+Quite well.,0x10003c7
+stud,0x10003c8
+I study of the codex!,0x10003c9
+code,0x10003ca
+"The one pure axiom is more endless than the changing tides, more eternal than day and night!",0x10003cb
+Charm,0x10003cc
+a fair sorceress,0x10003cd
+job,0x10003ce
+I ponder the key to the axiom.,0x10003cf
+heal,0x10003d0
+Well enough.,0x10003d1
+key,0x10003d2
+To the axiom.,0x10003d3
+axio,0x10003d4
+"The one pure axiom encompasses all things.<q>Know ye what they are?<y>Good.<n>The truths of the universe, the love of the heart, and the courage of the soul!",0x10003d5
+Circe,0x10003d6
+a wise mage,0x10003d7
+job,0x10003d8
+I teach of the axiom!,0x10003d9
+heal,0x10003da
+Well.,0x10003db
+axio,0x10003dc
+The whole of the axiom is greater than all its parts!,0x10003dd
+part,0x10003de
+"The measure of unending love, the limitless courage needed to face all obstacles, and the truth which encompasses all things!",0x10003df
+Wilmoore,0x10003e0
+a very big guard,0x10003e1
+job,0x10003e2
+I am the chief guard in the village of Paws!,0x10003e3
+heal,0x10003e4
+Excellent.,0x10003e5
+guar,0x10003e6
+Paws is a great village and we keep it safe!<q>Dost thou mean to cause trouble?<y>Then thou had best leave!<n>Good.,0x10003e7
+trou,0x10003e8
+Pirates come from an isle to the east!,0x10003e9
+Francesca,0x10003ea
+a tough girl,0x10003eb
+job,0x10003ec
+I am the stable hand.,0x10003ed
+heal,0x10003ee
+Right good.,0x10003ef
+stab,0x10003f0
+Watch out for ol' Red Eye!<q>Ya haven't come to steal a horse I hope?<y>Well the master ain't gonna like that much!<n>Then must be to see Smith!,0x10003f1
+smit,0x10003f2
+The talking horse!,0x10003f3
+Sven,0x10003f4
+a tall burly man,0x10003f5
+job,0x10003f6
+"I'm a lumberjack, ya.",0x10003f7
+heal,0x10003f8
+"Fine, thanks.",0x10003f9
+lumb,0x10003fa
+"Wit' my axe, I can chop'm down quick, ya.",0x10003fb
+axe,0x10003fc
+"It's a big axe, ya.<q>Art ya a lumberjack?<y>Good for you, ya.<n>Build up those arms, ya!",0x10003fd
+Zair the Wise,0x10003fe
+a man of many years,0x10003ff
+job,0x1000400
+I've been near the codex!,0x1000401
+heal,0x1000402
+Well.,0x1000403
+code,0x1000404
+Its secrets are boundless!<q>Seen it?<y>Wow!<n>Seek it!,0x1000405
+word,0x1000406
+A three part key and a word of passage are needed to enter the chamber. Ask my brother beyond Lock Lake of the word!,0x1000407
+Sal,0x1000408
+a very large woman,0x1000409
+job,0x100040a
+"I am the barmaid, I serve the ale!",0x100040b
+heal,0x100040c
+Stronger every day!,0x100040d
+ale,0x100040e
+We have the finest brew in Britannia!,0x100040f
+brew,0x1000410
+"We serve only Folley on tap!<q>Dost thou favor Folley?<y>A great mug if I may say so!<n>Too bad, it's the best!",0x1000411
+Jingles,0x1000412
+a young mage!,0x1000413
+job,0x1000414
+I seek the wisdom of magic.,0x1000415
+heal,0x1000416
+Fine.,0x1000417
+magi,0x1000418
+My master knows the gate travel spell!,0x1000419
+mast,0x100041a
+"My master is Mentorian.<q>Dost thou know him?<y>Good.<n>He lives in a hidden village near Lock Lake, reachable only by ship. Ask of the gate spell!",0x100041b
+Sir Hobie,0x100041c
+a tall muscular knight,0x100041d
+job,0x100041e
+I serve Lord British.,0x100041f
+heal,0x1000420
+Tired and hungry but always faithful.,0x1000421
+fait,0x1000422
+I quest always for Britannia!,0x1000423
+ques,0x1000424
+My quest is to defeat the evils of the world.<q>'tis thy quest also?<y>We are as one.<n>A shame it is!,0x1000425
+Damsel,0x1000426
+a small druid,0x1000427
+job,0x1000428
+I am here to buy food.,0x1000429
+heal,0x100042a
+A bit hungry.,0x100042b
+food,0x100042c
+"Yes, I hear they have the best rations here.",0x100042d
+rati,0x100042e
+Take plenty when exploring the dungeons.<q>Dost thou travel in the depths?<y>In the great castle there is a secret entrance!<n>Probably a wimp.,0x100042f
+Wheatpin,0x1000430
+a meek shepherd,0x1000431
+job,0x1000432
+I just sit here.,0x1000433
+heal,0x1000434
+Fine.<q>Art thou looking for something?<y>What?<n>I see.,0x1000435
+Barren,0x1000436
+a hooded ranger,0x1000437
+job,0x1000438
+I travel the land.,0x1000439
+heal,0x100043a
+I am well.,0x100043b
+land,0x100043c
+Britannia.<q>Art thou dim?<y>I thought so.<n>We shall see.,0x100043d
+Pix,0x100043e
+a small girl,0x100043f
+job,0x1000440
+What's a job?,0x1000441
+heal,0x1000442
+"Good, thanks.<q>And thee?<y>Good.<n>Too bad.",0x1000443
+Sir Simon,0x1000444
+a wise lord,0x1000445
+job,0x1000446
+I am the keeper.,0x1000447
+heal,0x1000448
+I am fine.,0x1000449
+keep,0x100044a
+Of what I cannot say!,0x100044b
+zirc,0x100044c
+Mystics can be found by an eight parts avatar!<q>Hast thou attained enlightenment in all eight virtues?<y>Mystic armour can be found in the eastern treasure room of Serpent's Hold!<n>Alas.,0x100044d
+Lady Tessa,0x100044e
+a wise lady,0x100044f
+job,0x1000450
+I am the keeper.,0x1000451
+heal,0x1000452
+Well.,0x1000453
+keep,0x1000454
+I cannot say.,0x1000455
+zirc,0x1000456
+Mystics can be found by an eight parts avatar!<q>Hast thou attained enlightenment in all eight virtues?<y>Mystic weapons lie in the western treasure room of Serpent's Hold!<n>Alas.,0x1000457
+Asemly,0x1000458
+a short jester,0x1000459
+job,0x100045a
+I am here to serve thee.,0x100045b
+heal,0x100045c
+Jolly good.,0x100045d
+serv,0x100045e
+"Well, I can dance and sing!<q>Does that interest thee?<y>Good!<n>Well then, I guess I'm no help at all then.",0x100045f
+danc,0x1000460
+"And sing, tra la la...",0x1000461
+Little Jon,0x1000462
+a singing bard,0x1000463
+job,0x1000464
+I sing of Britannia.,0x1000465
+heal,0x1000466
+Quite well indeed!,0x1000467
+brit,0x1000468
+"Britannia is a land so fair, to other lands I would not dare!<q>I hear that thou art from another world?<y>What is it called?<n>Just a rumor.",0x1000469
+eart,0x100046a
+I hope someday thou may return!,0x100046b
+Smith,0x100046c
+a white stallion,0x100046d
+job,0x100046e
+"Oh, not much to tell.",0x100046f
+heal,0x1000470
+"Good, good.",0x1000471
+tell,0x1000472
+"The one way is Love, Sol, Moons & Death. All else fails!",0x1000473
+clue,0x1000474
+"The one way is Love, Sol, Moons & Death. All else fails!",0x1000475
+Twin Gates,0x1000476
+a tall mage,0x1000477
+job,0x1000478
+We welcome thee to Vesper.,0x1000479
+heal,0x100047a
+Well.,0x100047b
+vesp,0x100047c
+"Yes, Vesper is a fair village.<q>Hast thou come a long way?<y>We are honored by the visit of one on the quest!<n>We are honored by the visit of one on the quest!",0x100047d
+welc,0x100047e
+"Welcome, unto Vesper!",0x100047f
+Guard,0x1000480
+a hulk,0x1000481
+job,0x1000482
+"Ug, me tough!",0x1000483
+heal,0x1000484
+"Ug, me tough!",0x1000485
+toug,0x1000486
+"Ug, me tough!",0x1000487
+ug,0x1000488
+"Me tough!<q>Ug, thee tough?<y>Ug, thee tough!<n>Ug, me tough!",0x1000489
+Servile,0x100048a
+a meek shepherd,0x100048b
+job,0x100048c
+I can help thee!,0x100048d
+heal,0x100048e
+Well for now.,0x100048f
+help,0x1000490
+"I know of the shards of the Mondain's Gem!<q>Hast thou heard of them?<y>If thou dost have one, seek ye to destroy it!<n>They are evil artifacts!",0x1000491
+skul,0x1000492
+"To use one for any reason is a sign of great evil, and no virtue!",0x1000493
+Traveling Dan,0x1000494
+short rotund man with a hat and vest,0x1000495
+job,0x1000496
+"Traveling dan, the tinker man.",0x1000497
+heal,0x1000498
+"I am fine, thank thee.",0x1000499
+tink,0x100049a
+I am here to repair goods at the guild shop.<q>Been to the guild shop?<y>Great selection!<n>Best prices!,0x100049b
+trav,0x100049c
+I know the world is round!,0x100049d
+Balthasar,0x100049e
+a sturdy peasant,0x100049f
+job,0x10004a0
+I am a serf.,0x10004a1
+heal,0x10004a2
+I'm pooped.,0x10004a3
+serf,0x10004a4
+Serfs work hard for little pay!,0x10004a5
+work,0x10004a6
+I work the fields for my master!<q>Dost thou have a master?<y>I hope he or she is a kind one!<n>Thou art lucky indeed!,0x10004a7
+Plain,0x10004a8
+a small man,0x10004a9
+job,0x10004aa
+I seek humility.,0x10004ab
+heal,0x10004ac
+I am fully healed.,0x10004ad
+humi,0x10004ae
+"When the three principles of virtue combine in eight ways, pride has no virtue!",0x10004af
+prid,0x10004b0
+"To be proud is not a virtue, and so Magincia was destroyed! Humility is the virtue that remains!",0x10004b1
+Simple,0x10004b2
+a slender shepherdess,0x10004b3
+job,0x10004b4
+I seek the shrine.,0x10004b5
+heal,0x10004b6
+I am fine.,0x10004b7
+shri,0x10004b8
+The shrine of humility!,0x10004b9
+humi,0x10004ba
+The shrine lies on the north bank of the isle of the abyss and is guarded by a horde of daemons!<q>Know the isle?<y>Good.<n>Southeast of Britannia!,0x10004bb
+Gem,0x10004bc
+a fair woman,0x10004bd
+job,0x10004be
+I do humble works.,0x10004bf
+heal,0x10004c0
+I am doing well.,0x10004c1
+work,0x10004c2
+I can help thee with the mantra!,0x10004c3
+mant,0x10004c4
+"Since humility is the opposite of pride, so is its mantra!<q>Know ye the mantra of pride?<y>Then reverse it for humility!<n>When thou dost, reverse it!",0x10004c5
+Joseph,0x10004c6
+a wise shepherd,0x10004c7
+job,0x10004c8
+I am but a humble shepherd.,0x10004c9
+heal,0x10004ca
+I am well.,0x10004cb
+shep,0x10004cc
+I am on a pilgrimage unto the shrine of humility!<q>Did thou know that there is no shrine of pride?<y>Very good.<n>Pride is not a virtue of the avatar!,0x10004cd
+shri,0x10004ce
+It is on the dark island!,0x10004cf
+Friday,0x10004d0
+a beautiful and impressive guard,0x10004d1
+job,0x10004d2
+I shall warn thee against taking this gold!<q>Dost thou intend to take it?<y>That would not reflect well upon thy virtues!<n>That is good.,0x10004d3
+heal,0x10004d4
+I am well enough!,0x10004d5
+gold,0x10004d6
+It is not thine!,0x10004d7
+warn,0x10004d8
+It is not thine!,0x10004d9
+Randal,0x10004da
+a solemn ranger,0x10004db
+job,0x10004dc
+I teach of the shrines.,0x10004dd
+heal,0x10004de
+I am well.,0x10004df
+shri,0x10004e0
+"One >must< visit each shrine for one, two & three cycles each for thy paths to be clear!<q>Dost thou visit them often?<y>Very good.<n>Make that the first goal along thy path to avatarhood!",0x10004e1
+Dirgen,0x10004e2
+a wise man,0x10004e3
+job,0x10004e4
+I give wise counsel.,0x10004e5
+heal,0x10004e6
+Well.,0x10004e7
+coun,0x10004e8
+Strive ye to know and develop the virtue within thee.,0x10004e9
+virt,0x10004ea
+The Seer Hawkwind should be consulted >often< for he can see within thee!<q>Dost thou?<y>Good!<n>Thou shalt surely stray from the path!,0x10004eb
+Shazbot,0x10004ec
+a funny jester,0x10004ed
+job,0x10004ee
+"Thou thinks I'm funny!<q>Don't thou?<y>Well good, I try to be!<n>Ah, too bad, I thought I was.",0x10004ef
+heal,0x10004f0
+I've a slight tickle!,0x10004f1
+funn,0x10004f2
+I dare thee to ask me about Nate the snake!,0x10004f3
+nate,0x10004f4
+"Well, it's a long story and we haven't the time.",0x10004f5
+Flatbush,0x10004f6
+a slender youth,0x10004f7
+job,0x10004f8
+I am an apprentice mage!,0x10004f9
+heal,0x10004fa
+I am very powerful!,0x10004fb
+mage,0x10004fc
+I am Calumny's favorite!,0x10004fd
+calu,0x10004fe
+He lives in Yew!<q>Hast thou been to Yew?<y>Calumny knows the quickness spell!<n>Calumny knows the quickness spell! Seek him out!,0x10004ff
+Corkrin,0x1000500
+a bold paladin,0x1000501
+job,0x1000502
+I travel these fair lands to spread the virtues!,0x1000503
+heal,0x1000504
+I am fully healed!,0x1000505
+virt,0x1000506
+"To know thy progress on the paths of virtue, one >must< visit the Seer Hawkwind often!<q>Dost thou do this?<y>Good.<n>Thou must or thou may stray!",0x1000507
+Dyka,0x1000508
+a tall nimble man,0x1000509
+job,0x100050a
+"I am a thief, I like to borrow!",0x100050b
+heal,0x100050c
+I am very well!,0x100050d
+borr,0x100050e
+My favorite things to borrow are horses!,0x100050f
+hors,0x1000510
+"Thou canst steal horses in the towne Paws!<q>Art thou a thief?<y>Watch out for the bull in the corral!<n>Likely, thou art a wimp!",0x1000511
+Iolo,0x1000512
+a charming bard,0x1000513
+job,0x1000514
+I play for the people.,0x1000515
+heal,0x1000516
+Good.,0x1000517
+play,0x1000518
+I play my lute and receive the good wishes of the people.<q>Do you like my music?<y>Perhaps Zoe can make thee thine own instrument!<n>A shame.,0x1000519
+comp,0x100051a
+If you treat someone else well then they will have reason to do the same.,0x100051b
+Gweno,0x100051c
+a charming jester,0x100051d
+job,0x100051e
+I dance and sing for the children.,0x100051f
+heal,0x1000520
+Very well.,0x1000521
+danc,0x1000522
+Dance is good for the soul.<q>Do you give to the needy?<y>Beggars are thankful for small donations.<n>Alas.,0x1000523
+begg,0x1000524
+To give to a beggar shows compassion.,0x1000525
+a child,0x1000526
+a small child,0x1000527
+job,0x1000528
+Singing,0x1000529
+heal,0x100052a
+Very happy.,0x100052b
+sing,0x100052c
+The song goes: Ho eyo he hum!,0x100052d
+ho,0x100052e
+It means: Love to one and all!<q>Do you like the song?<y>Then help us spread the word!<n>Too bad.,0x100052f
+a guard,0x1000530
+a guard,0x1000531
+job,0x1000532
+I guard the bridge.,0x1000533
+heal,0x1000534
+Good.,0x1000535
+brid,0x1000536
+"Across the bridge our people dance and sing!<q>Would thou like to join them?<y>Remember, an open heart is the first step on the path to wisdom!<n>Then you have no business across the bridge.",0x1000537
+guar,0x1000538
+Yep.,0x1000539
+Pepper,0x100053a
+a spicy woman,0x100053b
+job,0x100053c
+I am a fighting bard.,0x100053d
+heal,0x100053e
+Healthy.,0x100053f
+bard,0x1000540
+"Bards know many things.<q>Dost thou seek something?<y>What might that be?<n>Alas, I may have been able to help.",0x1000541
+rune,0x1000542
+Find a skilled artisan and ask them to carve one for thee!,0x1000543
+Thevel,0x1000544
+a seasoned fighter,0x1000545
+job,0x1000546
+I search for the mystery of the magic orbs.,0x1000547
+heal,0x1000548
+Fairly well.,0x1000549
+orbs,0x100054a
+A one-handed beggar knows their secrets!<q>Hast thou seen him?<y>Only he knows the orb's gift!<n>Find him in Serpent castle for he knows of orbs!,0x100054b
+magi,0x100054c
+Magic orbs.,0x100054d
+Joe,0x100054e
+a drunken fighter,0x100054f
+job,0x1000550
+Yo ho ho... and a bottle... of rum... hic...,0x1000551
+heal,0x1000552
+And a bottle of...,0x1000553
+ston,0x1000554
+Find the yellow stones on a ship in the dungeon Despise...,0x1000555
+rum,0x1000556
+"Rum... hic...<q>Give me rum?...<y>Thanxth... my friend Joe can help with the stones... hic...<n>Ah, be a joe!",0x1000557
+Cricket,0x1000558
+a bard in green,0x1000559
+job,0x100055a
+"Shhh, I'm playing!",0x100055b
+heal,0x100055c
+Shhh!,0x100055d
+shhh,0x100055e
+"Yes, shhh!<q>Now wilt thou be quiet?<y>Thanks.<n>I am going to call the guards!",0x100055f
+mant,0x1000560
+The mantra for the shrine of compassion is 'MU'!,0x1000561
+a guard,0x1000562
+a cheerful guard,0x1000563
+job,0x1000564
+I am a guard of course!,0x1000565
+heal,0x1000566
+I am fully healed.,0x1000567
+guar,0x1000568
+We guards have a lot of compassion.,0x1000569
+comp,0x100056a
+We always say: Let all others' troubles be as thine own!<q>Dost thou kill non-evil creatures?<y>That does not show compassion!<n>Good.,0x100056b
+a child,0x100056c
+a small child,0x100056d
+job,0x100056e
+I am learning compassion.,0x100056f
+heal,0x1000570
+O.K.,0x1000571
+lear,0x1000572
+The solution to ones problems often lies in solving others!,0x1000573
+comp,0x1000574
+Never care so much for thyself that thou cannot care for others!<q>Know ye the mantra of compassion?<y>Good.<n>Ask Cricket!,0x1000575
+Shalimar,0x1000576
+a tired shepherd,0x1000577
+job,0x1000578
+I watch over the children.,0x1000579
+heal,0x100057a
+Good.,0x100057b
+chil,0x100057c
+It takes a good deal of compassion to deal with children!,0x100057d
+comp,0x100057e
+Compassion strengthens the soul as knowledge tempers the mind!<q>Have any kids?<y>Thou dost know what I mean!<n>Too bad.,0x100057f
+Sebastian,0x1000580
+an injured person,0x1000581
+job,0x1000582
+I know a terrible secret!,0x1000583
+heal,0x1000584
+Not so well.,0x1000585
+secr,0x1000586
+Mondain's influence has not left the world!,0x1000587
+mond,0x1000588
+Artifacts remain! I heard at Buccaneer's Den!<q>Wilt thou help find and destroy them?<y>Then ask at the pub there of the shards!<n>Oh.,0x1000589
+Shapero,0x100058a
+a druid,0x100058b
+job,0x100058c
+I am looking for Julio.,0x100058d
+heal,0x100058e
+All right.,0x100058f
+juli,0x1000590
+He knows the true nature of compassion.<q>Art thou on the Quest of the Avatar?<y>Find the shrine of compassion east across two bridges!<n>Too bad.,0x1000591
+comp,0x1000592
+Seek out Julio and ask him of compassion!,0x1000593
+Julio,0x1000594
+a solemn bard,0x1000595
+job,0x1000596
+I seek the true nature of things!,0x1000597
+heal,0x1000598
+Solemn.,0x1000599
+natu,0x100059a
+All things have a true nature!<q>Dost thou know the true nature of all things?<y><@lose_humility>Thou art a liar and a braggart.<n><@gain_humility>No mortal can.,0x100059b
+comp,0x100059c
+Compassion derives itself from unending love!,0x100059d
+Mentor,0x100059e
+a wise shepherd,0x100059f
+job,0x10005a0
+I escaped Magincia!,0x10005a1
+heal,0x10005a2
+I am well.,0x10005a3
+magi,0x10005a4
+Pride was too great in Magincia!,0x10005a5
+prid,0x10005a6
+"The city was destroyed by daemons for its pride!<q>Art thou proud?<y><@lose_humility>That is not a virtue!<n><@gain_humility>Pride exists without truth, love, or courage!",0x10005a7
+Sprite,0x10005a8
+a poor beggar,0x10005a9
+job,0x10005ab
+I have no job so now I beg!,0x10005ac
+heal,0x10005ad
+I fear I shall die of starvation!,0x10005ae
+star,0x10005af
+I have not eaten in a week!,0x10005b0
+beg,0x10005b1
+Please! Help me!<q>Wilt thou help me?<y>In return I shall tell thee that the symbol of compassion is a rose!<n>I shall starve to death!,0x10005b2
+Blake,0x10005b3
+an adventurer,0x10005b4
+job,0x10005b5
+I travel the land.,0x10005b6
+heal,0x10005b7
+I am well.,0x10005b8
+trav,0x10005b9
+My friend Vila and I have travelled to many hidden places.<q>Hast thou seen him?<y>I hope he is well!<n>I fear something has happened to him.,0x10005ba
+bamb,0x10005bb
+I have seen bamboo in a great coastal marsh to the east.,0x10005bc
+Zoe,0x10005bd
+a woman with a small knife,0x10005be
+job,0x10005c0
+I make musical instruments.,0x10005c1
+heal,0x10005c2
+Very well.,0x10005c3
+inst,0x10005c4
+Lutes mainly. But I can also make panpipes and flutes.,0x10005c5
+musi,0x10005c6
+Many bards accompany their tales with music.<q>Dost thou think music is important?<y>Its effects are often moving.<n>Most would disagree.,0x10005c7
+Geoffrey,0x10005c8
+a great warrior,0x10005c9
+job,0x10005ca
+I lead into battle!,0x10005cb
+heal,0x10005cc
+I am good and strong!,0x10005cd
+warr,0x10005ce
+A great warrior is a valiant warrior!<q>Art thou valiant!<y>Perhaps thou canst slay the great Red Dragon in the cave on isle to the north!<n>To flee battle shows cowardice!,0x10005cf
+batt,0x10005d0
+I desire to fight again in battle!,0x10005d1
+Lord Robert,0x10005d2
+a mysterious warrior,0x10005d3
+job,0x10005d4
+I battle for Lord British!<q>Are you a valiant warrior?<y>Then thou dost deserve to know that the symbol of valor is a sword!<n>Thou art a wimp!,0x10005d5
+heal,0x10005d6
+Outstanding!,0x10005d7
+warr,0x10005d8
+Thou must battle long and hard to be a warrior.,0x10005d9
+batt,0x10005da
+Battles are few and too many!,0x10005db
+Lady Donna,0x10005dc
+a five-foot pregnant woman,0x10005dd
+job,0x10005de
+I watch over my sheep.,0x10005df
+heal,0x10005e0
+"Fine, all but the lump in my stomach.",0x10005e1
+preg,0x10005e2
+"It's no fun to be pregnant.<q>Why, art thou the father?<y>Wait till I tell my husband!<n>Thank god!",0x10005e3
+shee,0x10005e4
+I can't stand sheep!,0x10005e5
+Bengrod,0x10005e6
+a wounded fighter!,0x10005e7
+job,0x10005e8
+I search the dungeons!,0x10005e9
+heal,0x10005ea
+Poor.,0x10005eb
+dung,0x10005ec
+"I fell in the dungeon Destard.<q>Hast thou found its altar room?<y>It connects with Covetous, Shame and Hythloth!<n>Find it!",0x10005ed
+room,0x10005ee
+"Therein, use the stones found in the connecting dungeons!",0x10005ef
+Sir William,0x10005f0
+a noble fighter,0x10005f1
+job,0x10005f2
+I search for valiant fighters!<q>Art thou valiant?<y>Strive ye to defeat all evil!<n>I see.,0x10005f3
+heal,0x10005f4
+Very well.,0x10005f5
+evil,0x10005f6
+Kill not non-evil creatures but still always stand thy ground!,0x10005f7
+kill,0x10005f8
+Let them flee instead. Never flee uninjured!,0x10005f9
+Sir Hrothgar,0x10005fa
+a mighty warrior!,0x10005fb
+job,0x10005fc
+I fight for valor!,0x10005fd
+heal,0x10005fe
+Excellent.,0x10005ff
+valo,0x1000600
+The valiant soul fears not its own visage!<q>Art thou the most valiant of souls?<y><@lose_humility>This is not likely!<n><@gain_humility>Thou should seek the shrine of valor!,0x1000601
+shri,0x1000602
+"The mantra need be known, ask Aesop!",0x1000603
+a guard,0x1000604
+a stern guard,0x1000605
+job,0x1000607
+We guard the gates and these passages!,0x1000608
+heal,0x1000609
+Well.,0x100060a
+gate,0x100060b
+The gates of Jhelom.,0x100060c
+pass,0x100060d
+These passages are restricted.,0x100060e
+Aesop,0x100060f
+a small man,0x1000610
+job,0x1000611
+I search for valor!,0x1000612
+heal,0x1000613
+Well enough.,0x1000614
+valo,0x1000615
+I find that 'tis easy to be brave from a safe distance!<q>Know what I mean?<y>That's my problem.<n>Thou art brave!,0x1000616
+mant,0x1000617
+The mantra of valor is 'RA'. Use it in the shrine on the south isle!,0x1000618
+Gravnor,0x1000619
+a grave fighter,0x100061a
+job,0x100061b
+I search the dungeons.,0x100061c
+heal,0x100061d
+So so.,0x100061e
+dung,0x100061f
+I seek the red stones.,0x1000620
+ston,0x1000621
+They are found in an underground volcano!,0x1000622
+Senora,0x1000623
+a beautiful mage,0x1000624
+job,0x1000625
+I am locked up in this tower.,0x1000626
+heal,0x1000627
+Well enough.,0x1000628
+towe,0x1000629
+I am being punished for my crimes.,0x100062a
+crim,0x100062b
+"Does not matter, I can help thee!<q>Dost thou have a ship?<y>Then thou dost need a sextant. Ask the barkeep for he knows more!<n>Too bad.",0x100062c
+Nostro,0x100062d
+a withering soul,0x100062e
+job,0x100062f
+I built these passages and they walled me in!,0x1000630
+heal,0x1000631
+Very near death!,0x1000632
+pass,0x1000633
+It runs around the entire city!<q>Wilt thou lead me out?<y>I am saved!<n>Thou art a cad! And I will still follow!,0x1000634
+gran,0x1000635
+I have a stockpile in one of the towers... take some if thou canst find it.,0x1000636
+Luke,0x1000637
+a ranger with a far away look,0x1000638
+job,0x1000639
+I seek the inner light!,0x100063a
+heal,0x100063b
+Quite well.,0x100063c
+ligh,0x100063d
+I come from Skara Brae and am on my way to Yew.<q>Hast thou been to Skara Brae?<y>A fine city!<n>'tis a spiritual city!,0x100063e
+yew,0x100063f
+'tis a city based in the virtue of justice!,0x1000640
+Max,0x1000641
+the housekeeper,0x1000642
+job,0x1000643
+I am the housekeeper.,0x1000644
+heal,0x1000645
+Good!,0x1000646
+hous,0x1000647
+"I clean the rooms.<q>Is there some problem with thy room?<y>I am very sorry I will correct it right away!<n>Oh, thou had me worried!",0x1000648
+room,0x1000649
+That's a strange one at the end. People often disappear.,0x100064a
+X,0x100064b
+a strange person,0x100064c
+job,0x100064d
+I seek the stones.,0x100064e
+heal,0x100064f
+O.K.,0x1000650
+ston,0x1000651
+The red stones.,0x1000652
+red,0x1000653
+"Red is for valor, a virtue of the avatar!<q>Art thou an avatar?<y><@lose_humility>Wow!<n><@gain_humility>Then thou shalt need a red stone for use in an altar room to get the third part of a key!",0x1000654
+Slithe,0x1000655
+a valiant warrior,0x1000656
+job,0x1000657
+I fight battles!,0x1000658
+heal,0x1000659
+Only minor wounds!,0x100065a
+batt,0x100065b
+"True valor is seen not in the force of arms, but in the force of will!<q>Art thou valiant?<y>Then never flee unless the need is dire!<n>Coward.",0x100065c
+valo,0x100065d
+I display my valor in battle.,0x100065e
+Timrod,0x100065f
+a thin fighter,0x1000660
+job,0x1000661
+I fight with valor!,0x1000662
+heal,0x1000663
+Couldn't be better!,0x1000664
+valo,0x1000665
+There is no holier spot of ground than where defeated valor lies.<q>Art thou brave?<y>Fortune helps the brave!<n>Coward.,0x1000666
+brav,0x1000667
+Be brave for there is much to dare!,0x1000668
+Ian,0x1000669
+an old warrior,0x100066a
+job,0x100066c
+I engrave tombstones.,0x100066d
+heal,0x100066e
+This tombstone is to be my own.,0x100066f
+tomb,0x1000670
+I have made many for the warriors that have gone.,0x1000671
+warr,0x1000672
+Few understood that there's more to valor than battle.<q>Art thou a warrior?<y>Then learn the true nature of valor.<n>Valor does not require thee to be.,0x1000673
+Katrina,0x1000674
+a shepherd,0x1000675
+job,0x1000676
+A survivor.,0x1000677
+heal,0x1000678
+Well.,0x1000679
+surv,0x100067a
+Magincia was destroyed by its pride.,0x100067b
+prid,0x100067c
+"Pride flourishes in the absence of truth, love and courage.<q>Art thou proud?<y><@lose_humility>Thy efforts are meaningless.<n><@gain_humility>Humility is the virtue that must overcome pride!",0x100067d
+Ghostly,0x100067e
+a shadowy ghost,0x100067f
+job,0x1000680
+I haunt Magincia,0x1000681
+heal,0x1000682
+Undead in search of peace.,0x1000683
+peac,0x1000684
+"Peace I can never find, forever banished unto the realm of earthbound spirits.",0x1000685
+spir,0x1000686
+Be not proud of thy little deeds lest ye too fall from the light!,0x1000687
+Skullface,0x1000688
+a jabbering skeleton,0x1000689
+job,0x100068a
+I am a nobleman of great birth.,0x100068b
+heal,0x100068c
+Most superb.,0x100068d
+nobl,0x100068e
+"Me and my brother are the last two of the great Meridid family.<q>Thou hast heard of us of course, yes?<y>I thought so.<n>You must not be from near these parts!",0x100068f
+Casperin,0x1000690
+a small ghost,0x1000691
+job,0x1000692
+To haunt this shop.,0x1000693
+heal,0x1000694
+Feeling a bit translucent.,0x1000695
+haun,0x1000696
+A lot of haunting goes on round here.<q>Know thee why?<y>Pride is the surest measure of goals never attained!<n>Pride!,0x1000697
+prid,0x1000698
+"Seek ye the mantra for humility, ask ye Heywood!",0x1000699
+Faultless,0x100069a
+a tall ghost,0x100069b
+job,0x100069c
+"Oh, I just hang around!",0x100069d
+heal,0x100069e
+Been better.,0x100069f
+hang,0x10006a0
+I was hung for my sin of pride!<q>Art thou proud?<y><@lose_humility>A grave sin!<n><@gain_humility>Pride is evil's favorite sin!,0x10006a1
+mant,0x10006a2
+"The mantra for pride, being the antithesis of humility, is 'MUL'.",0x10006a3
+Heywood,0x10006a4
+a tall ghost,0x10006a5
+job,0x10006a6
+Haunt eternally.,0x10006a7
+heal,0x10006a8
+As well as can be expected.,0x10006a9
+haun,0x10006aa
+"Pride goeth before, shame cometh after!<q>Art thou proud?<y><@lose_humility>Thou shalt find shame!<n><@gain_humility>A proud soul surely knows not its worth!",0x10006ab
+mant,0x10006ac
+"Faultless knows the mantra of pride, ask him!",0x10006ad
+Slim,0x10006ae
+a skinny skeleton,0x10006af
+job,0x10006b0
+I rattle my bones.,0x10006b1
+heal,0x10006b2
+A bit on the thin side.,0x10006b3
+bone,0x10006b4
+"I did value myself far too greatly, that pride was my downfall.<q>Art thou always humble?<y><@lose_humility>Doubtful.<n><@gain_humility>Take no pride in humility, lest ye destroy it!",0x10006b5
+prid,0x10006b6
+A terrible thing!,0x10006b7
+Banter,0x10006b8
+a crumbling skeleton,0x10006b9
+job,0x10006ba
+I once held a silver daemon horn.,0x10006bb
+heal,0x10006bc
+A bit bony.,0x10006bd
+horn,0x10006be
+Silver daemon horns can keep the daemon guards of the shrine at bay.,0x10006bf
+shri,0x10006c0
+Wierdrum has been to the shrine of humility!<q>Seek ye such a horn?<y>Ask Demitry!<n>Oh.,0x10006c1
+Demitry,0x10006c2
+a thin skeleton,0x10006c3
+job,0x10006c4
+I rattle my bones.,0x10006c5
+heal,0x10006c6
+'bout the same as yesterday.,0x10006c7
+bone,0x10006c8
+"Bones, them bones, them dry bones...<q>Art thou dead?<y>Ah, too bad!<n>Watch out for Nate!",0x10006c9
+horn,0x10006ca
+"The queen of love has a lady in waiting, she can tell thee more of the silver daemon horns!",0x10006cb
+Wierdrum,0x10006cc
+rattling bones,0x10006cd
+job,0x10006ce
+"I haunt, and I haunt, and I haunt!",0x10006cf
+heal,0x10006d0
+Haunted.,0x10006d1
+haun,0x10006d2
+"A haunting job takes more than a lifetime, it takes forever!",0x10006d3
+shri,0x10006d4
+"Yes, I have been to the shrine, it lies on the north bank in the isle of the abyss!",0x10006d5
+Boozer,0x10006d6
+a dumpy ghost,0x10006d7
+job,0x10006d8
+I was once a powerful merchant!,0x10006d9
+heal,0x10006da
+Hic...,0x10006db
+merc,0x10006dc
+"My wealth was boundless, I held great power!",0x10006dd
+powe,0x10006de
+A proud soul surely knows not its worth!<q>Dost thou see?<y>The world goes on without me.<n>The world goes on without me.,0x10006df
+Bulbous,0x10006e0
+a fat skeleton,0x10006e1
+job,0x10006e2
+I run this shop.,0x10006e3
+heal,0x10006e4
+Couldn't be better.,0x10006e5
+shop,0x10006e6
+"Why, the food shop of course.<q>Can I interest thee in some rations?<y>Hmmm, our stock seems to have spoiled....<n>I sell only the very best.",0x10006e7
+spoi,0x10006e8
+"Well, we're expecting more any day!",0x10006e9
+Splot,0x10006ea
+a weeping skeleton,0x10006eb
+job,0x10006ec
+I regret.,0x10006ed
+heal,0x10006ee
+Been better.,0x10006ef
+regr,0x10006f0
+"I was proud, strip thyself of conceits, only the humble are pure!",0x10006f1
+humb,0x10006f2
+The root from which all virtues grow!<q>Dost thou seek purity?<y>Then ask the snake of the stones!<n>Fool!,0x10006f3
+Ruskin,0x10006f4
+a blue ghost,0x10006f5
+job,0x10006f6
+I now try to understand humility.,0x10006f7
+heal,0x10006f8
+Not well.,0x10006f9
+humi,0x10006fa
+The first test of a great soul is humility!<q>Dost thou seek to know humility?<y>Thou shalt need a rune!<n>A shame.,0x10006fb
+rune,0x10006fc
+Ask Adric to carve one for thee!,0x10006fd
+Nate,0x10006fe
+a mean looking viper!,0x10006ff
+job,0x1000701
+I bring death to all life in Magincia!,0x1000702
+heal,0x1000703
+Bloodthirsty!,0x1000704
+ston,0x1000705
+Those who seek the black stones need ask at the pub in Britain!,0x1000706
+blac,0x1000707
+Those who seek the black stones need ask at the pub in Britain!,0x1000708
+Virtuebane,0x1000709
+a horrible ghastly devil!,0x100070a
+job,0x100070b
+I welcome thee to Magincia! Proud city of the high seas!,0x100070c
+heal,0x100070d
+Devilish!,0x100070e
+magi,0x100070f
+"Magincia fell unto the realm of darkness, for the foundation of their virtue was ill-placed in pride!<q>Art thou proud?<y><@lose_humility>Good!<n><@gain_humility>Ah.",0x1000710
+Adric,0x1000711
+a skeletal shepherd,0x1000712
+job,0x1000714
+I teach humility.,0x1000715
+heal,0x1000716
+Inconsequential.,0x1000717
+humi,0x1000718
+The concept of Humility is not easily mastered.,0x1000719
+conc,0x100071a
+"I could tell thee what humility is, but its true meaning would escape thee.<q>Art thou humble?<y>Claiming so borders pride.<n>Perhaps thou hast low self-esteem.",0x100071b
+Julia,0x100071c
+an agile tinker,0x100071d
+job,0x100071e
+I care for the poor.,0x100071f
+heal,0x1000720
+Well.,0x1000721
+poor,0x1000722
+Within this house are many poor and destitute souls.<q>Wilt thou help?<y>Then know ye that the symbol of sacrifice is a tear.<n>Bum.,0x1000723
+Zircon,0x1000724
+a seasoned blacksmith,0x1000725
+job,0x1000726
+I forge weapons.,0x1000727
+heal,0x1000728
+Quite well.,0x1000729
+weap,0x100072a
+I make the very best!<q>Seek thee a weapon?<y>Ask at the counter!<n>Hmmm.,0x100072b
+myst,0x100072c
+"Ah, yes, the mystic weapons and armour, my greatest work! Their secret locations I trust to Sir Simon and Lady Tessa. Speak my name unto each!",0x100072d
+Bob the Beggar,0x100072e
+a sickly little man,0x100072f
+job,0x1000730
+"I have none, help me.",0x1000731
+heal,0x1000732
+"I am very sick, help me!",0x1000733
+help,0x1000734
+I need money to cure my sickness.,0x1000735
+sick,0x1000736
+I have terminal leg rot.<q>Hast thou any money?<y>Then please share it with me!<n>Then join me and we can beg together!,0x1000737
+Linda Sue,0x1000738
+a small muddy girl,0x1000739
+job,0x100073a
+I'm an undernourished beggar girl.,0x100073b
+heal,0x100073c
+I am hungry.,0x100073d
+hung,0x100073e
+"I have not eaten in days.<q>Could thou spare a nibble of food?<y>I would greatly appreciate that.<n>Oh, I see.",0x100073f
+food,0x1000740
+"Oh, thou art a kind soul!",0x1000741
+Gimble,0x1000742
+a fading man,0x1000743
+job,0x1000745
+I shall die soon.,0x1000746
+heal,0x1000747
+I am barely conscious.,0x1000748
+die,0x1000749
+I suffer from a tsetse bite!,0x100074a
+cons,0x100074b
+I will soon sleep forever.<q>Could thou spare a gold piece so I may buy a last drink?<y>In return I shall tell thee that Alkerion knows of the stones!<n>I am saddened.,0x100074c
+Jude,0x100074d
+a ragged soul,0x100074e
+job,0x100074f
+To redeem myself!,0x1000750
+heal,0x1000751
+Ailing.,0x1000752
+rede,0x1000753
+I will not speak of my sin!,0x1000754
+shar,0x1000755
+"I used one!<q>If I help thee, wilt thou swear to only ever use one at the mouth of the abyss to destroy it?<y>Search for one at lat-P'F"" long-M'F"" on the darkest night!<n>Oh.",0x1000756
+Alkerion,0x1000757
+an old ragged man,0x1000758
+job,0x1000759
+"I am a peasant, I hear many things.",0x100075a
+heal,0x100075b
+Old and weak.,0x100075c
+hear,0x100075d
+What dost thou wish to know?,0x100075e
+ston,0x100075f
+The stones of sacrifice are orange in color and used in the altar rooms of love and courage!<q>Seeketh thou?<y>Find the altar of sacrifice in the dungeon Covetous.<n>Oh.,0x1000760
+Mike Ward,0x1000761
+a stocky ranger,0x1000762
+job,0x1000763
+I am trying to get a room.,0x1000764
+heal,0x1000765
+Well enough.,0x1000766
+room,0x1000767
+I have travelled clear from Skara Brae.,0x1000768
+skar,0x1000769
+I seek the ivory serpent!<q>Hast thou seen it?<y>I hear it is the quest of a lifetime!<n>I feel it is very close!,0x100076a
+Alex,0x100076b
+a teenage boy,0x100076c
+job,0x100076d
+I give out flowers. Here you are!,0x100076e
+heal,0x100076f
+"Fine, thanks.",0x1000770
+flow,0x1000771
+"The way I figure it, if thou art kind to others they will have reason to be kind in return!",0x1000772
+kind,0x1000773
+"Yes, give all that thou can unto the needy!<q>Wilt thou give?<y>Good.<n>Alas.",0x1000774
+Shentis,0x1000775
+a rotund tinker,0x1000776
+job,0x1000777
+"I welcome thee unto Minoc, city of sacrifice!",0x1000778
+heal,0x1000779
+OK.,0x100077a
+sacr,0x100077b
+Self-sacrifice is a needed virtue!,0x100077c
+virt,0x100077d
+Avatars strive to be virtuous.<q>Dost thou strive for virtue?<y>Then perhaps thou shalt become an avatar!<n>An avatar thou art not!,0x100077e
+Singsong,0x100077f
+a cute bard,0x1000780
+job,0x1000781
+I sing songs!,0x1000782
+heal,0x1000783
+Very well indeed!,0x1000784
+sing,0x1000785
+Songs!,0x1000786
+song,0x1000787
+"Very well, the raven sings, the raven saw and in the corn he sayeth 'CAH'.<q>Dost thou like it?<y>Thanks.<n>Too bad...",0x1000788
+Damon,0x1000789
+a meek shepherd,0x100078a
+job,0x100078b
+I stand here and think.,0x100078c
+heal,0x100078d
+Fine.,0x100078e
+thin,0x100078f
+"Oh, just about things.<q>Can't a man just think to himself?<y>Well I hope so!<n>Oh, yes I can thou bandersnatch!",0x1000790
+mant,0x1000791
+"Listen to the bard's song, for in its verse lies the key!",0x1000792
+Mischief,0x1000793
+a happy tinker,0x1000794
+job,0x1000795
+This and that.,0x1000796
+heal,0x1000797
+O.K. I guess.,0x1000798
+this,0x1000799
+And that...,0x100079a
+soap,0x100079b
+"Ask Turlough, for he uses it to make pottery!<q>Hast thou already found some?<y>Then ask my sister, Azure, to carve thee a rune.<n>Return when thou hast!",0x100079c
+Azure,0x100079d
+a tinker at the table,0x100079e
+job,0x10007a0
+I carve runes.,0x10007a1
+heal,0x10007a2
+O.K.,0x10007a3
+rune,0x10007a4
+I carve runes for passage into the shrine!<q>Dost thou need a rune?<y>Which?<n>I see.,0x10007a5
+sacr,0x10007a6
+"Ask my sister, Mischief, for help obtaining some soapstone.",0x10007a7
+Merida,0x10007a8
+a wandering tinker,0x10007a9
+job,0x10007aa
+I seek the wisdom of the shrine of sacrifice.,0x10007ab
+heal,0x10007ac
+Been better.,0x10007ad
+shri,0x10007ae
+But first I need the mantra!<q>Know ye the mantra?<y>Good!<n>The shrine is on a lake to the east!,0x10007af
+mant,0x10007b0
+I am told that a hidden shepherd knows the mantra.,0x10007b1
+a guard,0x10007b2
+a massive guard,0x10007b3
+job,0x10007b4
+To guard of course.,0x10007b5
+heal,0x10007b6
+Quite.,0x10007b7
+guar,0x10007b8
+"I often wonder if I will ever have to give my life in the line of duty.<q>Understand my dilemma?<y>Of course, if it came down to it, I hope I would do it!<n>Too bad.",0x10007b9
+life,0x10007ba
+One life for many!,0x10007bb
+Turlough,0x10007bc
+an old man with a turning wheel,0x10007bd
+job,0x10007bf
+I am a potter.,0x10007c0
+heal,0x10007c1
+Frail.,0x10007c2
+pott,0x10007c3
+I make pottery for the poor.,0x10007c4
+soap,0x10007c5
+"I fire the soapstone in Zircon's forge. Alas, the heat is too much!<q>Couldst thou retrieve some from the forge for me?<y>In return, thou can have some.<n>I shall die from the heat!",0x10007c6
+Mariah,0x10007c7
+a young mage,0x10007c8
+job,0x10007c9
+I seek adventure!,0x10007ca
+heal,0x10007cb
+Quite good.,0x10007cc
+adve,0x10007cd
+"Yes, I hope to go on a great quest!<q>Art thou on a quest?<y>I hope thou art having fun!<n>How boring!",0x10007ce
+ques,0x10007cf
+The Quest of the Avatar is noble indeed!,0x10007d0
+Tracie,0x10007d1
+starving journalist,0x10007d2
+job,0x10007d3
+I am a writer.,0x10007d4
+heal,0x10007d5
+I feel fine... if I could just quit smoking!,0x10007d6
+writ,0x10007d7
+"It's low paid, but glamorous!",0x10007d8
+smok,0x10007d9
+Cough...cough...<q>Do you smoke?<y>I can tell by the smell!<n>Don't start!,0x10007da
+Cromwell,0x10007db
+a regal paladin,0x10007dc
+job,0x10007dd
+I speak of the virtues of honesty!,0x10007de
+heal,0x10007df
+Well indeed.,0x10007e0
+hone,0x10007e1
+A few honest men are better than numbers!<q>Dost thou strive to be honest?<y>Then you will need the mantra.<n>Shame!,0x10007e2
+mant,0x10007e3
+The mantra of the shrine of honesty is 'AHM'.,0x10007e4
+Rebelias,0x10007e5
+a mystic wizard,0x10007e6
+job,0x10007e7
+I live an honest life.,0x10007e8
+heal,0x10007e9
+I've been better.,0x10007ea
+hone,0x10007eb
+Speak the truth and shame the evil forces!,0x10007ec
+evil,0x10007ed
+Evil still exists in our hearts and souls!<q>Dost thou seek to conquer thine own evil?<y>The quest of a lifetime!<n>Wretch!,0x10007ee
+Christen,0x10007ef
+a playful child,0x10007f0
+job,0x10007f1
+I am your friend.,0x10007f2
+heal,0x10007f3
+Feeling good.,0x10007f4
+frie,0x10007f5
+Honest friends are few!<q>Art thou my friend?<y>That makes me happy.<n>I am sad.,0x10007f6
+hone,0x10007f7
+The symbol of honesty is an open palm!,0x10007f8
+Patric the Humble Shepherd,0x10007f9
+a meek shepherd,0x10007fa
+job,0x10007fb
+I am a shepherd.,0x10007fc
+heal,0x10007fd
+Pretty good.,0x10007fe
+humb,0x10007ff
+"Humility is not derived from the direct combination of truth, love or courage.",0x1000800
+humi,0x1000801
+Humility is to act and be humble.<q>Art thou totally humble?<y><@lose_humility>Doubtful!<n><@gain_humility>Strive to be.,0x1000802
+Shazom,0x1000803
+a dying young wizard,0x1000804
+job,0x1000805
+I am apprentice to the great wizard Nigel!,0x1000806
+heal,0x1000807
+I will soon die.,0x1000808
+nige,0x1000809
+"I will soon need to use the spell he calls 'recall'.<q>Hast thou met Nigel?<y>Seek him out, for he will teach thee.<n>He lives at the Lycaeum.",0x100080a
+die,0x100080b
+Pass on.,0x100080c
+Shakespeare,0x100080d
+a wise wizard,0x100080e
+job,0x100080f
+I create tales of honesty.,0x1000810
+heal,0x1000811
+Getting on.,0x1000812
+hone,0x1000813
+"Remember, there is no terror in threats for I am strong in honesty!<q>Dost thou strive to be honest?<y>Beware corruption!<n>Fool!",0x1000814
+corr,0x1000815
+Corruption wins not more than honesty!,0x1000816
+Browning,0x1000817
+a tall mage,0x1000818
+job,0x1000819
+I strive to live an honest life!,0x100081a
+heal,0x100081b
+Been better.,0x100081c
+hone,0x100081d
+An honest soul need remember no lies!<q>Hast thou never lied?<y>That seems unlikely!<n>Truth never hurts the teller!,0x100081e
+trut,0x100081f
+Truth is the root of honesty!,0x1000820
+Cosima,0x1000821
+an elderly woman,0x1000822
+job,0x1000823
+I am an alchemist.,0x1000824
+heal,0x1000825
+"Tired, so tired.",0x1000826
+alch,0x1000827
+I know how best to mix reagents!<q>Dost thou know how to best mix spells?<y>Good!<n>The secret's in the reagents!,0x1000828
+reag,0x1000829
+A sleep spell actually requires but one part spider silk!,0x100082a
+Daranor,0x100082b
+"a hunched, insane looking man!",0x100082c
+job,0x100082e
+I move the sun!,0x100082f
+heal,0x1000830
+Health?,0x1000831
+sun,0x1000832
+The moons are my enemies!,0x1000833
+moon,0x1000834
+"When I die the world will end!<q>Do you believe my story!?!?...<y>Then we must fell the moons!<n>Idiot, you must think I am insane!",0x1000835
+Inoo,0x1000836
+an old gypsy,0x1000837
+job,0x1000838
+"I am a fortune teller, I read palms.",0x1000839
+heal,0x100083a
+I predict I will be fine today!,0x100083b
+palm,0x100083c
+Palms tell fortunes!,0x100083d
+fort,0x100083e
+Give thy palm.<q>Dost thou wish thy destiny?<y>A great quest will lead thee into the abyss where the codex awaits!<n>Wise choice.,0x100083f
+Calabrini,0x1000840
+a tall mage,0x1000841
+job,0x1000842
+"I bear greetings from the fair city of Moonglow.<q>Dost thou seek an inn or aid?<y>Which?<n>Perhaps, the shrine which lies on an isle to the north!",0x1000843
+heal,0x1000844
+Fine.,0x1000845
+inn,0x1000846
+We have an excellent inn.,0x1000847
+aid,0x1000848
+Our healer is one of the best!,0x1000849
+Dekker,0x100084a
+a bouncy jester,0x100084b
+job,0x100084c
+"I earn an honest living, jesting!",0x100084d
+heal,0x100084e
+Very good.,0x100084f
+hone,0x1000850
+Honest labor bears a lovely face!,0x1000851
+jest,0x1000852
+I love a good jest.<q>Dost thou?<y>We ought to exchange jokes sometime!<n>Thou art probably a sourpuss!,0x1000853
+William,0x1000854
+a child eating a sandwich,0x1000855
+job,0x1000856
+"Oh, not much.",0x1000857
+heal,0x1000858
+Pretty good.,0x1000859
+sand,0x100085a
+"It's a peanut butter and grape jelly on lightly toasted bread!<q>Wouldst thou like a bite?<y>Yummy, huh!<n>It's awful yummy!",0x100085b
+rune,0x100085c
+"Perhaps my mother, Peri, can carve one for thee!",0x100085d
+Tyrone,0x100085e
+a battered mage,0x100085f
+job,0x1000860
+I used to search for the blue stones.,0x1000861
+heal,0x1000862
+Fading.,0x1000863
+ston,0x1000864
+The blue stones of honesty are found in a well in the dungeon of Deceit.<q>Wilt thou search?<y>Know the stone's uses!<n>Hmm.,0x1000865
+use,0x1000866
+They are used within the dungeon altar rooms and in the abyss.,0x1000867
+Peri,0x1000868
+a beaming woman,0x1000869
+job,0x100086b
+I am a gemstone cutter.,0x100086c
+heal,0x100086d
+Good.,0x100086e
+gems,0x100086f
+"Mainly for jewelry, but some have special uses!",0x1000870
+spec,0x1000871
+"When cut precisely, the refraction of light through a gemstone can be controlled.<q>Know ye of Palamar's telescope?<y>I helped build it!<n>It can be found at the Lycaeum!",0x1000872
+Shamino,0x1000873
+a solemn ranger,0x1000874
+job,0x1000875
+I seek the inner light.,0x1000876
+heal,0x1000877
+I am well.,0x1000878
+ligh,0x1000879
+"I seek the ""one great truth""!",0x100087a
+trut,0x100087b
+"That which lies within the codex!<q>Dost thou seek this ""truth""?<y>Some things take forever but brick by brick mountains can be built!<n>Alas.",0x100087c
+Emerson,0x100087d
+an injured man,0x100087e
+job,0x100087f
+I seek the spiritual path.,0x1000880
+heal,0x1000881
+I am grievously wounded.,0x1000882
+spir,0x1000883
+Spiritual is stronger than any material force.,0x1000884
+woun,0x1000885
+Nothing can bring thee peace but the triumph of principles!<q>Art thou good in spirit?<y>A good path.<n>An evil path!,0x1000886
+Santayana,0x1000887
+a tall ranger,0x1000888
+job,0x1000889
+I carry the light within my heart.,0x100088a
+heal,0x100088b
+I am alive.,0x100088c
+ligh,0x100088d
+The light of philosophy.,0x100088e
+phil,0x100088f
+"In philosophical minds the familiar excites wonder!<q>Dost thou always tread the right path?<y>Doubtful!<n>Few can, but strive to do so!",0x1000890
+Presto,0x1000891
+a very small wizard,0x1000892
+job,0x1000893
+I cast great big spells!,0x1000894
+heal,0x1000895
+Superior!,0x1000896
+spel,0x1000897
+"I can cast jinx, kill, and view!<q>Dost thou know what these spells have in common?<y>What?<n>Guess!",0x1000898
+nigh,0x1000899
+"Yes, ask the barkeep at 'The Axe-n-Ale' in Vesper about nightshade.",0x100089a
+Granted,0x100089b
+a hungry beggar,0x100089c
+job,0x100089e
+I beg for food and money.,0x100089f
+heal,0x10008a0
+I am not at all well.,0x10008a1
+food,0x10008a2
+To eat!,0x10008a3
+mone,0x10008a4
+To buy food!<q>Wilt thou give me food or money?<y>In return I will tell thee that the symbol of Spirituality is that which stands in the middle of our town!<n>Jerk!,0x10008a5
+Mitre,0x10008a6
+a radiant ranger,0x10008a7
+job,0x10008a8
+I am reading the wizard's journal.,0x10008a9
+heal,0x10008aa
+I am fine.,0x10008ab
+jour,0x10008ac
+It tells of the white stones.,0x10008ad
+ston,0x10008ae
+They cannot be found in the dungeon Hythloth.<q>Dost thou need one?<y>Ask of the white stones at the Tap in Trinsic!<n>Too bad.,0x10008af
+Buddha,0x10008b0
+a great philosopher,0x10008b1
+job,0x10008b2
+I teach.,0x10008b3
+heal,0x10008b4
+I am well.,0x10008b5
+teac,0x10008b6
+"When one has pity on all living creatures, then is one noble.",0x10008b7
+nobl,0x10008b8
+"If one speaks or acts with pure thought, happiness will follow like a shadow that never leaves.",0x10008b9
+Michaelangelo,0x10008ba
+a skilled ranger,0x10008bb
+job,0x10008bc
+I strive along the path.<q>Art thou far along the path?<y>This is good.<n>Fear not thou shalt be.,0x10008bd
+heal,0x10008be
+Well.,0x10008bf
+path,0x10008c0
+"Success is a journey, not a destination.",0x10008c1
+jour,0x10008c2
+May thou always desire more than thou can accomplish!,0x10008c3
+Romasco,0x10008c4
+"a short, dumpy man with a book",0x10008c5
+job,0x10008c6
+"I am a teacher, I enrich young minds.",0x10008c7
+heal,0x10008c8
+I am fine.,0x10008c9
+teac,0x10008ca
+I teach of the abyss.<q>Know ye of the abyss?<y>A word of passage is needed at the last gate!<n>Learn!,0x10008cb
+word,0x10008cc
+Seek Zair the Wise in Paws for more on the word.,0x10008cd
+Carlyle,0x10008ce
+a wise mage,0x10008cf
+job,0x10008d0
+I write magic.<q>Dost thou believe in magic?<y>Magic missiles need but one part ash!<n>I see.,0x10008d1
+heal,0x10008d2
+Fine.,0x10008d3
+magi,0x10008d4
+One lives by believing in something.,0x10008d5
+beli,0x10008d6
+Great discoveries are made by those whose feelings run ahead of their thinking.,0x10008d7
+Dickens,0x10008d8
+a wise bard,0x10008d9
+job,0x10008da
+I write stories.,0x10008db
+heal,0x10008dc
+O.K.,0x10008dd
+stor,0x10008de
+Stories are good for the spirit!,0x10008df
+spir,0x10008e0
+"Remember, no one is useless in this world who lightens the burdens of others!<q>Art thou good in nature?<y>Be sure thy net good well exceeds thy net evil!<n>I see.",0x10008e1
+White,0x10008e2
+a gallant fighter,0x10008e3
+job,0x10008e4
+I quest.,0x10008e5
+heal,0x10008e6
+Excellent!,0x10008e7
+ques,0x10008e8
+Many quests are very dangerous!<q>Art thou fearless in all things?<y><@lose_humility>Boastful fool!<n><@gain_humility>Danger is real!,0x10008e9
+the Ankh of Spirituality,0x10008ea
+a silver ankh,0x10008eb
+job,0x10008ec
+I keep the secret of the runes.,0x10008ed
+heal,0x10008ee
+Strong.,0x10008ef
+rune,0x10008f0
+Mantra?,0x10008f1
+om,0x10008f2
+"If it is ivory you seek, search for it on the spiritual plane!<q>Hast thou found the shrine?<y>Good!<n>Enter the gate of full moons!",0x10008f3
+Ambule,0x10008f4
+a grimy beggar,0x10008f5
+job,0x10008f7
+I beg for but a single gold piece!,0x10008f8
+heal,0x10008f9
+So-so.,0x10008fa
+beg,0x10008fb
+"Oh, please... Oh, please...<q>Wilt thou please give me a gold piece?<y>Dear kind soul.<n>Stingy, I know thou hast many!",0x10008fc
+mant,0x10008fd
+Ask the child named Barren.,0x10008fe
+Barren,0x10008ff
+a small child,0x1000900
+job,0x1000901
+No job.,0x1000902
+heal,0x1000903
+O.K.,0x1000904
+mant,0x1000905
+"I know it well, it is 'OM'.",0x1000906
+Isaac,0x1000907
+a ghostly figure,0x1000908
+job,0x1000909
+I haunt this inn!,0x100090a
+heal,0x100090b
+I am many years dead.,0x100090c
+haun,0x100090d
+The quest is not complete!<q>Art thou on the quest?<y>Hope!<n>Alas.,0x100090e
+ston,0x100090f
+"The white stones sit atop the Serpent's Spine, and can only be reached by one who floats within the clouds.",0x1000910
+Leela,0x1000911
+a sleek ranger,0x1000912
+job,0x1000914
+I quest for rare treasures.<q>Know ye the secret of the rune?<y>The rune of spirituality must be carved from ivory!<n>Learn it from the Ankh!,0x1000915
+heal,0x1000916
+Good.,0x1000917
+spir,0x1000918
+"Indeed, treasure itself is materialistic.",0x1000919
+Dupre,0x100091a
+handsome paladin,0x100091b
+job,0x100091c
+I am towne leader.,0x100091d
+heal,0x100091e
+Very well.,0x100091f
+lead,0x1000920
+"'tis an honor!<q>Dost thou try to live honorably?<y>It is a constant quest. Honor is like a finely polished chalice. Without constant care, it will soon tarnish!<n>Fool!",0x1000921
+hono,0x1000922
+It gives life meaning!,0x1000923
+Virgil,0x1000924
+a mystic wizard,0x1000925
+job,0x1000926
+I create magical fields.,0x1000927
+heal,0x1000928
+I am well.,0x1000929
+fiel,0x100092a
+Poison is my favorite.<q>'tis it thine?<y>Bravo!<n>Well I don't care!,0x100092b
+nigh,0x100092c
+"Nightshade may be found only near lat-J'F"" long-C'O"" only on the darkest of nights!",0x100092d
+Publius,0x100092e
+a sleepy fighter,0x100092f
+job,0x1000930
+I drink a toast to honor!,0x1000931
+heal,0x1000932
+Tired.,0x1000933
+hono,0x1000934
+What is left when honor is lost?,0x1000935
+noth,0x1000936
+"Right, take honor from me and my life is done!<q>Dost thou strive to live an honorable life?<y>Honor gives greatness.<n>No honor, no meaning!",0x1000937
+Skitle,0x1000938
+a bony skeleton,0x1000939
+job,0x100093a
+I hail from dungeon deep.,0x100093b
+heal,0x100093c
+What do you mean?,0x100093d
+dung,0x100093e
+I come from the dungeon Shame!,0x100093f
+ston,0x1000940
+I have seen the purple stones used in the altars of truth and courage!<q>Ever been there?<y>Good.<n>It holds items thou shalt need.,0x1000941
+Sailor Sam,0x1000942
+an ugly sailor,0x1000943
+job,0x1000944
+I sail the the seas of Britannia!,0x1000945
+heal,0x1000946
+A bit waterlogged.,0x1000947
+seas,0x1000948
+"My specialty is navigation!<q>Is it thy specialty?<y>Good show mate!<n>Thou must not own a sextant, eh?",0x1000949
+sext,0x100094a
+Go to the pub in Jhelom and ask of a sextant.,0x100094b
+Aristotle,0x100094c
+a dignified paladin,0x100094d
+job,0x100094e
+I search for honor.,0x100094f
+heal,0x1000950
+I am well.,0x1000951
+hono,0x1000952
+"Dignity consists not in possessing honors, but in deserving them.",0x1000953
+dign,0x1000954
+"Honor no one, but honor itself!<q>Art thou honorable at all times?<y>That is impressive.<n>Strive to be as such.",0x1000955
+Terrin,0x1000956
+a cowering child,0x1000957
+job,0x1000958
+I ran from the bull!,0x1000959
+heal,0x100095a
+Scared!,0x100095b
+bull,0x100095c
+"A big one, with long, pointy horns!<q>Is it gone yet?<y>Whew, I thought it would get me!<n>Save me!",0x100095d
+gran,0x100095e
+The merchant Winthrop may know.,0x100095f
+Rigmore,0x1000960
+a strong paladin,0x1000961
+job,0x1000962
+I am the welcomer.,0x1000963
+heal,0x1000964
+Extra good.,0x1000965
+welc,0x1000966
+"Yes, welcome to Trinsic city of honor!",0x1000967
+hono,0x1000968
+Wisdom on the virtue of honor is found throughout this towne.<q>Dost thou seek this wisdom?<y>Enter and find thy path.<n>This is the wrong place!,0x1000969
+Winthrop,0x100096a
+a scruffy merchant,0x100096b
+job,0x100096c
+A trade in rumors.,0x100096d
+heal,0x100096e
+A bit ragged out.,0x100096f
+rumo,0x1000970
+About what?,0x1000971
+gran,0x1000972
+An architect named Nostro fortified the walls of Jhelom with granite.<q>Dost thou know him?<y>I hope that he is well.<n>He disappeared while completing his work!,0x1000973
+Swindrik,0x1000974
+a tall wizard,0x1000975
+job,0x1000976
+I cast spells.,0x1000977
+heal,0x1000978
+Fully healed.,0x1000979
+spel,0x100097a
+Spells of great power.<q>Dost thou cast spells of great power?<y>What is the most powerful reagent?<n>Dost thou know their main ingredient?,0x100097b
+mand,0x100097c
+Ask at the Folley tavern of mandrake.,0x100097d
+Kline,0x100097e
+a searching paladin!,0x100097f
+job,0x1000980
+I seek entry to the shrine of honor!<q>Know ye the two requirements to enter and use the shrine?<y>What are they?<n>What dost thou think?,0x1000981
+heal,0x1000982
+Well.,0x1000983
+mant,0x1000984
+The mantra is 'SUMM'.,0x1000985
+rune,0x1000986
+Ask a skilled craftsman to carve one for thee!,0x1000987
+Lexington,0x1000988
+a shining paladin,0x1000989
+job,0x100098a
+I am warlord of Trinsic.,0x100098b
+heal,0x100098c
+Superb.,0x100098d
+warl,0x100098e
+I have solved many quests!,0x100098f
+ques,0x1000990
+"The solving of quests brings ye honor!<q>Strive ye for honor?<y>Then solve quests but attack not non-evil creatures, and get not others gold!<n>Oh.",0x1000991
+Dergin,0x1000992
+a soulful fighter,0x1000993
+job,0x1000994
+I seek a place to rest.,0x1000995
+heal,0x1000996
+Tired.,0x1000997
+rest,0x1000998
+I have quested long and hard.,0x1000999
+ques,0x100099a
+I seek enlightenment at the shrine of honor!<q>Art thou enlightened in honor?<y>Good.<n>The shrine lies to the south and west beyond the swamps!,0x100099b
+a guard,0x100099c
+a big guard,0x100099d
+job,0x100099e
+We guard the gate.,0x100099f
+heal,0x10009a0
+Excellent.,0x10009a1
+gate,0x10009a2
+Into and out of Trinsic.,0x10009a3
+guar,0x10009a4
+"'tis an honorable job!<q>Dost thou strive to bring honor upon the peers?<y>Dupre, the leader of our towne, joins many honorable quests!<n>Dolt.",0x10009a5
+Quix,0x10009a6
+a wandering mage,0x10009a7
+job,0x10009a8
+I seek the skeleton!,0x10009a9
+heal,0x10009aa
+Adequate.,0x10009ab
+skel,0x10009ac
+It knows a great secret.,0x10009ad
+secr,0x10009ae
+"About the purple stones of honor!<q>Dost thou have a purple stone?<y>Use it wisely!<n>Seek one, for they are very useful!",0x10009af
+a guard,0x10009b0
+a strong guard,0x10009b1
+job,0x10009b3
+To guard.,0x10009b4
+heal,0x10009b5
+Guarded.,0x10009b6
+guar,0x10009b7
+Guarding.,0x10009b8
+stro,0x10009b9
+Guard,0x10009ba
+Tegan,0x10009bb
+a woman with a chisel,0x10009bc
+job,0x10009be
+I am a sculptor.,0x10009bf
+heal,0x10009c0
+Fit.,0x10009c1
+stat,0x10009c2
+"I am working on a piece called ""The Stranger from Another World"".",0x10009c3
+scul,0x10009c4
+I sculpt statues in honor of the heroes of the past.<q>Dost thou need my help with something?<y>What can I do for thee?<n>Then I'll get back to my work.,0x10009c5
+Jaana,0x10009c6
+a quiet druid,0x10009c7
+job,0x10009c8
+I strive to understand justice.,0x10009c9
+heal,0x10009ca
+I am well.,0x10009cb
+just,0x10009cc
+"True justice satisfies all, false none.",0x10009cd
+unde,0x10009ce
+"Let justice be thy calling, not thy excuse!<q>Art thou just?<y>Many a grave has been unjustly filled in the name of justice.<n>Alas.",0x10009cf
+a guard,0x10009d0
+a tall guard,0x10009d1
+job,0x10009d2
+To guard the court.,0x10009d3
+heal,0x10009d4
+Yes.,0x10009d5
+just,0x10009d6
+A good life is inspired by love and guided by knowledge.,0x10009d7
+cour,0x10009d8
+Within this chamber justice is served.<q>Dost thou have business before the court?<y>Then enter.<n>Then do not disturb the proceedings!,0x10009d9
+a guard,0x10009da
+a big guard,0x10009db
+job,0x10009dc
+"We guard the jail.<q>Hast thou come to turn thyself in?<y>In which cell dost thou belong, felonies or misdemeanors.<n>Just visiting, eh.",0x10009dd
+heal,0x10009de
+Fit.,0x10009df
+misd,0x10009e0
+That'll be the left cell.,0x10009e1
+felo,0x10009e2
+That'll be the right hand cell. careful in there!,0x10009e3
+Calumny,0x10009e4
+a solemn druid,0x10009e5
+job,0x10009e6
+I make spells.,0x10009e7
+heal,0x10009e8
+Well.,0x10009e9
+spel,0x10009ea
+I invented quickness!<q>Can thou cast it?<y>It requires but one bloodmoss!<n>Adept.,0x10009eb
+mand,0x10009ec
+Mandrake root is found only in the Fens of the Dead and in the Bloody Plains where the ground is always damp.,0x10009ed
+Talfourd,0x10009ee
+a wise judge,0x10009ef
+job,0x10009f0
+I decide justice.,0x10009f1
+heal,0x10009f2
+Well.,0x10009f3
+just,0x10009f4
+The scales of justice are truth in action!,0x10009f5
+scal,0x10009f6
+"The symbol of justice.<q>Can thou honestly claim to be guilty of no crime ever?<y><@lose_humility>Doubtful.<n><@gain_humility>Then do thy penance in a cell, and with the felons, learn ye well.",0x10009f7
+Flamis,0x10009f8
+a burning fire,0x10009f9
+job,0x10009fa
+I hold the fabric of the true nature of justice.,0x10009fb
+heal,0x10009fc
+Bright.,0x10009fd
+just,0x10009fe
+The virtue of justice draws its nature from the principles of truth and love!,0x10009ff
+fabr,0x1000a00
+Of justice.<q>Hast thou always been just?<y><@lose_humility>Unlikely.<n><@gain_humility>At least thou art honest.,0x1000a01
+Silent,0x1000a02
+a chanting druid,0x1000a03
+job,0x1000a04
+Beh... Beh...,0x1000a05
+heal,0x1000a06
+Beh... Beh...,0x1000a07
+beh.,0x1000a08
+Beh... Beh...,0x1000a09
+beh,0x1000a0a
+Beh... Beh...,0x1000a0b
+Dwp,0x1000a0c
+a wise druid,0x1000a0d
+job,0x1000a0e
+"Welcome thee to Yew, city of justice!",0x1000a0f
+heal,0x1000a10
+I am well.,0x1000a11
+just,0x1000a12
+"Love no one more than the truth, for justice seeks no favors. Temper thy justice with understanding.",0x1000a13
+yew,0x1000a14
+Yes 'tis a fair city!<q>Dost thou like it?<y>Let it be as thine!<n>A pity.,0x1000a15
+a poor beggar.,0x1000a16
+a poor beggar,0x1000a17
+job,0x1000a18
+I have sinned.,0x1000a19
+heal,0x1000a1a
+Well treated.,0x1000a1b
+sinn,0x1000a1c
+I have gotten chests in the townes and killed non-evil creatures.<q>Should thou be in with the felons?<y>Thou art in the wrong cell.<n>Good.,0x1000a1d
+felo,0x1000a1e
+"They are mean, ugly villains!",0x1000a1f
+Vorpal,0x1000a20
+a mean nasty ugly villain!,0x1000a21
+job,0x1000a23
+I eat people who bug me!,0x1000a24
+heal,0x1000a25
+Hungry!,0x1000a26
+vill,0x1000a27
+That's me alright!,0x1000a28
+peop,0x1000a29
+"Like thee!<q>Art thou here to bug me?<y>Eat death, scum puppy!<n>Well thou art!",0x1000a2a
+Lena,0x1000a2b
+a sleek ranger,0x1000a2c
+job,0x1000a2d
+I search for a home.,0x1000a2e
+heal,0x1000a2f
+O.K.,0x1000a30
+home,0x1000a31
+On the range!,0x1000a32
+rang,0x1000a33
+"Where the deer and the antelope play.<q>Ever heard of such a place?<y>Seldom is heard a discouraging word!<n>Ah, what'ya have to ruin it for!",0x1000a34
+Short Round,0x1000a35
+a small child,0x1000a36
+job,0x1000a37
+I work for Jones.,0x1000a38
+heal,0x1000a39
+I am fine.,0x1000a3a
+jone,0x1000a3b
+I think Indi's on a quest!,0x1000a3c
+ques,0x1000a3d
+"I'm not so sure, but it should be fun!<q>Art thou having fun?<y>Write to Lord British and tell him!!!<n>I am so sorry, we all wish you would!",0x1000a3e
+Frida,0x1000a3f
+a withered form,0x1000a40
+job,0x1000a41
+"See my poor baby, I beg for him.",0x1000a42
+heal,0x1000a43
+I am starving and sick.,0x1000a44
+baby,0x1000a45
+"Oh, no, my baby is dying!<q>Wilt thou give me money so that I can get my baby healed?<y>Thou art kind and just!<n>Evil wretch, curse thee!",0x1000a46
+Pinrod,0x1000a47
+a thin man,0x1000a48
+job,0x1000a49
+I take council.,0x1000a4a
+heal,0x1000a4b
+Fine.,0x1000a4c
+coun,0x1000a4d
+"On justice.<q>Fight ye for justice?<y>Good, the druids chant the mantra!<n>Cad.",0x1000a4e
+just,0x1000a4f
+"Justice is hardest to find at the point of a sword, the steel is an agent of justice, humanity the perpetrator!",0x1000a50
+a guard,0x1000a51
+a big guard,0x1000a52
+job,0x1000a53
+To preserve the peace and insure justice!,0x1000a54
+heal,0x1000a55
+O.K.,0x1000a56
+peac,0x1000a57
+A good life is inspired by love and guided by truth!<q>Art thou always just?<y><@lose_humility>Unlikely!<n><@gain_humility>Strive to be!,0x1000a58
+just,0x1000a59
+Justice means not only to punish the bad but also to reward the good!,0x1000a5a
+Dayna,0x1000a5b
+a wandering druid,0x1000a5c
+job,0x1000a5d
+I seek justice.,0x1000a5e
+heal,0x1000a5f
+Well.,0x1000a60
+just,0x1000a61
+Learn at the shrine!,0x1000a62
+shri,0x1000a63
+"The shrine is to the northeast!<q>Dost thou have a rune?<y>Now learn the mantra, and seek out a green stone in an underground forest the dungeon Wrong!<n>Seek help from the unfortunate.",0x1000a64
+Nyssa,0x1000a65
+a battered druid,0x1000a66
+job,0x1000a68
+I am a victim of injustice.,0x1000a69
+heal,0x1000a6a
+Beaten.,0x1000a6b
+vict,0x1000a6c
+I once made weapons of yew.,0x1000a6d
+weap,0x1000a6e
+"During a battle, some druids were killed and my weapons were blamed to be at fault!<q>Dost thou agree that I am innocent?<y>If only I could prove it.<n>No weapon can guarantee victory.",0x1000a6f
+Dirk,0x1000a70
+a mighty fighter,0x1000a71
+job,0x1000a72
+I am here to congratulate thee!,0x1000a73
+heal,0x1000a74
+Superb.,0x1000a75
+cong,0x1000a76
+"Why, thou hast slain the great red dragon!",0x1000a77
+scal,0x1000a78
+"Search the remains.<q>Truth is, it has long been dead, but thou has proven thy valor regardless. Art thou looking for something?<y>What would that be?<n>Just visiting, eh?",0x1000a79
+Vila,0x1000a7a
+a lingering ghost,0x1000a7b
+job,0x1000a7c
+I am exploring.,0x1000a7d
+heal,0x1000a7e
+Art thou joking?,0x1000a7f
+expl,0x1000a80
+"Ever since my death, I have been able to travel much more.",0x1000a81
+ivor,0x1000a82
+"Yes, I have seen the ivory serpent in a valley near here, but thou wilt never find it in the shape that thou art in!",0x1000a83
+Loric,0x1000a84
+a charming man,0x1000a85
+job,0x1000a86
+I am here to welcome thee!,0x1000a87
+heal,0x1000a88
+Fine.,0x1000a89
+welc,0x1000a8a
+Welcome to the labyrinth of humility!,0x1000a8b
+laby,0x1000a8c
+No one yet has found the end!<q>Would thou like to be the first?<y>Then get started right away!<n>Very wise. Search about my feet for what thou dost need.,0x1000a8d
+Cassandra,0x1000a8e
+a simple shepherd,0x1000a8f
+job,0x1000a90
+I am a fool.,0x1000a91
+heal,0x1000a92
+Tired and frustrated.,0x1000a93
+fool,0x1000a94
+Only now do I realize the solution.,0x1000a95
+solu,0x1000a96
+The labyrinth of humility is a trap for the proud.<q>Dost thou understand?<y>Good.<n>The humble would not have come this far.,0x1000a97
+Berek,0x1000a98
+a man with a map,0x1000a99
+job,0x1000a9a
+I am attempting to map the labyrinth.,0x1000a9b
+heal,0x1000a9c
+Exhausted.,0x1000a9d
+map,0x1000a9e
+"I have covered every inch, but have yet to find the end.",0x1000a9f
+end,0x1000aa0
+Perhaps there is no end.<q>Would thou agree?<y>Then I shall humbly secede.<n>Not every puzzle has a solution.,0x1000aa1
+Drool,0x1000aa2
+a very thin man,0x1000aa3
+job,0x1000aa4
+I am lost!,0x1000aa5
+heal,0x1000aa6
+Starving!,0x1000aa7
+lost,0x1000aa8
+I cannot find the way back out.<q>Dost thou know the way out?<y>I am saved!<n>Rats only taste bad the first few times.,0x1000aa9
+star,0x1000aaa
+I've been surviving on rats!,0x1000aab
+"I wish to build another telescope, but Palamar claims to have forgotten where the special gemstones are found. Discover the truth and I shall carve a rune for thee!",0x1000aac
+Thou hast uncovered the truth from that deceitful scoundrel Palamar. I shall now reward thy honest deed by carving thee a rune from the gemstone.,0x1000aad
+"If thou couldst gather some bamboo for me, I could make some instruments for the poor children of Britannia.",0x1000aae
+Thy compassionate act will bring hope and joy to the unfortunate children of the land. I shall now carve thy rune from some of the bamboo.,0x1000aaf
+I can carve thee a rune from the scale of a the Great Red Dragon. Only an army of fools can defeat it! Perhaps there are some here that can tell thee more on how to obtain a scale.,0x1000ab0
+"Valor cannot be found through careful planning, nor proven with treasures and great tales. Give me the dragonscale, and from it, I shall carve thee a rune.",0x1000ab1
+"If thou couldst bring some yew from the mightiest tree in the Deep Forest, I could make some weapons so that my craftsmanship can be used as evidence during my trial.",0x1000ab2
+"With your help, I will surely be reprieved of the accusations brought against me. Thou art truly just and very deserving of the rune that I shall carve for thee.",0x1000ab3
+"By giving of thyself, thou shalt receive.",0x1000ab4
+"Impossibilities to some are but small tasks to others. Your self-sacrifice for one man has started an endless chain of events: Turlough's work will aid hundreds, who may in time help thousands. I will now aid thee by carving thee a rune.",0x1000ab5
+"If thou couldst gather some granite for me, I could honor another worthy hero with a statue.",0x1000ab6
+"By honoring others, thou hast brought honor upon thyself. In return, I shall honor thee by carving thee a rune.",0x1000ab7
+"A rune of spirituality must be carved from ivory, an extremely rare substance in Britannia. I have heard tales of an ivory serpent not of this world, visiting Britannia from another dimension.",0x1000ab8
+"Not all problems can be solved by laborious work or brute force. By expanding thy perspective, thou hast accomplished the improbable. For thy deeds, I shall now carve thee a rune.",0x1000ab9
+"An underground labyrinth of passages can be found near the shrine. Where the passages lead, no one has yet discovered. Go there and solve the riddle of the labyrinth.",0x1000aba
+"This bone that thou hast delivered is all that is left of an adventurer, too consumed with pride to accept that not all problems have a solution.",0x1000abb
+palm,0x1000abc
+rose,0x1000abd
+sword,0x1000abe
+scales,0x1000abf
+tear,0x1000ac0
+chalice,0x1000ac1
+ankh,0x1000ac2
+crook,0x1000ac3
+Thou art truly an honest soul. Seek ye now to reach Elevation!,0x1000bb8
+Thou dost seem an honest soul. Continued honesty will reward thee!,0x1000bb9
+Thou hast made little progress on the paths of Honesty. Strive to prove thy worth!,0x1000bba
+Thou art not an honest soul. Thou must live a more honest life to be an Avatar!,0x1000bbb
+Thou art a thief and a scoundrel. Thou may not ever become an Avatar!,0x1000bbc
+Compassion is a virtue that thou hast shown well. Seek ye now Elevation!,0x1000bbd
+Thou dost show thy compassion well. Continued good will should be thy guide!,0x1000bbe
+Thou hast not shown thy compassion well. Be more kind unto others!,0x1000bbf
+Thou dost kill where there is no need and give too little unto others!,0x1000bc0
+Thou art a cold and cruel brute. Thou shouldst go to prison for thy crimes!,0x1000bc1
+Thou art a truly valiant warrior. Seek ye now Elevation in the virtue of valor!,0x1000bc2
+Thou art showing Valor in the face of danger. Strive to become yet more so!,0x1000bc3
+Thou art not yet a valiant warrior. Fight to defeat evil and prove thyself!,0x1000bc4
+Thou dost not display a great deal of Valor. Not all battles need be won by force alone!,0x1000bc5
+Thou art a murderous coward. Thou art consumed wholly by evil!,0x1000bc6
+Thou art just and fair. Seek ye now the Elevation!,0x1000bc7
+Thou dost seem fair and just. Strive to uphold Justice even more sternly!,0x1000bc8
+Thou hast not proven thyself to be just. Strive to do justice unto all things!,0x1000bc9
+Thou art cruel and unjust. In time thou will suffer for thy crimes!,0x1000bca
+Thou art an unjust wretch. Thou are a fulsome meddler!,0x1000bcb
+Thy self-sacrifice is great. Seek now Elevation!,0x1000bcc
+Thou art giving of thyself in some ways. Seek ye now to find yet more!,0x1000bcd
+Thy sacrifice is small. Give of thy life's blood so that others may live.,0x1000bce
+Thou dost need to think more of the life of others and less of thy own!,0x1000bcf
+"Thou art a self-serving Tufthunter. Thou deservest not my help, yet I grant it!",0x1000bd0
+Thou hast proven thyself to be Honorable. Seek ye now for the Elevation!,0x1000bd1
+Thou dost seem to be Honorable in nature. Seek to bring Honor upon others as well!,0x1000bd2
+Thou dost need to show thyself to be more honorable. The path lies before thee!,0x1000bd3
+Thou dost not fight with honor but with malice and deceit!,0x1000bd4
+Thou art a cad and a bounder. Thy presence is an affront. Thou art low as a slug!,0x1000bd5
+Spirituality is in thy nature. Seek ye now the Elevation!,0x1000bd6
+Thou art doing well on the path to inner sight. Continue to seek the inner light.,0x1000bd7
+Strive to know and master more of thine inner being. Meditation lights the path!,0x1000bd8
+"Thou dost not take time to care about thy inner being, a must to be an Avatar!",0x1000bd9
+Thy spirit is weak and feeble. Thou dost not strive for Perfection!,0x1000bda
+Thy Humility shines bright upon thy being. Seek ye now for Elevation!,0x1000bdb
+Thou dost seem a humble soul. Thou art setting strong stones to build virtues upon!,0x1000bdc
+Thy progress on this path is most uncertain. Without Humility thou art empty!,0x1000bdd
+Thou art too proud of thy little deeds. Humility is the root of all Virtue!,0x1000bde
+Thou art proud and vain. All other virtue in thee is a loss!,0x1000bdf
+"Lord British, Sovereign of all Britannia!",0x1000c1c
+the King with the Royal Sceptre.,0x1000c1d
+job,0x1000c1e
+"I rule all Britannia, and shall do my best to help thee!",0x1000c1f
+heal,0x1000c20
+"I am well, thank ye.",0x1000c21
+help,0x1000c22
+"To survive in this hostile land thou must first know thyself! Seek ye to master thy weapons and thy magical ability! Take care in these thy first travels in Britannia... Until thou dost know well thyself, travel not far from the safety of the townes!",0x1000c23
+Travel not the open lands alone. There may be other worthy people on the Quest with whom it would be wise to ask to join thee!,0x1000c24
+"Learn ye the paths of virtue. Seek to gain entry unto the eight shrines! Find ye the Runes, needed for entry into each shrine, and learn each chant or ""Mantra"" used to focus thy meditations... Within the Shrines thou shalt learn of the deeds which show thy inner virtue or vice!",0x1000c25
+"Choose thy path wisely for all thy deeds of good and evil are remembered and can return to hinder thee! Visit the Seer Hawkwind often and use his wisdom to help thee prove thy Virtue. When thou art ready, Hawkwind will advise thee to seek the Elevation unto partial Avatarhood in a virtue... Seek ye to become a partial Avatar in all eight virtues, for only then shalt thou be ready to seek the codex!",0x1000c26
+Go ye now into the depths of the dungeons. Therein recover the 8 colored stones from the altar pedestals in the halls of the dungeons... Find the uses of these stones for they can help thee in the Abyss!,0x1000c27
+Thou art doing very well indeed on the path to Avatarhood! Strive ye to achieve the Elevation in all eight virtues!,0x1000c28
+"Find ye the Bell, Book and Candle! With these three things, one may enter the Great Stygian Abyss!",0x1000c29
+"Before thou dost enter the Abyss thou shalt need the Key of Three Parts, and the Word of Passage... Then might thou enter the Chamber of the Codex of Ultimate Wisdom!",0x1000c2a
+"Thou dost now seem ready to make the final journey into the dark Abyss! Go not alone! Good luck, and may the powers of good watch over thee on this thy most periolous endeavor! The hearts and souls of all Britannia go with thee now. Take care, my friend...",0x1000c2b
+trut,0x1000c2c
+Many truths can be learned at the Lycaeum. It lies on the northwestern shore of Verity Isle!,0x1000c2d
+love,0x1000c2e
+Look for the meaning of Love at Empath Abbey. The Abbey sits on the western edge of the Deep Forest!,0x1000c2f
+cour,0x1000c30
+Serpent's Castle on the Isle of Deeds is where Courage should be sought!,0x1000c31
+hone,0x1000c32
+The fair towne of Moonglow on Verity Isle is where the virtue of Honesty thrives!,0x1000c33
+comp,0x1000c34
+The bards in the towne of Britain are well versed in the virtue of Compassion!,0x1000c35
+valo,0x1000c36
+Many valiant fighters come from Jhelom in the Valarian Isles!,0x1000c37
+just,0x1000c38
+"In the city of Yew, in the Deep Forest, Justice is served!",0x1000c39
+sacr,0x1000c3a
+"Minoc, towne of self-sacrifice, lies on the eastern shores of Lost Hope Bay!",0x1000c3b
+hono,0x1000c3c
+"The Paladins who strive for Honor are oft seen in Trinsic, north of the Cape of Heroes!",0x1000c3d
+spir,0x1000c3e
+In Skara Brae the Spiritual path is taught. Find it on an isle near Spiritwood!,0x1000c3f
+humi,0x1000c40
+"Humility is the foundation of Virtue! The ruins of proud Magincia are a testimony unto the Virtue of Humility! Find the Ruins of Magincia far off the shores of Britannia, on a small isle in the vast Ocean!",0x1000c41
+prid,0x1000c42
+"Of the eight combinations of Truth, Love and Courage, that which contains neither Truth, Love nor Courage is Pride. Pride being not a Virtue must be shunned in favor of Humility, the Virtue which is the antithesis of Pride!",0x1000c43
+mond,0x1000c44
+"Mondain is dead!<q>Listen to the tale?<y><@ultima1>Lord British recounts the events of a time long gone, when the world was threatened by Mondain, the evil wizard!<bye><n>Perhaps another time then!",0x1000c45
+mina,0x1000c46
+"Minax is dead!<q>Listen to the tale?<y><@ultima2>Lord British recounts the events of a time long gone, when all of time was threatened by the evil sorceress Minax, during a time now known as the Revenge of the Enchantress!<bye><n>Perhaps another time then!",0x1000c47
+exod,0x1000c48
+"Exodus is dead!<q>Listen to the tale?<y><@ultima3>Lord British recounts the events of a time long gone, when the world was threatened by the mysterious spawn of Mondain and Minax, known only as Exodus!<bye><n>Perhaps another time then!",0x1000c49
+avat,0x1000c4a
+To be an Avatar is to be the embodiment of the Eight Virtues. It is to live a life constantly and forever in the Quest to better thyself and the world in which we live.,0x1000c4b
+ques,0x1000c4c
+The Quest of the Avatar is to know and become the embodiment of the Eight Virtues of Goodness! It is known that all who take on this Quest must prove themselves by conquering the Abyss and Viewing the Codex of Ultimate Wisdom!,0x1000c4d
+brit,0x1000c4e
+"Even though the Great Evil Lords have been routed evil yet remains in Britannia. If but one soul could complete the Quest of the Avatar, our people would have a new hope, a new goal for life. There would be a shining example that there is more to life than the endless struggle for possessions and gold!",0x1000c4f
+ankh,0x1000c50
+he Ankh is the symbol of one who strives for Virtue. Keep it with thee at all times for by this mark thou shalt be known!,0x1000c51
+abys,0x1000c52
+"The Great Stygian Abyss is the darkest pocket of evil remaining in Britannia! It is said that in the deepest recesses of the Abyss is the Chamber of the Codex! It is also said that only one of highest Virtue may enter this Chamber, one such as an Avatar!",0x1000c53
+virt,0x1000c54
+"The Eight Virtues of the Avatar are: Honesty, Compassion, Valor, Justice, Sacrifice, Honor, Spirituality, and Humility!",0x1000c55
+black stone,0x1001388
+"Ah, the Black Stone. Yes I've heard of it. But, the only one who knows where it lies is the wizard Merlin.",0x1001389
+sextant,0x100138a
+For navigation a Sextant is vital... Ask for one in the Guild shops!,0x100138b
+white stone,0x100138c
+"Hmmm, Now let me see... Yes, it was the old Hermit... Sloven! He is tough to find, lives near Lock Lake I hear.",0x100138d
+skull,0x100138e
+If thou must know of that evilest of all things... find the beggar Jude. He is very very poor!,0x100138f
+mandrake,0x1001390
+The last person I knew that had any Mandrake was an old alchemist named Calumny.,0x1001391
+nightshade,0x1001392
+Of Nightshade I know but this... Seek out Virgil or thou shalt miss! Try in Trinsic!,0x1001393
+Take not the gold of others found in towns and castles for yours it is not!,0x1001394
+Cheat not the merchants and peddlers for tis an evil thing to do!,0x1001395
+"Second, read the Book of Truth at the entrance to the Great Stygian Abyss!",0x1001396
+"Kill not the non-evil beasts of the land, and do not attack the fair people!",0x1001397
+Give of thy purse to those who beg and thy deed shall not be forgotten!,0x1001398
+"Third, light the Candle of Love at the entrance to the Great Stygian Abyss!",0x1001399
+Victories scored over evil creatures help to build a valorous soul!,0x100139a
+To flee from battle with less than grievous wounds often shows a coward!,0x100139b
+"First, ring the Bell of Courage!",0x100139c
+To take the gold of others is injustice not soon forgotten. Take only thy due!,0x100139d
+Attack not a peaceful citizen for that action deserves strict punishment!,0x100139e
+"Kill not a non-evil beast for they deserve not death, even if in hunger they attack thee!",0x100139f
+To give thy last gold piece unto the needy shows good measure of self-sacrifice!,0x10013a0
+For thee to flee and leave thy companions is a self-serving action to be avoided!,0x10013a1
+To give of thy life's blood so that others may live is a virtue of great praise!,0x10013a2
+Take not the gold of others for this shall bring dishonor upon thee!,0x10013a3
+To strike first a non-evil being is by no means an honorable deed!,0x10013a4
+"Seek ye to solve the many quests before thee, and honor shall be thy reward!",0x10013a5
+Seek ye to know thyself. Visit the seer often for he can see into thy inner being!,0x10013a6
+Meditation leads to enlightenment. Seek ye all Wisdom and Knowledge!,0x10013a7
+"If thou dost seek the White Stone, search ye not under the ground, but in Serpent's Spine!",0x10013a8
+Claim not to be that which thou art not. Humble actions speak well of thee!,0x10013a9
+Strive not to wield the great force of evil for its powers will overcome thee!,0x10013aa
+"If thou dost seek the Black Stone, search ye at the Time and Place of the gate on the darkest of all nights!",0x10013ab
+Player doesn't exist,0x10013ac
+You tell,0x10013ad
+Thou hast proven thyself to be truly good in nature.,0x10013ae
+Thou must know that thy quest to become an Avatar is the endless quest of a lifetime.,0x10013af
+Avatarhood is a living gift. It must always and forever be nurtured to flourish.,0x10013b0
+"For if thou dost stray from the paths of virtue, thy way may be lost forever.",0x10013b1
+"Return now unto thine own world. Live there as an example to thy people, as our memory of thy gallant deeds serves us.",0x10013b2
+"As the sound of the voice trails off, darkness seems to rise around you. There is a moment of intense, wrenching vertigo.",0x10013b3
+You open your eyes to a familiar circle of stones. You wonder of your recent adventures.,0x10013b4
+It seems a time and place very distant. You wonder if it really happened. Then you realize that in your hand you hold The Ankh.,0x10013b5
+"You walk away from the circle, knowing that you can always return from whence you came, since you now know the secret of the gates.",0x10013b6
+CONGRATULATIONS! Thou hast completed ULTIMA IV Quest of the AVATAR! Return to the world of Britannia and aid others in their quest!,0x10013b7
+veramocor,0x10013b8
+infinity,0x10013bc
+tells you,0x10013bd
+Enter... If you dare!,0x10013be
+Chuckles: Welcome all!,0x10013bf
+"West 8, South 35 and await Dawn!",0x10013c0
+"The Wise Cleric: 4 cards, 4 slots...",0x10013c1
+Phantom Fighter: The food stinks!,0x10013c2
+Cookie cries: Like the food?,0x10013c3
+Iolo sings: Ho eyo he hum!,0x10013c4
+Gwino sings: Muh eh oye oh!,0x10013c5
+Welcome to Dawn!,0x10013c6
+*Search* on isles!,0x10013c7
+*Search* for Exotics!,0x10013c8
+*Search* carefully!,0x10013c9
+Jolly Good Day!,0x10013ca
+Dawn lasts but a brief moment!,0x10013cb
+Ambrosia awaits!,0x10013cc
+Seek ye thy fortune!,0x10013cd
+Begone fool!,0x10013ce
+*Bribe* me to enter,0x10013cf
+Exodus is four as one!,0x10013d0
+Marks gained in dungeons!,0x10013d1
+Hot metal leaves a Mark!,0x10013d2
+The King favors a Mark!,0x10013d3
+A Mark helps invoke the Snake,0x10013d4
+"4 Marks, 4 uses!",0x10013d5
+Seek ye the Dungeon of Fire!,0x10013d6
+Mark thee well!,0x10013d7
+All may enter... None shall leave!,0x10013d8
+Choose well your way!,0x10013d9
+Save me please!,0x10013da
+Death is here!,0x10013db
+Leave quickly!,0x10013dc
+*Meditate* for the invocation!,0x10013dd
+*Meditate* in the Circle of Light!,0x10013de
+'Invoke' the Silver Snake!,0x10013df
+To pass you need a Mark!,0x10013e0
+Fawn is a nice place!,0x10013e1
+Welcome to Fawn: City of the sea!,0x10013e2
+Yo! ho! ho! and a bottle of rum!,0x10013e3
+Watch it bub!,0x10013e4
+Ever seen Exotic arms?,0x10013e5
+Exotic clues found at Dawn!,0x10013e6
+Only Exotics will protect from Great Evil!,0x10013e7
+Don't you wish you were a Jester!,0x10013e8
+Is it not lovely?,0x10013e9
+Quest ye unto Lost Ambrosia!,0x10013ea
+Only with Exotic arms can you win,0x10013eb
+Exodus lies beyond the Silver Snake!,0x10013ec
+Dawn comes each new pair!,0x10013ed
+Dupre laughs: Drink up!,0x10013ee
+Round back!,0x10013ef
+Ho! Ho!,0x10013f0
+*Insert* cards into panels!,0x10013f1
+"4 cards, 4 pannels...",0x10013f2
+Jolly Joe: Ho Ho Ho!,0x10013f3
+Baby Bob: Bring me bucks!,0x10013f4
+Cards are useful!,0x10013f5
+Marks are useful!,0x10013f6
+Exotics are useful!,0x10013f7
+"Good stuff, eh?",0x10013f8
+Seek the Jester in castle Fire!,0x10013f9
+Sentri: Good grog!,0x10013fa
+Shamino: Good food!,0x10013fb
+*Search* the Shrines!,0x10013fc
+*Search* for cards!,0x10013fd
+None shall pass!,0x10013fe
+We are honored!,0x10013ff
+Seek ye the Shrines of Truth.,0x1001400
+To arms! And to battle!,0x1001401
+*Bribe* guards! They will leave!,0x1001402
+Peace be with you.,0x1001403
+I've been beyond the whirlpool!,0x1001404
+Dawn rises in the Dark Forest.,0x1001405
+Depart or die!,0x1001406
+Search and ye shall find!,0x1001407
+Welcome to the Circle of Light!,0x1001408
+Bonam animam tueri!,0x1001409
+Know ye well thy foes!,0x100140a
+Dardin's Pit!,0x100140b
+Secret slides!,0x100140c
+Beware traps!,0x100140d
+Ever adventure!,0x100140e
+Gremlins!,0x100140f
+Circle Death!,0x1001410
+Colossal cavern!,0x1001411
+Traps to gold!,0x1001412
+Welcome fools to your doom!!,0x1001413
+Secret corners!,0x1001414
+Traps & Treasure,0x1001415
+Beware the winds,0x1001416
+Danger!,0x1001417
+Map well!!!,0x1001418
+Reach up!,0x1001419
+Windy secret,0x100141a
+Beware the fires of hell!,0x100141b
+Trapped door!,0x100141c
+Twisty maze!,0x100141d
+Windy walk!,0x100141e
+Gremlin city!,0x100141f
+Devils den!,0x1001420
+Go back! Pits!,0x1001421
+Chamber of fire!,0x1001422
+Mines of Morinia,0x1001423
+Terror tunnels!,0x1001424
+Long march!,0x1001425
+Misty mines!,0x1001426
+Mines of madness,0x1001427
+"G, T, & G!",0x1001428
+Dark prevails!,0x1001429
+Dry hole,0x100142a
+Perinian depths,0x100142b
+Go back!,0x100142c
+Not here!,0x100142d
+Quarter each!,0x100142e
+Death awaits!,0x100142f
+Map well!,0x1001430
+Gremlins!,0x1001431
+Go back!,0x1001432
+Clues to follow!,0x1001433
+*Insert* cards into Exodus!,0x1001434
+*Search* the Shrines!,0x1001435
+Death below!,0x1001436
+Don't drink!,0x1001437
+Gremlins!,0x1001438
+Windy gold!,0x1001439
+Time awaits!,0x100143a
+Gremlin gold!,0x100143b
+Golden center!,0x100143c
+Stair to heaven!,0x100143d
+Time runs short!,0x100143e
+Long march!,0x100143f
+Trap!,0x1001440
+Very near now!,0x1001441
+"Ambrosia, ever heard of it?",0x1001442
+"Dawn, the city of myths & magic!",0x1001443
+The conjunction of the moons finds link!,0x1001444
+"Nasty creatures, nasty dark, sure thee ready, fore thee embark.",0x1001445
+"None return or so I'm told, from the pool, dark and cold!",0x1001446
+"Shrines of knowledge, shrines of strength, all are lost into the brink!",0x1001447
+"Fountains fair & fountains foul, all are found in dungeons bowel.",0x1001448
+"EXODUS: Ultima ]I[, which is next? Now could it be!",0x1001449
+"Seek ye out the Lord of Time, and the one way is a sure find!",0x100144a
+"And so the sage said unto thee, 'If thou can solve my rhyme...'",0x100144c
+'...you'll learn of marks & playing cards & hidden holy shrines.',0x100144d
+"Of marks I say there are but 4 of fire, force, snake & king.",0x100144e
+"Learn their use in Devil Guard, or death you'll surely bring.",0x100144f
+Shrines there are again but 4 to which you meditate.,0x1001450
+Their uses are inumerable and clues throughout I state.,0x1001451
+"The cards their suits do number 4, called Sol, Moon, Death and Love.",0x1001452
+Unto the Montors thou must go for guidance from above.,0x1001453
+"To aid thee in thy cryptic search, to dungeons thou must fare.",0x1001454
+There seek out the Lord of Time to help you if he cares.,0x1001455
+Brother Antos inquires: Have you found my father?,0x1001456
+Sister Sledge sings: We are family!,0x1001457
+"Andre the French Chef says: Hic, wan som colduck, hic?",0x1001458
+The merchant orders: Give the King a tribute!,0x1001459
+The subdued balron whimpers: Lithium packs the 16th level!,0x100145a
+The floppy fighter brags: I own one of everything!,0x100145d
+Lady Sherrie cries: gag me with a spoon!,0x100145f
+Ronall Mc Donall sings: Try our new ride through!,0x1001460
+The sightless sage says: Find the Father earn the ring!,0x1001461
+Lady Mary Ellen pleads: Beat me kick me tell me lies!,0x1001462
+Waren Beatty asks: Have you seen Diane Keaton?,0x1001463
+"Chuckles the Bumble cries: Can I look yet, is it over?",0x1001464
+The village idiot suggests: Offer the hotel clerk gold!,0x1001465
+"Red the Pirate boasts: I've a broken Ultima ]I[, want one?",0x1001466
+Brother Antos ordains: Search the stars for my kin!,0x1001467
+Bishop Bob preaches: Confess to Brother Antos!,0x1001468
+"Andre the French Chef burps: I drink therefore, I am!",0x1001469
+Commander Decker screams: Is it soup yet!!!,0x100146a
+The wandering bard asks: Do you know the way to San Jose?,0x100146b
+Grendel the bum says: Masters of riddle are masters indeed!,0x100146c
+Andy Greenberg complains: What? No software?!?,0x100146d
+Robert Woodhead exclaims: Copy protect! Copy protect!,0x100146e
+The chaste nubile nymph asks: Visit the Hotel California!,0x100146f
+Ithilian the Wench calls: Make me an offer sailor!,0x1001470
+John Mayer orders: Take out the trash!!!,0x1001471
+Gerry Mayer proclaims: We know small computers!,0x1001472
+"Keith says: No thanks, trying to cut down",0x1001473
+The joker laughs: You're halfway there!,0x1001474
+The pirate chortles: I own 30 tassles!,0x1001475
+Dupre the Swashbuckler asks: Wanna buy a duck?,0x1001476
+Johnny Jones asks: Know where I can get a duck?,0x1001477
+The she creature begs: Take me I'm yours!,0x1001478
+Homer the salesman asks: Ya want some life insurance?,0x1001479
+David Alpert whimpers: I've done a bad thing,0x100147a
+"Minax cries: A coward dies a thousand deaths, a hero only one. Either way, you lose!!!",0x100147b
+Marlin Perkins threatens: Go in and I'll zap you!,0x100147c
+Owen K. Garriott asks: Have you seen my shuttle?,0x100147d
+Hecate chants: Bubble bubble toil and trouble!,0x100147e
+The historian declares: George Washington slept here!,0x100147f
+Debbie the lifeguard yells: Get a big grip!,0x1001480
+Richard Garriott promises: Tomorrow--For sure!,0x1001481
+Howie the pest hounds: Isn't Ultima ][ finished yet?,0x1001482
+Johnathon Ben asks: This ever happen to you?,0x1001483
+An astronaut claims: There is a Planet 'X'!,0x1001484
+An astronaut claims: Father Antos lives on 'X',0x1001485
+The druid: Anol Nathrac Uth Des Bessod Dien Doch Dientes!,0x1001486
+The Phylosopher theorizes: She's got to be at 9-9-9!,0x1001487
+Father Antos chants: You have earned my blessing. Return and claim the Ring!,0x1001488
+"Sing Lee the cook yells: Kitchen closed, come back later!",0x1001489
+Justin the Jailer warns: I wouldn't go in there!,0x100148a
+Queen Susan says: Father Antos awaits you!,0x100148b
+Ugly Irving states: No mages allowed!,0x100148c
+Kieth Zabalaoui says: I've never done this before!,0x100148d
+"An experienced warrior says: Find Antos, earn the Ring!",0x100148e
+A wimpy warrior squeals: Antos is on 'X'!,0x100148f
+Margot Tommervik exclaims: Talk softly to me!,0x1001490
+Al Tommervik inquires: Do you read me?,0x1001491
+Big Bob jaws: Give Bill 300 gold!,0x1001492
+Bill Bruiser demands: Give Bob 600 gold!,0x1001493
+The Seaworthy Pirate says: See the clerk in New San.,0x1001494
+The Burly Pirate says: New San. is full of magic!,0x1001495
+The Ugly Smelly Pirate says: Antos is the answer!,0x1001496
+The Big Bouncer stalls: Where the hell is your I.D.?,0x1001497
+"The Swamp Jester laughs: You lose, cadet!",0x1001498
+The Court Jester says: Isn't this a silly Place?,0x1001499
+The French Jester begs: Manger moi!,0x100149a
+"The Stoned Jester complains: Rocks have spirits, too!",0x100149b
+Isn't this a great game?,0x100149c
+Thieves carry keys!,0x100149d
+Some fighters wear magic helms!,0x100149e
+Aviators use skull keys!,0x100149f
+Sailors wear blue tassles!,0x10014a0
+Mages carry wands or staffs!,0x10014a1
+Guards carry keys!,0x10014a2
+Ankhs open space!,0x10014a3
+Planes need brass buttons!,0x10014a4
+The Queen is the King and the King is a Spy!,0x10014a8
+The evil men do is a horrible thing...,0x10014a9
+...but dispelling means that you must have the ring!,0x10014aa
+"Just where it is, I cannot say...",0x10014ab
+"...but I'll tell you right now, there is no other way!",0x10014ac
+I hear in a town where the water runs free...,0x10014ad
+...there is an old man living under a tree.,0x10014ae
+He has not a name but he does have a clue...,0x10014af
+"...and now if you find him, he'll tell it to you!",0x10014b0
+Watch out for lechers and wenches!,0x10014b1
+Learn about space travel!,0x10014b2
+Many lakes and ponds have strong magical powers!,0x10014b3
+Thou should destroy the evil gem!,0x10014b4
+Thou must destroy at least 20 enemy vessels to become a Space Ace!,0x10014b5
+Thou must go back in time. Traverse the lands in search of a time machine.,0x10014b6
+"The princess will give a great reward to the one who rescues her, and an extra gift to an 8th level Space Ace!",0x10014b7
+"Over 1000 years ago, Mondain the Wizard created an evil gem. With this gem, he is immortal and cannot be defeated.",0x10014b8
+Thou should go back in time to the days before Mondain created the evil gem and destroy him!,0x10014b9
+Good day!,0x10014bb
+The guard says: Pay your taxes!,0x10014bc
+The jester sings: Ho ho ho!,0x10014bd
+The villager asks: Will you buy my apples?,0x10014be
+"The fighter says: Ugh, me tough!",0x10014bf
+The cleric says: Believe!,0x10014c0
+The wizard says: Hex-E-Poo-Hex-On-You!,0x10014c1
+"The thief says: Psst, wanna buy a watch?",0x10014c2
+The guard says: Move along!,0x10014c3
+The guard says: I'm watching you!,0x10014c4
+The jester sings: Ho eyo he hum!,0x10014c5
+"The jester jokes: A horse walks into a bar and yells ""Hey!""",0x10014c6
+The villager says: Good day!,0x10014c7
+The villager says: You're not from around here!,0x10014c8
+The fighter says: Taste steel!,0x10014c9
+The fighter asks: You trying to start something?,0x10014ca
+The cleric says: Bonam animam tueri!,0x10014cb
+The cleric demands: Alms for the poor!,0x10014cc
+The wizard shouts: You shall not pass!,0x10014cd
+The wizard says: There are some who call me... Tim?,0x10014ce
+"The thief says: Hey, look over there!",0x10014cf
+The thief says: I was only going to borrow it!,0x10014d0
+You feel a strong magic surrounding you!,0x10014d1
+"You hear a voice say, ""TURIS-SCIENTIA-MAGNOPERE.""",0x10014d2
+"The sign reads: ""FORTES FORTUNA ADIUVAT!""",0x10014d3
+"On a pedestal, these words appear: ""MY NAME IS OZYMANDIAS, KING OF KINGS: LOOK AT MY WORKS, YE MIGHTY, AND DESPAIR!""<b><b>Nothing beside remains.",0x10014d4
+"The grave is marked: ""VAE VICTIS.""",0x10014d5
+"""GO EAST TO GO EAST!""",0x10014d6
+"The sign reads: ""ULTIMA THULE!""<b><b>The sky grows dark, and a strong magic engulfs you!",0x10014d7
+"The sign reads: ""OMNIA MUTANTUR!""",0x10014d8
+that it requires all four gems to launch a time machine!,0x10014d9
+that the time machine must be used in order to win!,0x10014da
+the princess will help a space ace through time!,0x10014db
+to take nine items from my storerooms - but only nine!,0x10014dc
+The jester sings: I've got the key! ,0x10014dd
+The Bard sings: Ho eyoh he hum!,0x10014de
+Gwenno the jester sings: I've got the key!,0x10014df
+Iolo the Bard sings: Ho eyoh he hum!,0x10014e0
+Thou hast saved the princess,0x10014e1
+"She informs thee that thou art now ready for time travel, and gives thee directions to a hidden time machine!",0x10014e2
+"Entering the craft, thou dost remark upon four holes marked: Red Green Blue and White.",0x10014e3
+The proper gems fit in each hole.,0x10014e4
+"Further examination leads thee to two discoveries: There is a button marked LAUNCH, and thou art locked in, with nothing to do but press it!",0x10014e5
+"As soon as thou hast pressed the large black button, lights begin to dance across the control screens.",0x10014e6
+Generators shake the very floor beneath thy feet.,0x10014e7
+The small craft begins to tremble and rattle as thy journey through time begins...,0x10014e8
+After but a few moments thou dost feel a strong magic pulling thee from thy craft...,0x10014e9
+"A moment later, thou art face to face with the evil Mondain himself!<b>Good luck, this is it!",0x10014ea
+"And so it came to pass on this day EXODUS, hell-born incarnate of evil, was vanquished from Sosaria.<b><b>Congratulations! Thou hast completed Exodus: Ultima III. Report thy feat!",0x10014ec
+Only a bearer of all 4 Marks can wield Exotics!,0x10014ed
+"To invoke the snake, yell 'Evocare'",0x10014ee
+ahm,0x10014ef
+mu,0x10014f0
+ra,0x10014f1
+beh,0x10014f2
+cah,0x10014f3
+summ,0x10014f4
+om,0x10014f5
+lum,0x10014f6
+Sir John,0x10014f7
+a battle hardened knight,0x10014f8
+I was once an adventurer who explored the lands of Britannia.,0x10014f9
+I am well considering my age.,0x10014fa
+"Yes, I even flew above the clouds!",0x10014fb
+Yes on an a flying vessel that was propelled by the winds!,0x10014fc
+"The vessel was at the mercy of the four winds, but I found a magical silver horn that could control them!",0x10014fd
+There are both those that sail by sea and a balloon that flies by air.,0x10014fe
+An old man mumbles: I'm an old man.,0x1001500
+"To obtain the ring, you must first receive the blessing of Antos!",0x1001501
+Seek ye now the ring in the %s of %s!,0x1001502
+Sentri the Swashbuckler says: I can build a quick blade! Search for each of its 3 parts in the dungeons and towers of Earth!,0x1001503
+Sentri says: Search for the blade in the dungeon!,0x1001504
+Sentri says: Search for the pommel in the nearby tower!,0x1001505
+Sentri says: Search for the hilt in a tower lost to time!,0x1001506
+Sentri says: Behold thy Quicksword!,0x1001507
+Sentri says: The Quicksword is the only weapon that can defeat Minax!,0x1001508
+Cough...,0x1001509
+Cough...,0x100150a
+Cough...,0x100150b
+A rain of silver lightning heralds the death of Mondain.,0x100150c
+Fleeting glimpses of fates avoided rush through thy mind as the arcane power of the mage's dying scream echoes in thy ears.,0x100150d
+A thousand years pass in but a moment's time as a strange sleep overcomes thee.,0x100150e
+Upon awakening thou dost find thyself in new surroundings.,0x100150f
+A stately youth in violet robes helps thee to thy feet whereupon thou dost see the thousands who gaze upon thee in adoration.,0x1001510
+"""Thy selfless heroism hath saved our people, my worthy one.""",0x1001511
+"""Should our gratitude alone not be enough to sustain thee, know that I, Lord British, hereby ordain the entire realm of Sosaria be at thy service for all time henceforth.""",0x1001512
+"""So let it be done.""",0x1001513
+You hear a strange chanting... it looks as if he is creating the evil gem!,0x1001514
+THOU ART DEAD! Thou hast been defeated by Mondain the Wizard! THE UNIVERSE IS DOOMED!,0x1001515
+Return when thou art an 8th level space ace!,0x1001516
+"Finally, Minax fell. You feel a strange force!",0x1001517
+"With the death cry of the terrible witch, her work vanishes without a trace from all planets and all ages.",0x1001518
+"As you look back on your long journey, you are suddenly overcome by a feeling similar to the nausea you felt when you entered the time door.",0x1001519
+Has space-time begun to distort as if to correct the distortion?,0x100151a
+"Feeling faint, you find yourself facing the young king, Lord British.",0x100151b
+"After accomplishing this great feat, the people of Sosaria have gathered to express their admiration and gratitude.",0x100151c
+"Intoxicated with the sweet wine of victory, you and your people rejoice in the return of peace to this beautiful kingdom.",0x100151d
+But at the back of your mind a question is brewing: What was Minax up to in that castle?,0x100151e
+For now you decide to focus on enjoying some long-awaited rest.,0x100151f
+You have saved the universe! Seek now to conquer wicked Exodus!,0x1001520
+The Fire Castle crumbles away; the aera of fear is over.,0x1001521
+"Many tongues of flame burn the sky, and the earth trembles with the cry of death agonies of Exodus.",0x1001522
+"The dark clouds that have covered the world are blown away with the fresh, clean air.",0x1001523
+Peace returns to the realm of Sosaria again.,0x1001524
+"Now the world is calm. No evil creatures' roar, no pain, and no tragedy anymore.",0x1001525
+"You have returned to Castle British, the goal of your journey.",0x1001526
+"Returning in triumph, you recall the long days and difficult battles.",0x1001527
+"The young and wise king, Lord British, welcomes you and says, ""Welcome back, oh true hero!""",0x1001528
+"""Can you hear the praise of the people? We have won true peace and glory.""",0x1001529
+"""Come, there is something to show you.""",0x100152a
+The king leads you to a balcony from which you can overlook the entire castle.,0x100152b
+A large crowd of people have come to applaud your deed.,0x100152c
+"On the northern horizon, there is a great, rough mountain range that you haven't seen before.",0x100152d
+"""When you sealed Exodus, there occurred an earthquake which upheaved that mountain range.""",0x100152e
+"""Doesn't it look like the spine of a snake? I shall name it Serpent's Spine.""",0x100152f
+"""The story of your great work will be handed down by word with the birth of Serpent's Spine.""",0x1001530
+The Hell-born incarnate of evil that uneased people has been exorcised completely.,0x1001531
+"The story of your deed will be handed down by Iolo the bard, and the people will enjoy prosperity and peace.",0x1001532
+"But, who knows when evil will return with terror and demolition?",0x1001533
+"Should that situation arise, another quest shall await you!",0x1001534
+M.E.,0x1001535
+I'd call it my death but I'll only fade away.,0x1001536
+M.E. I eat dust.,0x1001537
+a mechanically engineered automaton,0x1001538
+"There's no one left to see, and there's no one left to die.",0x1001539
+"I turned off the pain, like I turned off you all. Now there's only M.E.",0x100153a
+I resist.,0x100153b

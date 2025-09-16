@@ -1,0 +1,22 @@
+Player is dead: PASS
+Player is alive: PASS
+Obtained red gem: PASS
+Obtained green gem: PASS
+Obtained blue gem: PASS
+Obtained white gem: PASS
+Strength raised: PASS
+Agility raised: PASS
+Intelligence raised: PASS
+Wisdom raised: PASS
+Stamina raised: PASS
+Charisma raised: PASS
+Achieved Space Ace: PASS
+Key stolen from jester: PASS
+Entered princess' cell: PASS
+Player rejected by princess: PASS
+Key stolen from jester: PASS
+Entered princess' cell: PASS
+Player accepted by princess: PASS
+Destroyed Gem of Immortality: PASS
+Killed Mondain: PASS
+Completed Ultima 1

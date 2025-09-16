@@ -1,0 +1,1 @@
+This is actually the glfw3_mt.lib file, renamed to glfw3.lib

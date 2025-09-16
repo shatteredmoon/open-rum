@@ -1,0 +1,60 @@
+Unknown user name or incorrect password,0x1
+Unknown user name or incorrect password,0x2
+Error occurred while accessing account,0x3
+The specified name is already used,0x4
+"No response from server, please try again",0x5
+That account is already signed on,0x6
+Invalid account name,0x7
+Invalid password,0x8
+Password pair mismatch,0x9
+Error occurred while creating account,0xa
+Error occurred while creating character,0xb
+Invalid character name,0xc
+The specified name is already used,0xd
+"No response from server, please try again",0xe
+The specified name is restricted,0xf
+Error occurred during character login,0x10
+Invalid player name,0x11
+Character not found,0x12
+That character is already signed on,0x13
+Center,0x50
+West,0x51
+Northwest,0x52
+North,0x53
+Northeast,0x54
+East,0x55
+Southeast,0x56
+South,0x57
+Southwest,0x58
+Gemstone,0x64
+Bamboo,0x65
+Dragon scale,0x66
+Yew,0x67
+Soapstone,0x68
+Granite,0x69
+Ivory,0x6a
+Bone,0x6b
+Avatar,0x7f
+Bard,0x80
+Druid,0x81
+Fighter,0x82
+Mage,0x83
+Paladin,0x84
+Ranger,0x85
+Shepherd,0x86
+Tinker,0x87
+Honesty,0x88
+Compassion,0x89
+Valor,0x8a
+Justice,0x8b
+Sacrifice,0x8c
+Honor,0x8d
+Spirituality,0x8e
+Humility,0x8f
+Truth,0x90
+Love,0x91
+Courage,0x92
+Cleric,0x93
+Wizard,0x94
+Thief,0x95
+That character is still logging out,0x96

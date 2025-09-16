@@ -1,0 +1,3 @@
+class Broadcast extends rumBroadcast
+{
+}

@@ -1,0 +1,66 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+qwindows*.dll
+ms*.dll
+Qt*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug database files
+*.pdb
+
+# Compiled squirrel files
+*.cnut
+
+# Log files
+*.log
+
+# User specific files
+*.user
+
+# Sqlite journal files
+*.db-shm
+*.db-wal
+*.rum-shm
+*.rum-wal
+
+/.vs
+/bin
+/cmake
+/export*
+/lib
+/notes
+/sources
+/ultima/scripts/bin/
+
+/workbench.bat
+/rum_client_release.ini
+/rum_server_release.ini
+
+imgui.ini

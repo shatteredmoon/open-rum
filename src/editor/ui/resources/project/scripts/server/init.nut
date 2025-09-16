@@ -1,0 +1,11 @@
+rumLoadScript("shared.nut");
+rumLoadScript("property.nut");
+rumLoadScript("inventory.nut");
+rumLoadScript("map.nut");
+rumLoadScript("tile.nut");
+rumLoadScript("widget.nut");
+rumLoadScript("portal.nut");
+rumLoadScript("creature.nut");
+rumLoadScript("player.nut");
+rumLoadScript("broadcast.nut");
+rumLoadScript("server.nut");

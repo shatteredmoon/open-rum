@@ -1,0 +1,1348 @@
+-------------------------------------------------------------------------------
+ooooo  oooo o888    o8    o88
+ 888    88   888  o888oo  oooo  oo ooo oooo     ooooooo
+ 888    88   888   888     888   888 888 888    ooooo888
+ 888    88   888   888     888   888 888 888  888    888
+  888oo88   o888o   888o  o888o o888o888o888o  88ooo88 8o
+-------------------------------------------------------------------------------
+
+Administrator's Guide
+
+===============================================================================
+Admin Commands
+===============================================================================
+
+---------------------------------------
+/create
+---------------------------------------
+
+Allows dynamic creation of pawn objects, i.e. creatures, widgets, and portals.
+
+/create <object>
+
+Examples:
+/create U4_Air_Balloon
+/create U4_Chest
+/create U4_Ship
+
+
+---------------------------------------
+/jackpot
+---------------------------------------
+
+Grants full health, spell points, food, gold, and misc. other equipment like torches and reagents.
+
+
+---------------------------------------
+/jail
+---------------------------------------
+
+Allows an admin to jail another player with an optional notoriety level.
+
+/jail <name> [notoriety level]
+
+Note that the notoriety level must be > 5 for a minimum jail stay of 30 seconds, or up to 24 for a maximum stay of 10
+minutes. The default notoriety level is 24.
+
+/jail Avatar 24
+/property set player Avatar U4_Notoriety 5
+/property set player Avatar U4_Criminal 0
+
+
+---------------------------------------
+/loc, /locate
+---------------------------------------
+
+Allows an admin to get the location (map and position) of themselves or a player.
+
+/loc <name>
+
+Examples:
+/loc
+/loc Avatar
+
+
+---------------------------------------
+/property
+---------------------------------------
+
+Allows an admin to get or set a property on a player or map.
+
+/property get (player|map) <name> <property>
+
+Examples:
+/property get player Avatar U4_Gold
+/property get player Avatar U4_Experience
+/property get player Avatar U4_Hitpoints
+
+
+/property set (player|map) <name> <property> <value>
+
+Examples:
+
+Invincible/Immortal:
+/property set player Avatar Invincible 1
+
+
+---------------------------------------
+/summon
+---------------------------------------
+
+Allows an admin to summon a player specified by name to the admin's map and position.
+
+/summon <name>
+
+Example:
+/summon Avatar
+
+
+---------------------------------------
+/teleport /tele /goto
+---------------------------------------
+
+Allows an admin to teleport to a specified map or player.
+
+/teleport map <name> <pos x> <pos y>
+
+Examples:
+/teleport map U4_Towne_Britain 1 15
+
+
+/teleport player <name>
+
+Examples:
+/teleport player Avatar
+
+
+
+---------------------------------------
+/test
+---------------------------------------
+
+Runs a test for a given ultima version. Each test will output a U<#>_Test.txt file containing test results.
+
+/test <version #>
+
+Examples:
+/test 4
+
+
+---------------------------------------
+/ultima
+---------------------------------------
+
+Switches between ultima versions.
+
+/ultima <version>
+
+Examples:
+/ultima 1
+/ultima 2
+/ultima 3
+/ultima 4
+
+
+===============================================================================
+Player Commands
+===============================================================================
+
+  "/title",
+  "/who"
+
+
+---------------------------------------
+/g, /global
+---------------------------------------
+
+Sends a chat message to all players.
+
+/g <message>
+
+Example:
+/g Greetings!
+
+
+---------------------------------------
+/help
+---------------------------------------
+
+Provides helpful information for a specified subject.
+
+/help <subject>
+
+Available subjects:
+commands - lists all slash commands
+
+Examples:
+/help commands
+
+
+---------------------------------------
+/m, /map
+---------------------------------------
+
+Sends a chat message to all players on the same map as the message sender.
+
+/m <message>
+
+Example:
+/m Greetings!
+
+
+---------------------------------------
+/p
+---------------------------------------
+
+Sends a chat message to all players in the same party as the message sender.
+
+/p <message>
+
+Example:
+/p Greetings!
+
+
+---------------------------------------
+/party
+---------------------------------------
+
+Various commands for party management
+
+Invite a player to join the party
+
+/party invite <name>
+
+Example:
+/party invite Avatar
+
+
+Remove a player from the party
+
+/party boot <name>
+/party dismiss <name>
+
+Example:
+/party dismiss Avatar
+
+
+Disband the entire party
+
+/party disband
+
+
+Leave the party
+
+/party leave
+
+
+Promote a party member to leader
+
+/party promote <name>
+
+Example:
+/party promote Avatar
+
+
+---------------------------------------
+/s, /say
+---------------------------------------
+
+Sends a chat message to nearby players. This is the default chat type.
+
+/s <message>
+
+Example:
+/s Greetings!
+
+
+---------------------------------------
+/stuck
+---------------------------------------
+
+Returns the player to the relevant Lord British for the player's current ultima version. This is treated effectively as
+a death with all of the penalties associated with being killed.
+
+
+---------------------------------------
+/t, /tell
+---------------------------------------
+
+Send a private message to a specified player.
+
+/t <player name> <message>
+
+Example:
+/t Avatar Greetings!
+
+
+---------------------------------------
+/who
+---------------------------------------
+
+List all online players.
+
+/who
+
+
+
+===============================================================================
+Ultima 4 Locations
+===============================================================================
+
+Abyss Altars
+------------
+
+Honesty (Blue Stone)
+/teleport map U4_Dungeon_Stygian1 48 48
+
+Compassion (Yellow Stone)
+/teleport map U4_Dungeon_Stygian2 104 27
+/teleport map U4_Dungeon_Stygian2 60 71
+
+Valor (Red Stone)
+/teleport map U4_Dungeon_Stygian3 38 38
+
+Justice (Green Stone)
+/teleport map U4_Dungeon_Stygian4 71 27
+
+Sacrifice (Orange Stone)
+/teleport map U4_Dungeon_Stygian5 82 38
+/teleport map U4_Dungeon_Stygian5 38 82
+
+Honor (Purple Stone)
+/teleport map U4_Dungeon_Stygian6 82 82
+
+Spirituality (White Stone)
+/teleport map U4_Dungeon_Stygian7 5 5
+
+Humility (Black Stone)
+/teleport map U4_Dungeon_Stygian8 71 71
+
+
+Altar Rooms
+-----------
+
+Truth (blue, green, purple, white)
+/teleport map U4_Altar_Truth 16 16
+
+Love (yellow, green, orange, white)
+/teleport map U4_Altar_Love 16 16
+
+Courage (red, purple, orange, white)
+/teleport map U4_Altar_Courage 16 16
+
+
+Castles
+-------
+
+Castle Britannia
+/teleport map U4_Britannia 86 107
+
+
+Codex
+-----
+
+Entrance
+/teleport map U4_Dungeon_Codex_Chamber 5 61
+
+Codex
+/teleport map U4_Dungeon_Codex_Chamber 5 6
+
+
+Dungeons
+--------
+
+Covetous (Sacrifice)
+/teleport map U4_Britannia 156 27
+
+Deceit (Honesty)
+/teleport map U4_Britannia 240 73
+
+Despise (Compassion)
+/teleport map U4_Britannia 91 67
+
+Destard (Valor)
+/teleport map U4_Britannia 72 168
+
+Hythloth (Spirituality)
+/teleport map U4_Britannia 239 240
+
+Shame (Honor)
+/teleport map U4_Britannia 58 102
+
+Stygian Abyss
+/teleport map U4_Britannia 233 233
+
+Wrong (Justice)
+/teleport map U4_Britannia 126 20
+
+
+Keeps
+-----
+
+Empath Abbey (Love)
+/teleport map U4_Britannia 28 50
+
+Serpent's Hold (Courage)
+/teleport map U4_Britannia 146 241
+
+The Lycaeum (Truth)
+/teleport map U4_Britannia 218 107
+
+
+NPCs
+----
+
+Lord British
+/teleport map U4_Castle_British_2 19 8
+
+Seer Hawkwind
+/teleport map U4_Castle_British_1 9 25
+
+
+Shrines
+-------
+
+Honesty (ahm)
+/teleport map U4_Britannia 233 66
+/teleport map U4_Shrine_Honesty 8 0
+
+Compassion (mu)
+/teleport map U4_Britannia 128 92
+/teleport map U4_Shrine_Compassion 8 15
+
+Valor (ra)
+/teleport map U4_Britannia 36 229
+/teleport map U4_Shrine_Valor 8 0
+
+Justice (beh)
+/teleport map U4_Britannia 73 11
+/teleport map U4_Shrine_Justice 15 8
+
+Sacrifice (cah)
+/teleport map U4_Britannia 205 45
+/teleport map U4_Shrine_Sacrifice 0 8
+
+Honor (summ)
+/teleport map U4_Britannia 81 207
+/teleport map U4_Shrine_Honor 8 0
+
+Spirituality (enter gate of full moons)(om)
+/teleport map U4_Britannia 166 19
+/teleport map U4_Shrine_Spirituality 8 15
+
+Humility (lum)
+/teleport map U4_Britannia 231 216
+/teleport map U4_Shrine_Humility 8 0
+
+
+Townes
+------
+
+Britain (Compassion)
+/teleport map U4_Britannia 82 106
+
+Jhelom (Valor)
+/teleport map U4_Britannia 36 222
+
+Magincia (Humility)
+/teleport map U4_Britannia 187 169
+
+Minoc (Sacrifice)
+/teleport map U4_Britannia 159 20
+
+Moonglow (Honesty)
+/teleport map U4_Britannia 232 135
+
+Skara Brae (Spirituality)
+/teleport map U4_Britannia 22 128
+
+Trinsic (Honor)
+/teleport map U4_Britannia 106 184
+
+Yew (Justice)
+/teleport map U4_Britannia 58 43
+
+
+Villages
+--------
+
+Buccaneer's Den
+/teleport map U4_Britannia 136 158
+
+Cove
+/teleport map U4_Britannia 136 90
+
+Paws
+/teleport map U4_Britannia 98 145
+
+Vesper
+/teleport map U4_Britannia 201 59
+
+
+===============================================================================
+Ultima 4 Properties
+===============================================================================
+
+/property set player Avatar U4_Criminal 0
+/property set player Avatar U4_Dexterity 99
+/property set player Avatar U4_Experience 800
+/property set player Avatar U4_Gold 1000
+/property set player Avatar U4_Graphic_ID U4_Adventurer
+/property set player Avatar U4_Hitpoints 100
+/property set player Avatar U4_Item_Sextant 1
+/property set player Avatar U4_Level 1
+/property set player Avatar U4_Notoriety 0
+/property set player Avatar U4_Property_Spirit_Bound true
+/property set player Avatar U4_Seer_Bestowals 255
+/property set player Avatar U4_Virtue_Elevation 255
+/property set player Avatar U4_Virtue_Honesty 25
+
+Clear a player's weary mind:
+/property set player Avatar U4_Weary_Mind_Cycle_Count 0
+
+
+===============================================================================
+Ultima 4 Quests
+===============================================================================
+
+/property set player Avatar U4_Lord_British_Stage 0
+
+/property set player Avatar U4_Item_Bell 1 (1 = found, 2 = imbued, 3 = used at the abyss)
+/property set player Avatar U4_Item_Book 1 (1 = found, 2 = imbued, 3 = used at the abyss)
+/property set player Avatar U4_Item_Candle 1 (1 = found, 2 = imbued, 3 = used at the abyss)
+/property set player Avatar U4_Item_Rune_Materials 255
+/property set player Avatar U4_Item_Runes 255
+/property set player Avatar U4_Item_Silver_Horn 1 (1 = found, 2 = imbued)
+/property set player Avatar U4_Item_Skull_Fragment 1 (1 = found, 3 = used at the abyss)
+/property set player Avatar U4_Item_Stones 255
+/property set player Avatar U4_Item_Three_Part_Key 7
+
+
+Rune Material Locations
+-----------------------
+
+Gemstone (Honesty)
+/teleport map U4_Cave_Mine 13 9
+
+Bamboo (Compassion)
+/teleport map U4_Britannia 153 95
+
+Dragonscale (Valor)
+/teleport map U4_Cave_Dragon 6 9
+
+Yew Wood (Justice)
+/teleport map U4_Britannia 49 21
+
+Soapstone (Sacrifice)
+/teleport map U4_Towne_Minoc 28 30
+
+Granite (Honor)
+/teleport map U4_Towne_Jhelom 30 30
+
+Ivory (Spirituality)
+/teleport map U4_Cave_Ghost 5 28
+
+Bone (Humility)
+/teleport map U4_Cave_Labyrinth 121 66
+
+
+Special Item Locations
+----------------------
+
+Bell of Courage (Cape of Lost Hope)
+/teleport map U4_Keep_Serpents_Hold 6 12
+/teleport map U4_Britannia 96 215
+
+Book of Truth (Well of Knowledge)
+/teleport map U4_Keep_Lycaeum 6 6
+/teleport map U4_Britannia 176 208
+
+Candle of Love (The Oak Grove)
+/teleport map U4_Village_Cove 22 1
+/teleport map U4_Keep_Empath_Abbey 22 4
+
+Silver Daemon Horn
+/teleport map U4_Britannia 45 173
+
+Mondain Skull Fragment
+/teleport map U4_Britannia 197 245
+
+Mystic Armour
+/teleport map U4_Keep_Serpents_Hold 26 9
+
+Mystic Sword
+/teleport map U4_Keep_Serpents_Hold 4 9
+
+
+Stone Locations
+---------------
+
+Blue (Honesty)
+/teleport map U4_Dungeon_Deceit7 4 58
+
+Yellow (Compassion)
+/teleport map U4_Dungeon_Despise5 23 38
+
+Red (Valor)
+/teleport map U4_Dungeon_Destard7 22 62
+
+Green (Justice)
+/teleport map U4_Dungeon_Wrong8 4 5
+
+Orange (Sacrifice)
+/teleport map U4_Dungeon_Covetous7 58 22
+
+Purple (Honor)
+/teleport map U4_Dungeon_Shame2 4 75
+
+White (Spirituality)
+/teleport map U4_Britannia 64 80
+
+Black (Humility)
+/teleport map U4_Britannia 224 133
+
+
+===============================================================================
+Ultima 4 Transports
+===============================================================================
+
+To grant a horse in Ultima4:
+/property set player Avatar U4_Horse 1
+
+The Wheel of HMS (His Majesty's Ship) Cape:
+/teleport map U4_Britannia 96 215
+
+
+===============================================================================
+Ultima 3 Locations
+===============================================================================
+
+Castles
+-------
+
+Castle Fire
+/teleport map U3_Sosaria 10 53
+/teleport map U3_Castle_Fire 32 10
+/teleport map U3_Castle_Fire 32 60
+/teleport map U3_Castle_Fire_2 6 15
+
+Lord British's Castle
+/teleport map U3_Sosaria 45 18
+
+
+Dungeons
+--------
+
+Dardins Pit
+/teleport map U3_Sosaria 46 7
+
+Doom
+/teleport map U3_Sosaria 19 57
+
+Fire
+/teleport map U3_Sosaria 49 34
+
+Mines of Morinia
+/teleport map U3_Sosaria 9 28
+
+Perinian Depths
+/teleport map U3_Sosaria 56 6
+
+Snake
+/teleport map U3_Sosaria 58 44
+
+Time
+/teleport map U3_Sosaria 58 30
+
+
+Marks
+-----
+
+Mark of Fire
+/teleport map U3_Dungeon_Fire_8 14 42
+/teleport map U3_Dungeon_Mines_Morinia_8 38 45
+/teleport map U3_Dungeon_Perinian_Depths_8 14 15
+/teleport map U3_Dungeon_Time_8 32 45
+
+Mark of Force
+/teleport map U3_Dungeon_Doom_8 23 27
+/teleport map U3_Dungeon_Fire_8 11 30
+
+Mark of Kings
+/teleport map U3_Dungeon_Dardins_Pit_2 32 9
+/teleport map U3_Dungeon_Dardins_Pit_8 8 9
+/teleport map U3_Dungeon_Mines_Morinia_3 8 15
+/teleport map U3_Dungeon_Mines_Morinia_8 8 27
+/teleport map U3_Dungeon_Perinian_Depths_1 44 33
+/teleport map U3_Dungeon_Perinian_Depths_8 32 33
+/teleport map U3_Dungeon_Snake_8 44 45
+/teleport map U3_Dungeon_Time_8 44 33
+
+Mark of the Snake
+/teleport map U3_Dungeon_Snake_8 17 45
+
+
+NPCs
+----
+
+Exodus
+/teleport map U3_Castle_Fire_2 7 15
+
+Lord British
+/teleport map U3_Castle_Lord_British 32 15
+
+Timelord
+/teleport map U3_Map_Dungeon_Time_8 4 4
+
+
+Shrines
+-------
+
+Dexterity (Sol)
+/teleport map U3_Ambrosia 45 52
+
+Intelligence (Moons)
+/teleport map U3_Ambrosia 6 6
+
+Strength (Love)
+/teleport map U3_Ambrosia 4 36
+
+Wisdom (Death)
+/teleport map U3_Ambrosia 55 27
+
+
+Special
+-------
+
+Ambrosia
+/teleport map U3_Ambrosia 32 53
+
+Serpent/Snake
+/teleport map U3_Sosaria 10 59
+
+
+Townes
+------
+
+Britain
+/teleport map U3_Sosaria 46 19
+
+Dawn
+/teleport map U3_Sosaria 37 53
+
+Death Gulch
+/teleport map U3_Sosaria 56 31
+
+Devil Guard
+/teleport map U3_Sosaria 18 31
+
+Fawn
+/teleport map U3_Sosaria 30 2
+
+Grey
+/teleport map U3_Sosaria 7 44
+
+Montor East
+/teleport map U3_Sosaria 49 58
+
+Montor West
+/teleport map U3_Sosaria 47 58
+
+Moon
+/teleport map U3_Sosaria 6 13
+
+Yew
+/teleport map U3_Sosaria 34 16
+
+
+===============================================================================
+Ultima 3 Properties
+===============================================================================
+
+/property set player Avatar U3_Experience 100
+
+
+===============================================================================
+Ultima 3 Quests
+===============================================================================
+
+/property set player Avatar U3_Cards 15
+/property set player Avatar U3_Marks 15
+/property set player Avatar U3_Exodus_Card_Index 9
+
+Determine where Exotics are buried:
+/property get player Avatar U3_Exotic_Weapon_Pos_Index
+/property get player Avatar U3_Exotic_Armour_Pos_Index
+
+
+===============================================================================
+Ultima 3 Spells
+===============================================================================
+
+Arcane
+------
+
+A Repond           0  May kill each orc, troll, or goblin; has cooldown          Combat    W, L, D, A, R
+B Mittar           5  Damage an enemy with a ranged attack                       Combat    W, L, D, A, R
+C Lorum            10 Create light like Ignite                                   Dungeon   W, L, D, A, R
+D Dor Acron        15 Move to the same location one dungeon level below          Dungeon   W, L, D, A, R
+E Sur Acron        20 Move to the same location one dungeon level above          Dungeon   W, L, D, A, R
+F Fulgar           25 Damage an enemy more with a ranged attack                  Combat    W, L, D, A, R
+G Dag Acron        30 Blink/Teleport in a direction over a short distance        Anywhere  W, L, D, A, R
+H Mentar           35 Damage an enemy based on Int with a ranged attack          Combat    W, L, D, A, R
+I Dag Lorum        40 Create light like Ignite, lasts longer                     Dungeon   W, L, D, A
+J Fal Divi Sequitu 45 Cast's the cleric spell Sequitu                            Dungeon   W, L, D, A
+K Noxum            50 Damage all enemies                                         Combat    W
+L Decorp           55 Attempts to kill an enemy with a ranged attack             Combat    W
+M Altair           60 Slows down time for the target, speeding their movement    Anywhere  W
+N Dag Mentar       65 Damage all enemies based on Int                            Combat    W
+O Necorp           70 Damage all enemies more                                    Combat    W
+P <Unnamed>        75 Attempts to kill each foe                                  Combat    W
+
+Divine
+------
+
+A Pontori          0  May kill all skeletons, ghouls, and zombies; has cooldown  Combat    C, P, I, D, R
+B Appar Unem       5  Like Get a chest, but without fear of traps                Anywhere  C, P, I, D, R
+C Sanctu           10 Recover one party member's HP                              Anywhere  C, P, I, D, R
+D Luminae          15 Create light like Ignite                                   Dungeon   C, P, I, D, R
+E Rec Su           20 Move to the same location one dungeon level above          Dungeon   C, P, I, D, R
+F Rec Du           25 Move to the same location one dungeon level below          Dungeon   C, P, I, D, R
+G Lib Rec          30 Blink/Teleport in a direction over a short distance        Anywhere  C, P, I, D, R
+H Alcort           35 Cures one party member of Poisoned status                  Anywhere  C, P, I, D, R
+I Sequitu          40 Return to the dungeon entrance                             Dungeon   C, P, I, D
+J Sominae          45 Create light like Ignite, lasts longer                     Dungeon   C, P, I, D
+K Sanctu Mani      50 Recover more of one party member's HP                      Anywhere  C
+L Vieda            55 View map like Peer                                         Anywhere  C
+M Excuun           60 Attempts to kill an enemy with a ranged attack             Combat    C
+N Surmandum        65 Cures Dead status, but may causes Ashes instead            Anywhere  C
+O Zxkuqyb          70 Attempts to kill each foe                                  Combat    C
+P Anju Sermani     75 Cures Ashes status                                         Anywhere  C
+
+
+===============================================================================
+Ultima 2 Locations
+===============================================================================
+
+Castles
+-------
+
+Barataria (Planet X)
+/teleport map U2_PlanetX_World 12 12
+
+Lord British's Castle (Earth AD 1990)
+/teleport map U2_Earth_AD_1990_World 35 22
+
+Lord British's Castle (Earth BC 1423)
+/teleport map U2_Earth_BC_1423_World 35 22
+
+Shadow Guard (Time of Legends)
+/teleport map U2_Earth_Legends_World 32 32
+
+
+Dungeons
+--------
+
+Earth AD 1990
+/teleport map U2_Earth_AD_1990_World 25 5
+
+Earth BC 1423
+/teleport map U2_Earth_BC_1423_World 25 5
+
+Earth Aftermath
+/teleport map U2_Earth_Aftermath_World 25 5
+
+Jupiter
+/teleport map U2_Jupiter_World 14 40
+
+Mercury
+/teleport map U2_Mercury_World 42 10
+
+Pangea
+/teleport map U2_Earth_Pangea_World 31 8
+
+Pluto
+/teleport map U2_Pluto_World 29 33
+
+
+NPCs
+----
+
+Father Antos
+/teleport map U2_PlanetX_Castle_Barataria 2 48
+
+Hotel California Clerk
+/teleport map U2_Earth_AD_Towne_New_San_Antonio 11 57
+
+Lord British
+/teleport map U2_Earth_AD_Castle_Lord_British 31 14
+/teleport map U2_Earth_BC_Castle_Lord_British 31 14
+
+Minax
+/teleport map U2_Earth_Legends_Castle_Shadow_Guard 60 4
+
+Old Man
+/teleport map U2_Earth_AD_Towne_New_San_Antonio 26 2
+
+Oracle/Seers
+/teleport map U2_Earth_AD_Village_Port_Bonifice 14 15
+/teleport map U2_Earth_Aftermath_Village_Pirates_Harbour 7 23
+/teleport map U2_Earth_BC_Village_Le_Jester 16 17
+/teleport map U2_Jupiter_Village_Preppies 7 9
+/teleport map U2_Neptune_Village_Computer_Camp 12 8
+/teleport map U2_Pluto_Village_Tommersville 12 10
+/teleport map U2_Uranus_Village_New_Jester 6 13
+/teleport map U2_Uranus_Village_New_Jester 12 13
+/teleport map U2_Uranus_Village_New_Jester 20 5
+
+Santre/Sentri the Swashbuckler
+/teleport map U2_Earth_AD_Towne_New_San_Antonio 54 6
+
+
+Other
+-----
+
+Saturn
+/teleport map U2_Saturn_World 32 32
+
+Venus
+/teleport map U2_Venus_World 34 34
+
+
+Quicksword Locations
+--------------------
+
+Earth AD Dungeon 
+/teleport map U2_Earth_AD_Dungeon_15 5 5
+
+Earth AD Tower
+/teleport map U2_Earth_AD_Tower_15 32 32
+
+Earth Aftermath Dungeon
+/teleport map U2_Earth_Aftermath_Dungeon_15 5 5
+
+Earth BC Dungeon 
+/teleport map U2_Earth_BC_Dungeon_15 5 5
+
+Earth BC Tower
+/teleport map U2_Earth_BC_Tower_15 32 32
+
+Earth Pangea Dungeon
+/teleport map U2_Earth_Pangea_Dungeon_15 5 5
+
+
+Ring Locations
+--------------
+
+Jupiter Dungeon
+/teleport map U2_Jupiter_Dungeon_15 26 8
+
+Jupiter Tower
+/teleport map U2_Jupiter_Tower_15 20 44
+
+Mercury Dungeon
+/teleport map U2_Mercury_Dungeon_15 44 44
+
+Pluto Dungeon
+/teleport map U2_Pluto_Dungeon_15 26 2
+
+
+Towers
+------
+
+Earth AD 1990
+/teleport map U2_Earth_AD_1990_World 38 31
+
+Earth BC 1423
+/teleport map U2_Earth_BC_1423_World 24 40
+
+Jupiter
+/teleport map U2_Jupiter_World 50 25
+
+
+Townes
+------
+
+Baradins Town (Earth Pangea)
+/teleport map U2_Earth_Pangea_World 20 55
+
+Makler (Pluto)
+/teleport map U2_Pluto_World 38 32
+
+New San Antonio (Earth AD 1990)
+/teleport map U2_Earth_AD_1990_World 15 26
+
+Pirates Harbour (Earth Aftermath)
+/teleport map U2_Earth_Aftermath_World 44 14
+
+Towne Basko (Planet X)
+/teleport map U2_PlanetX_World 8 31
+
+Towne Linda (Earth BC 1423)
+/teleport map U2_Earth_BC_1423_World 36 29
+
+Towne Mary (Mars)
+/teleport map U2_Mars_World 32 32
+
+
+Villages
+--------
+
+Computer Camp (Neptune)
+/teleport map U2_Neptune_World 31 31
+
+Le Jester (Earth BC 1423)
+/teleport map U2_Earth_BC_1423_World 48 36
+
+New Jester (Uranus)
+/teleport map U2_Pluto_World 27 39
+
+Port Bonifice (Earth AD 1990)
+/teleport map U2_Earth_AD_1990_World 34 20
+
+Tommersville (Pluto)
+/teleport map U2_Pluto_World 56 59
+
+Village of the Preppies (Jupiter)
+/teleport map U2_Jupiter_World 8 8
+
+
+===============================================================================
+Ultima 2 Properties
+===============================================================================
+
+/property set player Avatar U2_Strength 99
+/property set player Avatar U2_Agility 99
+
+/property set player Avatar U2_Experience 100
+
+/property set player Avatar U2_Brass_Buttons 90
+/property set player Avatar U2_Skull_Keys 90
+/property set player Avatar U2_Tri_Lithium 20
+
+/property set player Avatar U2_TimePeriods 7
+
+
+===============================================================================
+Ultima 2 Common Needs
+===============================================================================
+
+/create U2_Reflect_Armour_InventoryID
+
+
+===============================================================================
+Ultima 1 Locations
+===============================================================================
+
+Castles
+-------
+
+Castle of the Lost King (Lands of Lord British)
+/teleport map U1_Sosaria 32 27
+
+Castle of Lord British (Lands of Lord British)
+/teleport map U1_Sosaria 40 38
+
+Castle Rondorin (Lands of the Feudal Lords)
+/teleport map U1_Sosaria 114 29
+
+Castle Barataria (Lands of the Feudal Lords)
+/teleport map U1_Sosaria 40 38
+
+Castle of Shamino (Lands of Danger and Despair)
+/teleport map U1_Sosaria 135 105
+
+White Dragon's Castle (Lands of Danger and Despair)
+/teleport map U1_Sosaria 40 38
+
+Castle of Olympuse (Lands of the Dark Unknown)
+/teleport map U1_Sosaria 41 118
+
+Black Dragon's Castle (Lands of the Dark Unknown)
+/teleport map U1_Sosaria 30 126
+
+
+Dungeons
+--------
+
+The Dungeon of Perinia (Lands of Lord British)
+/teleport map U1_Sosaria 18 13
+
+Mondain's Gate to Hell (Lands of Lord British)
+/teleport map U1_Sosaria 29 37
+
+Lost Caverns (Lands of Lord British)
+/teleport map U1_Sosaria 13 43
+
+The Dungeon of Montor (Lands of Lord British)
+/teleport map U1_Sosaria 38 68
+
+Mines of Mt. Drash (Lands of Lord British)
+/teleport map U1_Sosaria 59 29
+
+Scorpion Hole (Lands of the Feudal Lords)
+/teleport map U1_Sosaria 59 29
+
+Death's Awakening (Lands of the Feudal Lords)
+/teleport map U1_Sosaria 124 26
+
+The Labyrinth (Lands of the Feudal Lords)
+/teleport map U1_Sosaria 116 56
+
+The Savage Place (Lands of the Feudal Lords)
+/teleport map U1_Sosaria 130 10
+
+The Dead Warrior's Fight (Lands of the Feudal Lords)
+/teleport map U1_Sosaria 155 35
+
+The Skull Smasher (Lands of Danger and Despair)
+/teleport map U1_Sosaria 119 89
+
+Spine Breaker (Lands of Danger and Despair)
+/teleport map U1_Sosaria 149 91
+
+The Dungeon of Doom (Lands of Danger and Despair)
+/teleport map U1_Sosaria 138 115
+
+The Hole to Hades (Lands of Danger and Despair)
+/teleport map U1_Sosaria 128 138
+
+Dead Man's Walk (Lands of Danger and Despair)
+/teleport map U1_Sosaria 154 121
+
+The Viper's Pit (Lands of the Dark Unknown)
+/teleport map U1_Sosaria 32 99
+
+The Metal Twister (Lands of the Dark Unknown)
+/teleport map U1_Sosaria 16 140
+
+The End (Lands of the Dark Unknown)
+/teleport map U1_Sosaria 40 129
+
+The Troll's Hole (Lands of the Dark Unknown)
+/teleport map U1_Sosaria 46 145
+
+The Slow Death (Lands of the Dark Unknown)
+/teleport map U1_Sosaria 71 120
+
+
+NPCs
+----
+
+Lord British
+/teleport map U1_Castle_Lord_British 33 5
+
+Mondain
+/teleport map U1_Lair_Mondain 13 4
+
+
+Other
+-----
+
+Mondain's Lair
+/teleport map U1_Lair_Mondain 1 4
+
+Time Machine (Lands of Lord British)
+/teleport map U1_Sosaria 16 27
+
+
+Signs
+-----
+
+Pillars of Protection (Lands of Lord British)
+/teleport map U1_Sosaria 36 9
+
+Tower of Knowledge (Lands of Lord British)
+/teleport map U1_Sosaria 69 10
+
+Pillars of the Argonauts (Lands of the Feudal Lords)
+/teleport map U1_Sosaria 96 33
+
+Pillar of the Ozymandias (Lands of the Feudal Lords)
+/teleport map U1_Sosaria 97 66
+
+Grave of the Lost Soul (Lands of Danger and Despair)
+/teleport map U1_Sosaria 98 88
+
+Eastern Sign Post (Lands of Danger and Despair)
+/teleport map U1_Sosaria 131 87
+
+The Sign Post (Lands of the Dark Unknown)
+/teleport map U1_Sosaria 13 89
+
+Southern Sign Post (Lands of the Dark Unknown)
+/teleport map U1_Sosaria 12 122
+
+
+Space
+-----
+
+Sosaria
+/teleport map U1_Space 33 56
+
+Space Station Alpha
+/teleport map U1_Space 41 57
+/teleport map U1_Space_Station_Alpha 12 12
+
+Space Station Omega
+/teleport map U1_Space 105 43
+/teleport map U1_Space_Station_Omega 12 12
+
+Space Station Omicron
+/teleport map U1_Space 19 111
+/teleport map U1_Space_Station_Omicron 12 12
+
+
+Townes
+------
+
+Britain (Lands of Lord British)
+/teleport map U1_Sosaria 39 39
+
+Yew (Lands of Lord British)
+/teleport map U1_Sosaria 25 61
+
+Paws (Lands of the Feudal Lords)
+/teleport map U1_Sosaria 148 22
+
+Montor (Lands of the Feudal Lords)
+/teleport map U1_Sosaria 109 61
+
+Fawn (Lands of Danger and Despair)
+/teleport map U1_Sosaria 101 119
+
+Moon (Lands of Danger and Despair)
+/teleport map U1_Sosaria 142 139
+
+Grey (Lands of the Dark Unknown)
+/teleport map U1_Sosaria 66 88
+
+Tune (Lands of the Dark Unknown)
+/teleport map U1_Sosaria 37 140
+
+
+===============================================================================
+Ultima 1 Properties
+===============================================================================
+
+/property set player Avatar U1_Experience 100
+/property set player Avatar U1_Space_Enemies_Killed 25
+
+/property get player Avatar U1_Shuttle_Pass
+
+
+===============================================================================
+Ultima 1 Quests
+===============================================================================
+
+Simulate LB Quest 1 & 2:
+
+/property set player Avatar U1_Quest_LordBritish 0 (unbestowed 1)
+/property set player Avatar U1_Quest_LordBritish 1 (bestowed 1)
+/property set player Avatar U1_Quest_LordBritish 2 (completed 1)
+/property set player Avatar U1_Quest_LordBritish 3 (unbestowed 2)
+/property set player Avatar U1_Quest_LordBritish 4 (bestowed 2)
+/property set player Avatar U1_Quest_LordBritish 5 (completed 2)
+
+/property set player Avatar U1_Quest_LostKing 0 (unbestowed 1)
+/property set player Avatar U1_Quest_LostKing 1 (bestowed 1)
+/property set player Avatar U1_Quest_LostKing 2 (completed 1)
+/property set player Avatar U1_Quest_LostKing 3 (unbestowed 2)
+/property set player Avatar U1_Quest_LostKing 4 (bestowed 2)
+/property set player Avatar U1_Quest_LostKing 5 (completed 2)
+
+/property set player Avatar U1_Gems 8
+
+
+===============================================================================
+ASCII Tileset Legend
+===============================================================================
+
+Creatures:
+b (brown)  - beggar
+b (gray)   - bat
+b (red)    - body/corpse
+b (white)  - body
+B (brown)  - bear/bull
+B (gray)   - balron
+B (yellow) - bard
+c (yellow) - child
+c (brown)  - carrion creeper/crawler
+C (brown)  - cyclops
+C (green)  - cleric
+d (green)  - dragon
+D (cyan)   - dragon turtle
+D (gray)   - dark knight
+D (green)  - druid
+D (purple) - devil
+D (red)    - daemon
+E (peach)  - ettin
+E (gray)   - evil ranger
+F (red)    - fighter
+g (green)  - gremlin
+G (blue)   - ghost
+G (brown)  - giant
+G (purple) - gazer
+G (white)  - guard
+G (yellow) - gelatinous cube
+h (brown)  - headless
+H (blue)   - hood
+H (brown)  - horse
+H (red)    - hydra
+H (white)  - horse with rider
+i (gray)   - insect swarm
+j (purple) - jester
+K (gray)   - knight
+K (white)  - king
+L (brown)  - lizard man
+L (green)  - lich
+L (yellow) - lecher
+m (brown)  - mimic
+M (blue)   - mage
+M (green)  - manowar
+M (purple) - mind whipper
+M (red)    - minotaur
+n (cyan)   - nixie
+N (gray)   - necromancer
+N (green)  - ness creature
+O (brown)  - orc
+p (brown)  - pincher
+p (purple) - princess
+P (gray)   - phantom
+P (purple) - paladin
+R (blue)   - reaper
+R (red)    - rogue
+R (white)  - ranger
+s (gray)   - spider
+s (green)  - serpent/viper
+S (green)  - sea serpent
+S (gray)   - shepherd
+S (purple) - squid
+S (white)  - skeleton
+T (blue)   - tangler
+T (brown)  - troll
+T (red)    - thief
+T (peach)  - tinker
+V (green)  - villager/merchant
+w (blue)   - wisp
+w (purple) - wench
+W (blue)   - wraith
+W (gray)   - warlock
+W (red)    - wandering eyes
+W (purple) - wizard
+X (green)  - slime
+z (brown)  - zorn
+
+Effects:
+B (red)    - burning
+D (red)    - daemon resistant
+F (blue)   - frozen
+H (brown)  - hungry
+J (yellow) - jinxed
+L (yellow) - light
+N (purple) - negated
+P (cyan)   - peering
+P (gray)   - protected
+P (green)  - poisoned
+Q (blue)   - quickened
+S (cyan)   - sleeping

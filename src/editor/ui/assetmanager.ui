@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>AssetManager</class>
+ <widget class="QMainWindow" name="AssetManager">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1024</width>
+    <height>768</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Asset Manager</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QVBoxLayout" name="verticalLayout_2">
+    <item>
+     <widget class="QSplitter" name="splitter">
+      <property name="orientation">
+       <enum>Qt::Horizontal</enum>
+      </property>
+      <widget class="QSplitter" name="splitter_2">
+       <property name="orientation">
+        <enum>Qt::Vertical</enum>
+       </property>
+       <widget class="QTableWidget" name="tableWidget">
+        <property name="columnCount">
+         <number>1</number>
+        </property>
+        <column/>
+       </widget>
+      </widget>
+      <widget class="QWidget" name="verticalLayoutWidget">
+       <layout class="QVBoxLayout" name="verticalLayout">
+        <property name="spacing">
+         <number>0</number>
+        </property>
+        <item>
+         <widget class="QToolBar" name="toolBar2">
+          <property name="windowTitle2" stdset="0">
+           <string>toolBar2</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QTableWidget" name="tableWidget_3"/>
+        </item>
+        <item>
+         <widget class="QToolBar" name="toolBar3">
+          <property name="windowTitle3" stdset="0">
+           <string>toolBar3</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QTableWidget" name="tableWidget_4"/>
+        </item>
+       </layout>
+      </widget>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1024</width>
+     <height>26</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuFile">
+    <property name="title">
+     <string>File</string>
+    </property>
+    <addaction name="actionSave"/>
+    <addaction name="actionClose"/>
+   </widget>
+   <widget class="QMenu" name="menuAsset">
+    <property name="title">
+     <string>Asset</string>
+    </property>
+    <addaction name="actionNew_Asset"/>
+    <addaction name="actionRemove_Asset"/>
+    <addaction name="separator"/>
+    <addaction name="actionNew_Property"/>
+    <addaction name="actionRemove_Property"/>
+   </widget>
+   <addaction name="menuFile"/>
+   <addaction name="menuAsset"/>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <widget class="QToolBar" name="toolBar">
+   <property name="windowTitle">
+    <string>toolBar</string>
+   </property>
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+   <addaction name="actionSave"/>
+   <addaction name="separator"/>
+   <addaction name="actionNew_Asset"/>
+   <addaction name="actionRemove_Asset"/>
+   <addaction name="separator"/>
+   <addaction name="actionNew_Property"/>
+   <addaction name="actionRemove_Property"/>
+  </widget>
+  <action name="actionClose">
+   <property name="text">
+    <string>Close</string>
+   </property>
+   <property name="toolTip">
+    <string>Close Asset Manager</string>
+   </property>
+  </action>
+  <action name="actionNew_Asset">
+   <property name="text">
+    <string>New Asset</string>
+   </property>
+   <property name="toolTip">
+    <string>Add new asset</string>
+   </property>
+  </action>
+  <action name="actionRemove_Asset">
+   <property name="text">
+    <string>Remove Asset</string>
+   </property>
+   <property name="toolTip">
+    <string>Remove selected asset</string>
+   </property>
+  </action>
+  <action name="actionSave">
+   <property name="text">
+    <string>Save</string>
+   </property>
+   <property name="toolTip">
+    <string>Save all changes</string>
+   </property>
+  </action>
+  <action name="actionNew_Property">
+   <property name="text">
+    <string>New Property</string>
+   </property>
+   <property name="toolTip">
+    <string>Add new property</string>
+   </property>
+  </action>
+  <action name="actionRemove_Property">
+   <property name="text">
+    <string>Remove Property</string>
+   </property>
+   <property name="toolTip">
+    <string>Remove selected property</string>
+   </property>
+  </action>
+  <action name="actionCopy_Property">
+   <property name="text">
+    <string>Copy Property</string>
+   </property>
+  </action>
+  <action name="actionCopy_Selected_Properties">
+   <property name="text">
+    <string>Copy Selected Properties</string>
+   </property>
+  </action>
+  <action name="actionCopy_All_Properties">
+   <property name="text">
+    <string>Copy All Properties</string>
+   </property>
+  </action>
+  <action name="actionPaste_Properties_Overwrite">
+   <property name="text">
+    <string>Paste Properties (Overwrite)</string>
+   </property>
+  </action>
+  <action name="actionPaste_Properties_Merge">
+   <property name="text">
+    <string>Paste Properties (Merge)</string>
+   </property>
+  </action>
+  <action name="actionFind_References">
+   <property name="text">
+    <string>Find References</string>
+   </property>
+   <property name="toolTip">
+    <string>Searches data and scripts for references to this asset</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections>
+  <connection>
+   <sender>actionClose</sender>
+   <signal>triggered()</signal>
+   <receiver>AssetManager</receiver>
+   <slot>close()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>-1</x>
+     <y>-1</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>399</x>
+     <y>299</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+</ui>

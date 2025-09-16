@@ -1,0 +1,64 @@
+SDK               Version     Vanilla     Usage       Platform    Lib         Static/DLL  Notes
+---------------------------------------------------------------------------------------------
+Dear ImGui        1.88        Yes         Client      All                     embedded    Server port 8889, Client port 8890
+                                          Server
+FreeImage         3.18.0      Yes/No      Client      All         freeimage   static      Must define FREEIMAGE_LIB symbol, Disable Whole Program Optimization if rebuilding Release libs
+                                          Editor                                          The version of the libs packaged with CUO have been modified to strip out JPX, EXR, RAW, and a 
+                                                                                          host of other file types in Plugin.cpp (Also, removed FreeImageLib->References to included libs.
+                                                                                          A Vanilla copy of the static libs is fine, but the file size will be massive.
+FreeType          2.10.2      Yes         Client      All         freetype    static
+Glad              2.0.8       Yes         Client      All                     embedded    Generated Using OpenGL 3.3 from https://gen.glad.sh/
+GLFW              3.4         Yes         Client      All         glfw3       static      Actually using glfw3_mt.lib renamed to glfw3.lib
+IniParser         1.0         Yes         All         All                     embedded    Source included in rum\sdk
+LibPNG            1.6.35      Yes         Client      All         libpng      static      Built from FreeImage
+MD5               1.0         Yes         Server      All                     embedded    Source included in rum\sdk
+netImGui          1.7.5       Yes         Debugger    All                     embedded
+Observe           1.0         Yes         All         All                     embedded
+Qt                5.15.2      Yes         Editor      All         Qt5Core     DLL
+                                          Portal                  Qt5Gui      DLL
+                                                                  Qt5Network  DLL
+                                                                  Qt5OpenGL   DLL
+                                                                  Qt5Sql      DLL
+                                                                  Qt5Widgets  DLL
+Qt Creator        4.15.0      Yes         Editor      All
+SQLite            3.32.3      Yes         All         All         sqlite3     static
+Sqrat             0.9         Yes         All         All                     embedded    Must define SCRAT_USE_EXCEPTIONS
+Squirrel          3.1         Yes         All         All         squirrel    static      Must define _SQ64 for 64-bit builds
+                                                                  sqstdlib    static
+Windows SDK       11.0        Yes         All         Windows
+zlib              1.2.11      Yes         All         All         zlib        static      Built from FreeImage
+
+
+SDK               For                         Website
+-------------------------------------------------------------------------------
+DearImGui         UI                          github.com/ocornut/imgui
+DirectX           Graphics                    www.microsoft.com/directx
+FreeImage         Graphics conversion         freeimage.sourceforge.net
+FreeType          Font rendering              freetype.org
+imgui-filebrowser UI                          github.com/AirGuanZ/imgui-filebrowser
+IniParser         .ini file read/write        ?
+MD5               Encryption                  ?
+netImgui          UI                          github.com/sammyfreg/netImgui
+Observe           Thread-safe event-listener  github.com/TheLartians/Observe
+Qt                GUI                         qt.nokia.com
+SQLite            Database                    www.sqlite.org
+Squirrel          Scripting language          squirrel-lang.org
+Windows SDK       Windows development         msdn.microsoft.com/windows/bb980924.aspx
+zlib              Compression, archiving      zlib.net
+
+
+WINDOWS DLLS    For                         Website
+-------------------------------------------------------------------------------
+libeay32.dll    Editor Secure Web Access    www.openssl.org
+ssleay32.dll    Editor Secure Web Access
+Qt5Core.dll     Editor Qt support           www.qt.io
+Qt5Gui.dll      Editor Qt support
+Qt5Network.dll  Editor Qt network support
+Qt5OpenGL.dll   Editor Qt OpenGL support
+Qt5Sql.dll      Editor Qt Sql support
+Qt5Widgets.dll  Editor Qt support
+
+The following path-constants are used by the various project CMAKE files
+WINDOWS_SDK : <windows only, path to the Windows SDK>
+FMOD_DIR : <path to the FMOD root>, example: C:\sdk\fmod\api
+QTDIR: <path to the Qt root>, example: C:\sdk\Qt\5.15.2

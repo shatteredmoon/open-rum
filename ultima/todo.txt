@@ -1,0 +1,31 @@
+Test/polish combat
+
+Ignore list
+
+End game
+
+Player Management
+
+Admin commands
+/goto [player <name>|map [[name|map id] posx posy]>
+/summon <player name>
+/jail <player name>
+/property <get|set <property name> <player name>>
+/silence <player name> // toggles ability to chat
+/jackpot
+/ban <player name>
+
+
+Player commands
+/stuck
+/password <old> <new> <new>
+/ignore <player name> // ignores chats from other players
+
+// Menu driven - gold, food, gems, torches, potions, weapons, armour
+/give <player name>
+
+/party <invite <player name>>
+       <boot|dismiss <player name>>
+       <leave><resign>
+       <disband>
+       <promote <player name>>

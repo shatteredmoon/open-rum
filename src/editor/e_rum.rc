@@ -1,0 +1,392 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "e_resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "e_resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_CREATURE DIALOGEX 50, 50, 165, 104
+STYLE DS_SETFONT | DS_MODALFRAME | DS_CENTERMOUSE | WS_POPUP | WS_CAPTION
+EXSTYLE WS_EX_CLIENTEDGE
+CAPTION "Creature Properties"
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    COMBOBOX        IDC_COMBO1,65,7,93,76,CBS_DROPDOWNLIST | WS_VSCROLL | 
+                    WS_TABSTOP
+    COMBOBOX        IDC_COMBO2,65,26,93,71,CBS_DROPDOWNLIST | WS_VSCROLL | 
+                    WS_TABSTOP
+    EDITTEXT        IDC_EDIT1,65,44,21,14,ES_AUTOHSCROLL | ES_NUMBER
+    PUSHBUTTON      "Edit Dialog",IDC_BUTTON1,97,44,50,14
+    PUSHBUTTON      "New Dialog",IDC_BUTTON2,97,60,50,14
+    DEFPUSHBUTTON   "OK",IDOK,29,83,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,85,83,50,14
+    LTEXT           "NPC Stance",IDC_STATIC,10,8,51,8,0,WS_EX_RIGHT
+    LTEXT           "Talk ID Number",IDC_STATIC,8,46,53,8,0,WS_EX_RIGHT
+    LTEXT           "NPC Type",IDC_STATIC,10,28,51,8,0,WS_EX_RIGHT
+END
+
+IDD_SAVE DIALOGEX 50, 50, 259, 55
+STYLE DS_SETFONT | DS_MODALFRAME | DS_CENTERMOUSE | WS_POPUP | WS_CAPTION
+EXSTYLE WS_EX_CLIENTEDGE
+CAPTION "Save Map"
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    EDITTEXT        IDC_EDIT1,15,22,105,12,ES_AUTOHSCROLL
+    DEFPUSHBUTTON   "OK",IDOK,138,22,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,194,22,50,14
+    LTEXT           "File name:",IDC_STATIC,15,11,40,8
+END
+
+IDD_LOAD DIALOGEX 50, 50, 255, 51
+STYLE DS_SETFONT | DS_MODALFRAME | DS_3DLOOK | DS_CENTERMOUSE | WS_POPUP | 
+    WS_CAPTION
+EXSTYLE WS_EX_CLIENTEDGE
+CAPTION "Load Map"
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    EDITTEXT        IDC_EDIT1,15,22,105,12,ES_AUTOHSCROLL
+    DEFPUSHBUTTON   "OK",IDOK,132,22,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,188,22,50,14
+    LTEXT           "File name:",IDC_STATIC,15,11,40,8
+END
+
+IDD_NEW DIALOGEX 50, 50, 96, 73
+STYLE DS_SETFONT | DS_MODALFRAME | DS_CENTERMOUSE | WS_POPUP | WS_CAPTION
+CAPTION "New Map"
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    EDITTEXT        IDC_EDIT2,20,12,21,14,ES_AUTOHSCROLL | ES_NUMBER
+    EDITTEXT        IDC_EDIT1,52,12,22,14,ES_AUTOHSCROLL | ES_NUMBER
+    DEFPUSHBUTTON   "Create",IDOK,22,34,50,15
+    PUSHBUTTON      "Cancel",IDCANCEL,22,51,50,14
+    LTEXT           "Columns",IDC_STATIC,49,2,31,8
+    LTEXT           "Rows",IDC_STATIC,20,2,18,8
+END
+
+IDD_TALK DIALOGEX 50, 50, 205, 251
+STYLE DS_SETFONT | DS_MODALFRAME | DS_CENTERMOUSE | WS_POPUP | WS_CAPTION
+EXSTYLE WS_EX_CLIENTEDGE
+CAPTION "Creature Dialog"
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    EDITTEXT        IDC_EDIT2,55,7,137,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT3,55,21,137,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT4,55,35,137,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT5,55,49,137,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT6,55,62,137,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT7,55,75,29,12,ES_UPPERCASE | ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT8,85,75,106,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT9,55,88,29,12,ES_UPPERCASE | ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT10,85,88,106,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT11,55,101,137,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT12,55,115,137,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT13,55,129,137,12,ES_AUTOHSCROLL
+    COMBOBOX        IDC_COMBO1,13,156,118,54,CBS_DROPDOWNLIST | WS_VSCROLL | 
+                    WS_TABSTOP
+    COMBOBOX        IDC_COMBO2,13,181,117,51,CBS_DROPDOWNLIST | WS_VSCROLL | 
+                    WS_TABSTOP
+    EDITTEXT        IDC_EDIT1,13,207,31,12,ES_NUMBER
+    DEFPUSHBUTTON   "Update",IDOK,47,229,50,15
+    PUSHBUTTON      "Cancel",IDCANCEL,107,230,50,14
+    LTEXT           "Question trigger",IDC_STATIC,15,146,65,8
+    LTEXT           "Response affects virtue?",IDC_STATIC,15,172,85,8
+    LTEXT           "Dialog Type",IDC_STATIC,15,197,43,8
+    LTEXT           "Name",IDC_STATIC,15,9,27,8
+    LTEXT           "Pronoun",IDC_STATIC,15,23,27,8
+    LTEXT           "Look",IDC_STATIC,15,37,27,8
+    LTEXT           "Job",IDC_STATIC,15,51,27,8
+    LTEXT           "Health",IDC_STATIC,15,64,27,8
+    LTEXT           "Keyword1",IDC_STATIC,15,77,32,8
+    LTEXT           "Keyword2",IDC_STATIC,15,90,32,8
+    LTEXT           "Question",IDC_STATIC,15,103,32,8
+    LTEXT           "Reply Yes",IDC_STATIC,15,117,32,8
+    LTEXT           "Reply No",IDC_STATIC,15,131,32,8
+END
+
+IDD_ITEM DIALOGEX 50, 50, 121, 89
+STYLE DS_SETFONT | DS_MODALFRAME | DS_CENTERMOUSE | WS_POPUP | WS_CAPTION
+EXSTYLE WS_EX_CLIENTEDGE
+CAPTION "Item Properties"
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    EDITTEXT        IDC_EDIT1,70,7,21,13,ES_AUTOHSCROLL | ES_NUMBER
+    EDITTEXT        IDC_EDIT2,70,25,21,13,ES_AUTOHSCROLL | ES_NUMBER
+    CONTROL         "Initially visible",IDC_CHECK1,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,31,48,58,11
+    DEFPUSHBUTTON   "OK",IDOK,7,67,50,15
+    PUSHBUTTON      "Cancel",IDCANCEL,63,67,50,15
+    RTEXT           "Subtype",IDC_STATIC,29,10,37,8
+    LTEXT           "Group",IDC_STATIC,44,28,22,8
+END
+
+IDD_PORTAL DIALOGEX 50, 50, 133, 107
+STYLE DS_SETFONT | DS_MODALFRAME | DS_CENTERMOUSE | WS_POPUP | WS_CAPTION
+EXSTYLE WS_EX_CLIENTEDGE
+CAPTION "Portal"
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    COMBOBOX        IDC_COMBO1,12,23,108,96,CBS_DROPDOWNLIST | WS_VSCROLL | 
+                    WS_TABSTOP
+    EDITTEXT        IDC_EDIT1,86,42,21,14,ES_AUTOHSCROLL | ES_NUMBER
+    EDITTEXT        IDC_EDIT2,86,58,21,14,ES_AUTOHSCROLL | ES_NUMBER
+    DEFPUSHBUTTON   "OK",IDOK,12,78,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,71,78,50,14
+    LTEXT           "Link to:",IDC_STATIC,12,12,40,8
+    LTEXT           "Destination Y Pos",IDC_STATIC,16,61,67,8
+    LTEXT           "Destination X Pos",IDC_STATIC,16,45,67,8
+END
+
+IDD_RESIZE DIALOGEX 50, 50, 96, 73
+STYLE DS_SETFONT | DS_MODALFRAME | DS_CENTERMOUSE | WS_POPUP | WS_CAPTION
+CAPTION "Resize Map"
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    EDITTEXT        IDC_EDIT2,20,12,21,14,ES_AUTOHSCROLL | ES_NUMBER
+    EDITTEXT        IDC_EDIT1,52,12,22,14,ES_AUTOHSCROLL | ES_NUMBER
+    DEFPUSHBUTTON   "Resize",IDOK,22,34,50,15
+    PUSHBUTTON      "Cancel",IDCANCEL,22,51,50,14
+    LTEXT           "Columns",IDC_STATIC,49,2,31,8
+    LTEXT           "Rows",IDC_STATIC,20,2,18,8
+END
+
+IDD_PROPERTY DIALOGEX 50, 50, 139, 129
+STYLE DS_SETFONT | DS_MODALFRAME | DS_3DLOOK | DS_CENTERMOUSE | WS_POPUP | 
+    WS_CAPTION
+EXSTYLE WS_EX_CLIENTEDGE
+CAPTION "Map Properties"
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    CONTROL         "Map Wraps",IDC_CHECK1,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,17,14,53,10
+    COMBOBOX        IDC_COMBO1,15,41,108,96,CBS_DROPDOWNLIST | WS_VSCROLL | 
+                    WS_TABSTOP
+    EDITTEXT        IDC_EDIT1,87,60,21,14,ES_AUTOHSCROLL | ES_NUMBER
+    EDITTEXT        IDC_EDIT2,87,76,21,14,ES_AUTOHSCROLL | ES_NUMBER
+    DEFPUSHBUTTON   "OK",IDOK,15,96,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,74,96,50,14
+    LTEXT           "Exit to:",IDC_STATIC,15,30,40,8
+    LTEXT           "Destination Y Pos",IDC_STATIC,19,79,61,8
+    LTEXT           "Destination X Pos",IDC_STATIC,19,63,61,8
+END
+
+IDD_MERCHANTS DIALOGEX 50, 50, 207, 217
+STYLE DS_SETFONT | DS_MODALFRAME | DS_CENTERMOUSE | WS_POPUP | WS_CAPTION
+EXSTYLE WS_EX_CLIENTEDGE
+CAPTION "Merchant Properties"
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    COMBOBOX        IDC_COMBO1,72,7,109,71,CBS_DROPDOWNLIST | WS_VSCROLL | 
+                    WS_TABSTOP
+    EDITTEXT        IDC_EDIT1,72,36,109,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT2,72,52,109,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT3,72,68,109,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT4,72,84,109,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT5,72,100,109,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT6,42,134,25,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT7,68,134,25,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT8,94,134,25,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT9,120,134,25,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT10,146,134,25,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT11,172,134,25,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT12,42,150,25,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT13,68,150,25,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT14,94,150,25,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT15,120,150,25,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT16,146,150,25,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT17,172,150,25,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT18,42,166,25,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT19,68,166,25,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT20,94,166,25,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT21,120,166,25,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT22,146,166,25,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT23,172,166,25,14,ES_AUTOHSCROLL
+    DEFPUSHBUTTON   "Update",IDOK,48,195,50,15
+    PUSHBUTTON      "Cancel",IDCANCEL,108,196,50,14
+    LTEXT           "Proprietor Name",IDC_STATIC,11,37,57,8,0,WS_EX_RIGHT
+    LTEXT           "Shop Name",IDC_STATIC,11,53,57,8,0,WS_EX_RIGHT
+    LTEXT           "Values 1",IDC_STATIC,8,136,30,8,0,WS_EX_RIGHT
+    LTEXT           "A",IDC_STATIC,42,123,8,8
+    LTEXT           "B",IDC_STATIC,68,123,8,8
+    LTEXT           "C",IDC_STATIC,94,123,8,8
+    LTEXT           "D",IDC_STATIC,120,123,8,8
+    LTEXT           "E",IDC_STATIC,146,123,8,8
+    LTEXT           "F",IDC_STATIC,172,123,8,8
+    LTEXT           "Extra 1",IDC_STATIC,11,70,57,8,0,WS_EX_RIGHT
+    LTEXT           "Extra 2",IDC_STATIC,11,86,57,8,0,WS_EX_RIGHT
+    LTEXT           "Extra 3",IDC_STATIC,11,102,57,8,0,WS_EX_RIGHT
+    LTEXT           "Values 2",IDC_STATIC,8,152,30,8,0,WS_EX_RIGHT
+    LTEXT           "Values 3",IDC_STATIC,8,168,30,8,0,WS_EX_RIGHT
+    LTEXT           "Merchant Type",IDC_STATIC,16,9,51,8,0,WS_EX_RIGHT
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO 
+BEGIN
+    IDD_CREATURE, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 158
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 97
+    END
+
+    IDD_SAVE, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 252
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 48
+    END
+
+    IDD_LOAD, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 248
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 44
+    END
+
+    IDD_TALK, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 198
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 244
+    END
+
+    IDD_ITEM, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 114
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 82
+    END
+
+    IDD_PORTAL, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 126
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 100
+    END
+
+    IDD_PROPERTY, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 132
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 122
+    END
+
+    IDD_MERCHANTS, DIALOG
+    BEGIN
+        LEFTMARGIN, 6
+        RIGHTMARGIN, 200
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 210
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+ALLEGRO_ICON            ICON                    "editor.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog Info
+//
+
+IDD_TALK DLGINIT
+BEGIN
+    IDC_COMBO1, 0x403, 9, 0
+0x6f4e, 0x7120, 0x6575, 0x7972, "\000" 
+    IDC_COMBO1, 0x403, 5, 0
+0x614e, 0x656d, "\000" 
+    IDC_COMBO1, 0x403, 5, 0
+0x6f4c, 0x6b6f, "\000" 
+    IDC_COMBO1, 0x403, 4, 0
+0x6f4a, 0x0062, 
+    IDC_COMBO1, 0x403, 7, 0
+0x6548, 0x6c61, 0x6874, "\000" 
+    IDC_COMBO1, 0x403, 9, 0
+0x654b, 0x7779, 0x726f, 0x3164, "\000" 
+    IDC_COMBO1, 0x403, 9, 0
+0x654b, 0x7779, 0x726f, 0x3264, "\000" 
+    0
+END
+
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

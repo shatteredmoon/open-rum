@@ -1,0 +1,2233 @@
+Create Account,0x2000000
+Email Address,0x2000001
+Login,0x2000002
+Account Name,0x2000003
+Password,0x2000004
+Verify Password,0x2000005
+A,0x2000006
+B,0x2000007
+C,0x2000008
+D,0x2000009
+E,0x200000a
+F,0x200000b
+G,0x200000c
+H,0x200000d
+I,0x200000e
+J,0x200000f
+K,0x2000010
+L,0x2000011
+M,0x2000012
+N,0x2000013
+O,0x2000014
+P,0x2000015
+Q,0x2000016
+R,0x2000017
+S,0x2000018
+T,0x2000019
+U,0x200001a
+V,0x200001b
+W,0x200001c
+X,0x200001d
+Y,0x200001e
+Z,0x200001f
+Wouldst thou like to view the introductory story and take a personality test to decide thy character?,0x2000020
+Are you sure you want to delete this character? Character deletions are permanent and cannot be undone. Please type <C#00FF00>%s<C#FFFFFF> to confirm deletion.,0x2000021
+Mismatched name verification,0x2000022
+Art thou Male or Female?,0x2000023
+"Entrusted to deliver an uncounted purse of gold, thou dost meet a poor beggar. Dost thou:<B>1) Deliver the gold knowing the trust in thee was well-placed<B>2) Give the beggar a coin, knowing it won't be missed?",0x2000024
+"Thou hast been prohibited by thy absent Lord from joining thy friends in a close pitched battle. Dost thou:<B>1) Refrain, so thou may claim obedience<B>2) Aid thy comrades, knowing thou may deny it later?",0x2000025
+"A merchant owes thy friend money, now long past due. Thou dost see the same merchant drop a purse of gold. Dost thou:<B>1) Return the purse intact<B>2) Give thy friend a portion of the gold first?",0x2000026
+"Thee and thy friend are valiant but penniless warriors. Thou both go out to slay a mighty dragon. Thy friend thinks he slew it, thee did. When asked, dost thou:<B>1) Claim the gold<B>2) Allow thy friend the large reward?",0x2000027
+"Thou art sworn to protect thy Lord at any cost, yet thou knowest he hast committed a crime. Authorities ask the of the affair, dost thou:<B>1) Silently keep thine oath<B>2) Break thine oath by speaking?",0x2000028
+"Thy friend seeks admittance to thy Spiritual order. Thou art asked to vouch for his purity of Spirit, of which thou art unsure. Dost thou:<B>1) Express thy doubt<B>2) Vouch for him, hoping for his improvement?",0x2000029
+"Thy Lord mistakenly believes he slew a dragon. Thou hast proof that thy lance felled the beast. When asked, dost thou:<B>1) Claim the kill and the prize<B>2) Permit thy Lord his belief?",0x200002a
+Thou dost manage to disarm thy mortal enemy in a duel. He is at thy mercy. Dost thou:<B>1) Permit him to yield<B>2) Slay him as expected of a duelist?,0x200002b
+After 20 years thou hast found the slayer of thy best friends. The villain proves to be a man who provides the sole support for a young girl. Dost thou:<B>1) Spare him for the girl<B>2) Slay him?,0x200002c
+"Thee and thy friends have been routed and ordered to retreat. In defiance of thy orders, dost thou:<B>1) Stop to aid a wounded companion<B>2) Give thyself to slow the pursuing enemy, so others can escape?",0x200002d
+Thou art sworn to uphold a Lord who participates in the forbidden torture of prisoners. Each night their cries of pain reach thee. Dost thou:<B>1) Report the deeds<B>2) Keep thine oath and ignore the deeds?,0x200002e
+Thou hast been taught to preserve all life as sacred. A man lies fatally stung by a venomous serpent. He pleads for a merciful death. Dost thou:<B>1) End his pain<B>2) Heed thy beliefs and refuse?,0x200002f
+"As one of the King's Guard, thy Captain has asked that one amongst you visit a hospital to cheer the children with tales of thy valiant deeds. Dost thou:<B>1) Agree and play the braggart<B>2) Let another go?",0x2000030
+Thou hast been sent to secure a needed treaty with a distant Lord. Thy host is agreeable to the proposal but insults thy country at dinner. Dost thou:<B>1) Bear the slurs<B>2) Rise and demand an apology?,0x2000031
+A mighty knight accosts thee and demands thy food. Dost thou:<B>1) Refuse and engage the knight<B>2) Give thy food unto the hungry knight?,0x2000032
+During battle thou art ordered to guard thy commander's empty tent. The battle goes poorly and thou dost yearn to aid thy fellows. Dost thou:<B>1) Enter the battle to aid thy companions<B>2) Keep thy post as guard?,0x2000033
+"A local bully pushes for a fight. Dost thou:<B>1) Trounce the rogue<B>2) Decline, knowing that no lasting good will come of it?",0x2000034
+"Although a teacher of music, thou art a skillful wrestler. Thou hast been asked to fight in a local championship. Dost thou:<B>1) Accept the invitation and fight to win<B>2) Decline knowing thou art sure to win?",0x2000035
+"During a pitched battle, thou dost see a fellow desert his post, endangering many. As he flees, he is set upon by several enemies. Dost thou:<B>1) Let him fight alone<B>2) Risk thine own life to aid him?",0x2000036
+"Thou hast sworn to do thy Lord's bidding in all. He covets a piece of land and orders the owner removed. Dost thou:<B>1) Refuse to act, thus being disgraced<B>2) Keep thine oath and unfairly evict the landowner?",0x2000037
+Thou dost believe that virtue resides in all people. Thou dost see a rogue steal from thy Lord. Dost thou:<B>1) Call him to justice<B>2) Personally try to sway him back to the path of good?,0x2000038
+"Unwitnessed, thou hast slain a great dragon in self defense. A poor warrior claims the offered reward. Dost thou:<B>1) Step forward to claim the reward<B>2) Go about life, secure in thy self-esteem?",0x2000039
+"Thou art a bounty hunter sworn to return an alleged murderer. After his capture, thou believest him to be innocent. Dost thou:<B>1) Surrender thy sizable bounty for thy belief<B>2) Keep thy oath to return him?",0x200003a
+Thou hast spent thy life in charitable and righteous work. Thine uncle the innkeeper lies ill and asks you to take over his tavern. Dost thou:<B>1) Give thy life of purity to aid thy kin<B>2) Decline and follow thy spirit's call?,0x200003b
+"Thou art an elderly, wealthy eccentric. Thy end is near. Dost thou:<B>1) Donate all thy wealth to feed hundreds of starving children, and receive public adulation<B>2) Quietly live out thy life, willing thy fortune to thy heirs?",0x200003c
+In thy youth thou pledged to marry thy sweetheart. Now thou art on a sacred quest in distant lands. Thy sweetheart asks thee to keep thy vow. Dost thou:<B>1) Honor thy pledge to wed<B>2) Follow thy spiritual crusade?,0x200003d
+"Thou art at a crossroads in thy life. Dost thou:<B>1) Choose the life of a Paladin, striving for Truth and Courage<B>2) Choose the life of a Shepherd, and a world of simplicity and peace?",0x200003e
+Thy parents wish thee to become an apprentice. Two positions are available. Dost thou:<B>1) Become an acolyte in the spiritual order<B>2) Become an assistant to a humble village cobbler?,0x200003f
+The gypsy places the first two cards upon the table.,0x2000040
+The gypsy places two more of the cards upon the table.,0x2000041
+"They are the cards of %s and %s. She says ""Consider this:""",0x2000042
+By what name shalt thou be known in this world and time?,0x2000043
+Checking player name...,0x2000044
+That character name already exists. Please enter a different name.,0x2000045
+That name is not allowed,0x2000046
+That name is not available,0x2000047
+That name could not be reserved,0x2000048
+Validating character name...,0x2000049
+By what password shall thee be identified?,0x200004a
+Please verify thy password:,0x200004b
+Passwords match,0x200004c
+Passwords do not yet match,0x200004d
+Select thy character type from the list below:,0x200004e
+Mage - Wizard,0x200004f
+Mage - Alchemist/Wizard,0x2000050
+Bard - Thief,0x2000051
+Bard - Lark/Thief,0x2000052
+Fighter,0x2000053
+Fighter - Barbarian/Fighter,0x2000054
+Druid - Druid/Wizard,0x2000055
+Druid - Wizard,0x2000056
+Tinker - Barbarian/Fighter,0x2000057
+Tinker - Fighter,0x2000058
+Paladin - Paladin/Cleric,0x2000059
+Paladin - Cleric,0x200005a
+Ranger - Ranger/Thief,0x200005b
+Ranger - Thief,0x200005c
+Shepherd - Cleric,0x200005d
+Shepherd - Illusionist/Cleric,0x200005e
+No characters available,0x200005f
+No more available character slots for this account,0x2000060
+"The day is warm, yet there is a cooling breeze. The latest in a series of personal crises seems insurmountable. You are being pulled apart in all directions.",0x2000061
+Yet this afternoon walk in the country side slowly brings relaxation to your harried mind. The soil and strain of modern high-tech living begins to wash off in layers. That willow tree near the stream looks comfortable and inviting.,0x2000062
+"The buzz of dragonflies and the whisper of the willow's swaying branches bring a deep peace. Searching inward for tranquility and happiness, you close your eyes.",0x2000063
+"A high-pitched cascading sound like crystal wind-chimes impinges on your floating awareness. As you open your eyes, you see a shimmering blueness rise from the ground. The sound seems to be emanating from this glowing portal.",0x2000064
+"It is difficult to look at the blueness. Light seems to bend and distort around it, while the sound waves become so intense, they appear to become visible.",0x2000065
+"The portal hangs there for a moment; then, with the rush of an imploding vacuum, it sinks into the ground. Something remains suspended in mid-air for a moment before falling to earth with a heavy thud.",0x2000066
+"Somewhat shaken by this vision, you rise to your feet to investigate. A crude circle of stones surrounds the spot where the portal appeared. There is something glinting in the grass.",0x2000067
+"You pick up an amulet shaped like a cross with a loop at the top. It is an Ankh, the sacred symbol of life and rebirth. But this could not have made the thud, so you look again and find a large book wrapped in thick cloth!",0x2000068
+"With trembling hands you unwrap the book. Behold, the cloth is a map, and within lies not one book, but two. The map is of a land strange to you, and the style speaks of ancient cartography.",0x2000069
+The script on the cover of the first book is arcane but readable. The title is: <C#00FF00>The History of Britannia as told by Kyle the Younger<C#FFFFFF>,0x200006a
+"The other book is disturbing to look at. Its small cover appears to be fashioned out of some sort of leathery hide, but from what creature is uncertain. The reddish-black skin radiates an intense aura suggestive of ancient power.",0x200006b
+"The tongue of the title is beyond your ken. You dare not open the book and disturb whatever sleeps within. You decide to peruse the History. Settling back under the willow tree, you open the book.",0x200006c
+<C#00FF00>(You read the book of History)<C#FFFFFF>,0x200006d
+"Closing the book, you again pick up the Ankh. As you hold it, you begin to hear a hauntingly familiar, lute-like sound wafting over a nearby hill. Still clutching the strange artifacts, you rise unbidden and climb the slope.",0x200006e
+"In the valley below you see what appears to be a fair. It seems strange that you came that way earlier and noticed nothing. As you mull this over, your feet carry you down towards the site.",0x200006f
+"This is no ordinary traveling carnival, but a Renaissance fair. The pennants on the tent tops blow briskly in the late afternoon breeze.",0x2000070
+"The ticket taker at the RenFair's gate starts to ask you for money, but upon spotting your Ankh says, ""Welcome, friend. Enter in peace and find your path.""",0x2000071
+The music continues to pull you forward amongst the merchants and vendors. Glimpses of fabulous treasures can be seen in some of the shadowy booths.,0x2000072
+"These people are very happy. They seem to glow with an inner light. Some look up as you pass and smile, but you cannot stop - the music compels you to move onward through the crowd.",0x2000073
+"Through the gathering dusk you see a secluded gypsy wagon sitting off in the woods. The music seems to emanate from the wagon. As you draw near, a woman's voice weaves into the music, saying: ""You may approach, O seeker.""",0x2000074
+You enter to find an old gypsy sitting in a small curtained room. She wears an Ankh around her neck. In front of her is a round table covered in deep green velvet. The room smells so heavily of incense that you feel dizzy.,0x2000075
+"Seeing the Ankh, the ancient gypsy smiles and warns you never to part with it. ""We have been waiting such a long time, but at last you have come. Sit here and I shall read the path of your future.""",0x2000076
+"Upon the table the gypsy places a curious wooden object like an abacus but without beads. In her hands she holds eight unusual cards. ""Let us begin the casting.""",0x2000077
+"With the final choice, the incense swells up around you. The gypsy speaks as if from a great distance, her voice growing fainter with each word: ""So be it! Thy path is chosen!""",0x2000078
+"There is a moment of intense, wrenching vertigo. As you open your eyes, a voice whispers within your mind, ""Seek the counsel of thy sovereign."" After a moment, the spinning subsides, and you open your eyes to...",0x2000079
+Attack,0x200007a
+Board,0x200007b
+Bribe,0x200007c
+Cast Spell!,0x200007e
+Descend,0x200007f
+Dismount,0x2000082
+Enter,0x2000083
+Extinguish light!,0x2000084
+Fire,0x2000085
+Get Chest!,0x2000086
+Hole up and camp,0x2000087
+Hyperwarp to:,0x2000088
+Ignite torch,0x2000089
+Insert card,0x200008a
+Jimmy lock,0x200008c
+Klimb,0x200008d
+Klimb altitude!,0x200008e
+Landing Requested!,0x200008f
+Launch Rocket!,0x2000090
+Look,0x2000091
+Toss a coin?,0x2000092
+Alakazot!,0x2000093
+Spell found,0x2000094
+Weapon found,0x2000095
+Meditate,0x2000096
+Mix reagents,0x2000098
+Nip potion,0x2000099
+Open,0x200009a
+Other command:,0x200009b
+Peer at a gem!,0x200009c
+Peer from magic helm!,0x200009d
+Stop peering!,0x200009e
+Quit and save,0x20000a0
+Ready a weapon,0x20000a1
+Search,0x20000a2
+Steal,0x20000a4
+Talk,0x20000a5
+Transact,0x20000a6
+Use item,0x20000a7
+Volume,0x20000a8
+Music & Sound Effects Enabled,0x20000a9
+Music Disabled,0x20000aa
+Sound Effects Disabled,0x20000ab
+Music & Sound Effects Disabled,0x20000ac
+Wear armour,0x20000ad
+Xeno:,0x20000ae
+X-it,0x20000af
+Yako:,0x20000b0
+Yell,0x20000b1
+Zabo:,0x20000b2
+Z-stats,0x20000b3
+Level,0x20000b4
+Very well...,0x20000c5
+How many wouldst thou like to buy?,0x20000c6
+A fine choice!,0x20000c7
+Fare thee well!,0x20000c8
+You have not the funds!,0x20000c9
+Anything else?,0x20000ca
+Welcome to,0x20000cb
+Your interest?,0x20000cc
+Very well...,0x20000cd
+Wouldst thou like to buy?,0x20000ce
+A fine choice!,0x20000cf
+Fare thee well!,0x20000d0
+You have not the funds!,0x20000d1
+Anything else?,0x20000d2
+Welcome to,0x20000d3
+Your interest?,0x20000d4
+Acid Trap!,0x20000d5
+You have been granted admin privileges.,0x20000d6
+Already Landed!,0x20000d7
+Already used!,0x20000d8
+You awaken on the shores of a forgotten Land... your ship and some of its crew lost to the sea!,0x20000d9
+amount,0x20000da
+Argh-Choke-Gasp!,0x20000db
+Available commands,0x20000dc
+Available maps,0x20000dd
+Awakened!,0x20000de
+You remove several strong shoots of bamboo.,0x20000df
+Barely wounded,0x20000e0
+The bell rings on and on!,0x20000e1
+The bell sounds an eerie tone and begins to glow!,0x20000e2
+You find a tarnished bell.,0x20000e3
+"In the ground beneath the moongate, you dig up a black stone.",0x20000e4
+Bleck--Nasty!,0x20000e5
+Blocked!,0x20000e6
+"You draw up the the bucket and in it, you find a blue stone.",0x20000e7
+Blue Tassle required!,0x20000e8
+Board aircar!,0x20000e9
+Board balloon!,0x20000ea
+Board cart!,0x20000eb
+Board plane!,0x20000ec
+Board rocket!,0x20000ed
+Board ship!,0x20000ee
+Board shuttle!,0x20000ef
+Board raft!,0x20000f0
+Board spaceship!,0x20000f1
+Board time machine!,0x20000f2
+Board what?,0x20000f3
+Bomb Trap!,0x20000f4
+You find a human bone!,0x20000f5
+The words resonate with the ringing!,0x20000f6
+The text changes before thyne eyes!,0x20000f7
+You find a book called 'The Principle of Truth.',0x20000f8
+Brass Button required!,0x20000f9
+Bribed!,0x20000fa
+You have disturbed a Bridge Troll!,0x20000fb
+Broadsides only! ,0x20000fc
+A campfire requires %d torches!,0x20000fd
+"As you light the candle, the earth trembles!",0x20000fe
+"The wick ignites into a brilliant ball of light, turning the candle gold!",0x20000ff
+"You find a plain, white candle.",0x2000100
+may not use,0x2000101
+may not use a,0x2000102
+Can't!,0x2000103
+Cannot rest when poisoned!,0x2000104
+You find a Card of Death!,0x2000105
+You find a Card of Love!,0x2000106
+You find a Card of Sol!,0x2000107
+You find a Card of Moons!,0x2000108
+A %s CANNOT cast spells!,0x2000109
+Oh no! Thou wert caught!,0x200010a
+Patching updated files...,0x200010b
+Restarting client...,0x200010c
+This game requires RUM Client version %d.%d. You are currently running with version %d.%d. Please install the required RUM Client version and try again.,0x200010d
+Invalid Client Version,0x200010e
+You command the transport.,0x200010f
+Invalid server address,0x2000110
+Connecting to %s:%s...,0x2000111
+Failed to connect to a game server at the specified address,0x2000112
+Critical,0x2000113
+Cured!,0x2000114
+It's Dark!,0x2000115
+Hmmm--Delicious!,0x2000116
+Dexterity + %d,0x2000117
+Only shuttles are equipped to enter the atmosphere!,0x2000118
+"About the remains, you find a large red dragonscale.",0x2000119
+Drift only!,0x200011a
+Dungeons only!,0x200011b
+Electrified!,0x200011c
+Evaded!,0x200011d
+"As Exodus grinds to a halt, the castle begins to sink!",0x200011e
+You find Exotic armour!,0x200011f
+You find an Exotic weapon!,0x2000120
+Experience +%d,0x2000121
+Failed!,0x2000122
+Falling Rocks!,0x2000123
+You fell from the balloon!,0x2000124
+Fire what?,0x2000125
+Fleeing,0x2000126
+Food pilfered!,0x2000127
+Thou hast found a key!,0x2000128
+Thou doth find one third of the Three Part Key!,0x2000129
+Thou hast found a captive princess!,0x200012a
+Thou art free.,0x200012b
+Gas bomb!,0x200012c
+You remove a gemstone from a hidden space beneath the floorboards.,0x200012d
+A ghostly form materializes beside the bed!,0x200012e
+Received %s from,0x200012f
+is giving you something...,0x2000130
+Gave %s to,0x2000131
+Gold pilfered!,0x2000132
+You find a large chunk of solid granite.,0x2000133
+"Near the base of the ancient tree, you find a green stone.",0x2000134
+CAUTION: Your account has been flagged due to suspicious activity.,0x2000135
+Torches require one free hand!,0x2000136
+Healed!,0x2000137
+Heavily wounded,0x2000138
+Help!,0x2000139
+Hmmm--No Effect!,0x200013a
+The horn issues a thunderous bellow as the outer layer cracks to reveal a silver sheen within.,0x200013b
+You find an old daemon horn!,0x200013c
+The Horn sounds an eerie tone!,0x200013d
+HYPERWARP ENGAGED!,0x200013e
+PREPARE FOR HYPERWARP!,0x200013f
+You are about to be logged out due to inactivity.,0x2000140
+"As you spot the wreckage of the H.M.S. Cape, your ship's wheel glows with a blue light!",0x2000141
+Intelligence + %d,0x2000142
+Invalid Command!,0x2000143
+Invalid direction!,0x2000144
+Hmmm--Invigorating!,0x2000145
+You remove a large piece of ivory from the dead serpent.,0x2000146
+Your gold and keys have been temporarily confiscated!,0x2000147
+You have been released from jail.,0x2000148
+Estimated jail time is %1.1f minute(s).,0x2000149
+You have been jailed for your crimes!,0x200014a
+%s Killed!,0x200014b
+Launch first!,0x200014c
+Launch sequence initiated!,0x200014d
+Thou hast lifted off!,0x200014e
+You feel less virtuous!,0x200014f
+Lightly wounded,0x2000150
+Could not find the Ultima %d installation at the specified path,0x2000151
+Locked!,0x2000152
+Lord British says: I have pulled thy spirit and some possessions from the void. Be more careful in the future!,0x2000153
+Thou hast lost an eighth!,0x2000154
+M.P. too low! Failed!,0x2000155
+You find Mandrake Root!,0x2000156
+It left the Mark of Kings!,0x2000157
+It left the Mark of Force!,0x2000158
+It left the Mark of Fire!,0x2000159
+It left the Mark of the Snake!,0x200015a
+Missed!,0x200015b
+Thou dost not bear the rune of entry! A strange force keeps you out!,0x200015c
+It fizzles!,0x200015d
+A %s  CANNOT mix reagents!,0x200015e
+For Spell,0x200015f
+You mix the reagents and...,0x2000160
+Mondain is dead!...or is he?,0x2000161
+Mondain's magical aura doth seem substantially diminished in the absence of the gem...,0x2000162
+The Gem is DESTROYED!,0x2000163
+THOU ART VICTORIOUS!,0x2000164
+You feel more virtuous!,0x2000165
+Morning!,0x2000166
+Mount horse!,0x2000167
+Land first!,0x2000168
+Use the Yell command to talk to other players!,0x2000169
+You find Mystic Armour!,0x200016a
+You find a Mystic Sword!,0x200016b
+You find Nightshade!,0x200016c
+No effect!,0x200016d
+No keys left!,0x200016e
+"Funny, No Response!",0x200016f
+No room!,0x2000170
+Thou must have a shuttle pass to board!,0x2000171
+None owned!,0x2000172
+You do not command the transport!,0x2000173
+Not here!,0x2000174
+Thou art not a party member!,0x2000175
+Nothing Here!,0x2000176
+Online players,0x2000177
+On foot only!,0x2000178
+Opened!,0x2000179
+"On the altar, you find an orange stone.",0x200017a
+Out of range!,0x200017b
+Outdoors only!,0x200017c
+%s is already in a party!,0x200017d
+The party has been disbanded.,0x200017e
+You have been dismissed from the party.,0x200017f
+Party full!,0x2000180
+"%s invites you to join their party, accept?",0x2000181
+%s has declined the party invitation.,0x2000182
+Your party invitation has expired.,0x2000183
+%s did not respond to the party invitation.,0x2000184
+%s cannot currently accept party invitations.,0x2000185
+Party invitation sent to %s.,0x2000186
+%s has joined the party.,0x2000187
+You are designated as party leader.,0x2000188
+You have left the party.,0x2000189
+%s has been designated as party leader.,0x200018a
+You are not the party leader!,0x200018b
+%s was dismissed from the party.,0x200018c
+%s has left the party.,0x200018d
+%s could not be found or is not online.,0x200018e
+You can't create or join a party from a solo instance!,0x200018f
+Pit Trap!,0x2000190
+Poison Trap!,0x2000191
+Poisoned!,0x2000192
+PREPARE FOR LAUNCH!,0x2000193
+"She giveth thee 500 hit points, pence and experience points.",0x2000194
+"In the grave, you dig up a purple stone.",0x2000195
+"Near the crater, you find a red stone.",0x2000196
+Ahh--Refreshing!,0x2000197
+Resting...,0x2000198
+Press '+' to re-enter your body.,0x2000199
+Press '-' to resurrect from the Void.,0x200019a
+"Lat: %c'%c""",0x200019b
+"Long: %c'%c""",0x200019c
+Shazam!,0x200019d
+Thou art not able to focus thy thoughts with that Mantra!,0x200019e
+Thou art unable to focus thy thoughts on this subject!,0x200019f
+You offer %d gold to the shrine...,0x20001a0
+Thou hast achieved partial avatarhood...,0x20001a1
+Thy thoughts are pure. Thou art granted a vision!,0x20001a2
+Thy mind is still weary from thy last meditation!,0x20001a3
+You cast the skull fragment into the Abyss!,0x20001a4
+You find a skull fragment!,0x20001a5
+Skull Key required!,0x20001a6
+Sleep Trap!,0x20001a7
+You find some fired soapstone.,0x20001a8
+Space Ace Commendation,0x20001a9
+Thou art not equipped for the harshness of space!,0x20001aa
+Starving!,0x20001ab
+Thou dost find %s,0x20001ac
+A strange force keeps you out!,0x20001ad
+Winds!,0x20001ae
+Strength + %d,0x20001af
+Success!,0x20001b0
+Thief!,0x20001b1
+Thou canst not determine how to operate the craft at this time.,0x20001b2
+"You see a vision of the Time Lord. He tells you the one way is: %s, %s, %s & %s. All else fails.",0x20001b3
+Tri-Lithium required!,0x20001b4
+Turning,0x20001b5
+The Chest Holds: ,0x20001b6
+The Chest Holds: %d Gold,0x20001b7
+Unknown command,0x20001b8
+Unlocked!,0x20001b9
+BE CAREFUL!,0x20001ba
+A huge swirling Whirlpool engulfs you and your ship dragging both to a watery grave!... As the water enters your lungs you pass into Darkness!,0x20001bb
+"On the ground before the ankh, you find a white stone.",0x20001bc
+Wisdom + %d,0x20001bd
+X-it what?,0x20001be
+"In the hold, you find a yellow stone.",0x20001bf
+y/n,0x20001c0
+You take a small branch of yew.,0x20001c1
+Food,0x20001c2
+Gold,0x20001c3
+Hitpoints,0x20001c4
+Mana,0x20001c5
+I have already carved thee a rune!,0x20001c6
+Buy,0x20001c7
+Bye,0x20001c8
+That I cannot help thee with.,0x20001c9
+Carve,0x20001ca
+"I can carve thee a rune that will allow passage into the shrine, but only if the material I carve it from is gathered by thee out of an act of",0x20001cb
+Dismiss from party,0x20001cc
+Give,0x20001cd
+How much?,0x20001ce
+says: I am,0x20001cf
+Thou art incorrect.,0x20001d0
+Invite to party,0x20001d1
+No,0x20001d2
+Thou hast not that much!,0x20001d3
+Thou hast not that much gold!,0x20001d4
+Promote to leader,0x20001d5
+Sell,0x20001d6
+Tell,0x20001d7
+"Oh, Thank thee! I shall never forget thy kindness!",0x20001d8
+turns away!,0x20001d9
+What is the symbol of,0x20001da
+Yes,0x20001db
+Yes or no!,0x20001dc
+You meet,0x20001dd
+You say,0x20001de
+You see,0x20001df
+Your Interest,0x20001e0
+© 1985 Lord British,0x20001e1
+Delete Character,0x20001e2
+Exit Game,0x20001e3
+Initiate New Game,0x20001e4
+"In another world, in a time to come.",0x20001e5
+Journey Onward,0x20001e6
+Logout,0x20001e7
+Address,0x20001e8
+and,0x20001e9
+Armour,0x20001ea
+No Armour,0x20001eb
+Worn,0x20001ec
+the,0x20001ed
+a,0x20001ee
+an,0x20001ef
+Attributes,0x20001f0
+Card:,0x20001f1
+Cards,0x20001f2
+Coin,0x20001f3
+Connect,0x20001f4
+Copper,0x20001f5
+Copper Pieces,0x20001f6
+direction,0x20001f7
+Equipment,0x20001f8
+Equipped,0x20001f9
+Female,0x20001fa
+Gold,0x20001fb
+Gold Crowns,0x20001fc
+Hands,0x20001fd
+Items,0x20001fe
+Male,0x20001ff
+Marks,0x2000200
+Mixtures,0x2000201
+"No, choose character from list",0x2000202
+or,0x2000203
+Other,0x2000204
+Party,0x2000205
+Port,0x2000206
+Press Any Key,0x2000207
+Reagents,0x2000208
+Runes,0x2000209
+Self,0x200020a
+Silver,0x200020b
+Silver Pieces,0x200020c
+Spell,0x200020d
+Spells,0x200020e
+Stones,0x200020f
+target,0x2000210
+Transports,0x2000211
+Unspecified,0x2000212
+Weapons,0x2000213
+what?,0x2000214
+Wind,0x2000215
+"Yes, introduction and test",0x2000216
+Chain Mail,0x2000217
+Leather,0x2000218
+Plate Mail,0x2000219
+Reflect Suit,0x200021a
+Vacuum Suit,0x200021b
+Adventurer,0x200021c
+Balron,0x200021d
+Bard,0x200021e
+Bat,0x200021f
+Bear,0x2000220
+Carrion Creeper,0x2000221
+Cleric,0x2000222
+Cyclops,0x2000223
+Daemon,0x2000224
+Dark Knight,0x2000225
+Dragon Turtle,0x2000226
+Ettin,0x2000227
+Evil Ranger,0x2000228
+Evil Trent,0x2000229
+Fighter,0x200022a
+Gelatinous Cube,0x200022b
+Giant Squid,0x200022c
+Gremlin,0x200022d
+Guard,0x200022e
+Hidden Archer,0x200022f
+Hood,0x2000230
+Invisible Seeker,0x2000231
+Jester,0x2000232
+King,0x2000233
+Knight,0x2000234
+Lecher,0x2000235
+Lich,0x2000236
+Lizard Man,0x2000237
+Mimic,0x2000238
+Mind Whipper,0x2000239
+Minotaur,0x200023a
+Mondain,0x200023b
+Necromancer,0x200023c
+Ness Creature,0x200023d
+Orc,0x200023e
+Pirate Ship,0x200023f
+Princess,0x2000240
+Giant Rat,0x2000241
+Skeleton,0x2000242
+Alien,0x2000243
+Spider,0x2000244
+Tangler,0x2000245
+Thief,0x2000246
+Villager,0x2000247
+Viper,0x2000248
+Wandering Eyes,0x2000249
+Wandering Warlock,0x200024a
+Wench,0x200024b
+Wizard,0x200024c
+Wraith,0x200024d
+Zorn,0x200024e
+Coin,0x200024f
+Food,0x2000250
+Equipment,0x2000251
+Weapon,0x2000252
+Armour,0x2000253
+Spell,0x2000254
+"In return, I give unto thee %d hitpoints!",0x2000255
+Pence,0x2000256
+Service,0x2000257
+Dost thou offer pence or service?,0x2000258
+Thou art on a quest for me already!,0x2000259
+Do not return until thy quest is done!,0x200025a
+Go forth and find %s!,0x200025b
+Go now and kill a %s!,0x200025c
+A quest has been completed!,0x200025d
+You find a %s!,0x200025e
+"Ah, %s! Thou hast completed thy quest.",0x200025f
+The king gives thee a %s gem!,0x2000260
+For this I shall tell thee %s,0x2000261
+For this I will give thee %d points of %s!,0x2000262
+Return to Britannia,0x2000263
+Castle Barataria,0x2000264
+Black Dragon's Castle,0x2000265
+Castle of Lord British,0x2000266
+Castle of the Lost King,0x2000267
+Castle of Olympus,0x2000268
+Castle Rondorin,0x2000269
+Castle of Shamino,0x200026a
+White Dragon's Castle,0x200026b
+Dead Man's Walk,0x200026c
+The Dead Warrior's Fight,0x200026d
+Death's Awakening,0x200026e
+The Dungeon of Doom,0x200026f
+The End,0x2000270
+The Hole to Hades,0x2000271
+The Labyrinth,0x2000272
+The Lost Caverns,0x2000273
+The Metal Twister,0x2000274
+The Mines of Mt. Drash,0x2000275
+Mondain's Gate to Hell,0x2000276
+The Dungeon of Montor,0x2000277
+The Dungeon of Perinia,0x2000278
+The Savage Place,0x2000279
+Scorpion Hole,0x200027a
+The Skull Smasher,0x200027b
+The Slow Death,0x200027c
+Spine Breaker,0x200027d
+The Troll's Hole,0x200027e
+The Viper's Pit,0x200027f
+Mondain's Lair,0x2000280
+Lands of Danger & Despair,0x2000281
+Lands of the Dark Unknown,0x2000282
+Lands of the Feudal Lords,0x2000283
+Lands of Lord British,0x2000284
+Sosaria,0x2000285
+Space Station Alpha,0x2000286
+Space Station Omega,0x2000287
+Space Station Omicron,0x2000288
+Space,0x2000289
+Time Machine,0x200028a
+Britain,0x200028b
+Fawn,0x200028c
+Grey,0x200028d
+Montor,0x200028e
+Moon,0x200028f
+Paws,0x2000290
+Tune,0x2000291
+Yew,0x2000292
+Defense Specialties Unlimited,0x2000293
+The Hammer-n-Anvil,0x2000294
+Custom Armour Works,0x2000295
+Max's Armoury,0x2000296
+The Armour Shop of Lord Eldric D'Charbonneux,0x2000297
+The Iron Fist,0x2000298
+The barkeep,0x2000299
+Psychic Sam's Magic Emporium,0x200029a
+The Unleashed Spell,0x200029b
+Mystic Mylinda's,0x200029c
+Mad Chad's Magic Shoppe,0x200029d
+Words of Power,0x200029e
+The merchant,0x200029f
+Rations Unlimited,0x20002a0
+The Brown Bag,0x20002a1
+Exploration Provisioners,0x20002a2
+Adventurer's Supply Post,0x20002a3
+Li'l Karelia's Grocery,0x20002a4
+Fresh Food Marketplace,0x20002a5
+Fastest Freshest Food Market,0x20002a6
+Thou had best know...,0x20002a7
+Fish and Chips,0x20002a8
+Mary's Midway,0x20002a9
+Teaser's House,0x20002aa
+Dav's House-o-Suds,0x20002ab
+Ye Olde Local Pub,0x20002ac
+Pub de Varg,0x20002ad
+Dr. Cat's Lair,0x20002ae
+Kurstable's Corner,0x20002af
+O.K. New and Used Transport,0x20002b0
+Quality Transport Ltd.,0x20002b1
+Sly Sam's Transportation Specialists,0x20002b2
+"Scooter's Super Duper Transport, Inc",0x20002b3
+The Duelo Shop,0x20002b4
+Cold Steel Creations,0x20002b5
+The Iron Works,0x20002b6
+The Tempered Steel,0x20002b7
+The Weapon Shop of Lord Eldric D'Charbonneux,0x20002b8
+The Razor's Edge,0x20002b9
+The Bloody Blade,0x20002ba
+Weaponry Supply,0x20002bb
+Cleric,0x20002bc
+Fighter,0x20002bd
+Thief,0x20002be
+Wizard,0x20002bf
+hidden grove,0x20002c0
+Sosaria,0x20002c1
+space station,0x20002c2
+Beth,0x20002c3
+Cassandra,0x20002c4
+Dianne,0x20002c5
+Donna,0x20002c6
+Julia,0x20002c7
+Kristen,0x20002c8
+Lori,0x20002c9
+Marsha,0x20002ca
+Agility,0x20002cb
+Charisma,0x20002cc
+Coin,0x20002cd
+Experience,0x20002ce
+Food,0x20002cf
+Red Gem,0x20002d0
+Green Gem,0x20002d1
+Blue Gem,0x20002d2
+White Gem,0x20002d3
+Gem,0x20002d4
+Hitpoints,0x20002d5
+Intelligence,0x20002d6
+Keys,0x20002d7
+Mana,0x20002d8
+Potions,0x20002d9
+Rope & Spikes,0x20002da
+Shuttle Pass,0x20002db
+Blink,0x20002dc
+Create Field,0x20002dd
+Destroy Field,0x20002de
+Down,0x20002df
+Heal,0x20002e0
+Kill,0x20002e1
+Light,0x20002e2
+Magic Missile,0x20002e3
+Open,0x20002e4
+Prayer,0x20002e5
+Surface,0x20002e6
+Up,0x20002e7
+Stamina,0x20002e8
+Strength,0x20002e9
+Torches,0x20002ea
+Wisdom,0x20002eb
+The Pillars of Protection,0x20002ec
+The Tower of Knowledge,0x20002ed
+The Pillars of the Argonauts,0x20002ee
+The Pillar of Ozymandias,0x20002ef
+The Grave of the Lost Soul,0x20002f0
+The Eastern Sign Post,0x20002f1
+The Sign Post,0x20002f2
+The Southern Sign Post,0x20002f3
+DUCIS-EDUCO!,0x20002f4
+Blink,0x20002f5
+STRUXI!,0x20002f6
+Create Field,0x20002f7
+DELIO!,0x20002f8
+Destroy Field,0x20002f9
+INFERUS!,0x20002fa
+Down,0x20002fb
+SANO!,0x20002fc
+Heal,0x20002fd
+INTERFICIO!,0x20002fe
+Kill,0x20002ff
+LUX!,0x2000300
+Light,0x2000301
+VASTO!,0x2000302
+Magic Missile,0x2000303
+APERTUS!,0x2000304
+Open,0x2000305
+POTENTIS-LAUDIS!,0x2000306
+Prayer,0x2000307
+CONSCENDO!,0x2000308
+Surface,0x2000309
+ASCENDO!,0x200030a
+Up,0x200030b
+large bush,0x200030c
+bush,0x200030d
+secret door,0x200030e
+floor,0x200030f
+tiled floor,0x2000310
+forest,0x2000311
+grass,0x2000312
+mountains,0x2000313
+pond,0x2000314
+space,0x2000315
+stars,0x2000316
+stars,0x2000317
+stars,0x2000318
+stars,0x2000319
+brick wall,0x200031a
+wall of fire,0x200031b
+wall,0x200031c
+water,0x200031d
+Amulet,0x200031e
+Axe,0x200031f
+Blaster,0x2000320
+Bow,0x2000321
+Cannon Fire,0x2000322
+Dagger,0x2000323
+Great Sword,0x2000324
+Light Sword,0x2000325
+Mace,0x2000326
+Magic Missile,0x2000327
+Phazor,0x2000328
+Pistol,0x2000329
+Staff,0x200032a
+Sword,0x200032b
+Triangle,0x200032c
+Magic Wand,0x200032d
+aircar,0x200032e
+counter,0x200032f
+counter,0x2000330
+counter,0x2000331
+counter,0x2000332
+counter,0x2000333
+counter,0x2000334
+barrier,0x2000335
+cart,0x2000336
+chest,0x2000337
+door,0x2000338
+locked door,0x2000339
+locked door,0x200033a
+explosion,0x200033b
+frigate,0x200033c
+Gem of Immortality,0x200033d
+horse,0x200033e
+pit,0x200033f
+water,0x2000340
+water,0x2000341
+water,0x2000342
+water,0x2000343
+water,0x2000344
+water,0x2000345
+water,0x2000346
+pub,0x2000347
+raft,0x2000348
+shuttle,0x2000349
+signpost,0x200034a
+large space vessel,0x200034b
+sleek space vessel,0x200034c
+sun,0x200034d
+Time Machine,0x200034e
+concealed trap,0x200034f
+Chain Mail,0x2000350
+Cloth,0x2000351
+Leather,0x2000352
+Plate Mail,0x2000353
+Power Armour,0x2000354
+Reflect Armour,0x2000355
+Balron,0x2000356
+Cleric,0x2000357
+Carrion Creeper,0x2000358
+Daemon,0x2000359
+Devil,0x200035a
+Fighter,0x200035b
+Gargoyle,0x200035c
+Ghost,0x200035d
+Gremlin,0x200035e
+Guard,0x200035f
+Horse,0x2000360
+Jester,0x2000361
+King,0x2000362
+Lizard Man,0x2000363
+Man-o-War,0x2000364
+Minax,0x2000365
+Minotaur,0x2000366
+Necromancer,0x2000367
+Ness Creature,0x2000368
+Orc,0x2000369
+Pirate Ship,0x200036a
+Princess,0x200036b
+Sea Monster,0x200036c
+Enemy Vessel,0x200036d
+Tangler,0x200036e
+Thief,0x200036f
+Titan,0x2000370
+Villager,0x2000371
+Viper,0x2000372
+Wandering Eyes,0x2000373
+Warlock,0x2000374
+Wizard,0x2000375
+Wraith,0x2000376
+Zombie,0x2000377
+Gold,0x2000378
+Food,0x2000379
+Equipment,0x200037a
+Weapon,0x200037b
+Armour,0x200037c
+Spell,0x200037d
+Welcome my child!,0x200037e
+And for it I raise thee %d!,0x200037f
+Tribute (50 Gold),0x2000380
+Return to Britannia,0x2000381
+First my tribute!,0x2000382
+You don't have that much!,0x2000383
+Earth (1990 AD),0x2000384
+Castle British (1990 AD),0x2000385
+Dungeon (1990 AD),0x2000386
+Tower (1990 AD),0x2000387
+New San Antonio (1990 AD),0x2000388
+Port Bonifice (1990 AD),0x2000389
+Dungeon (Aftermath),0x200038a
+Pirate's Harbour (Aftermath),0x200038b
+Earth (Aftermath),0x200038c
+Earth (1423 BC),0x200038d
+Castle British (1423 BC),0x200038e
+Dungeon (1423 BC),0x200038f
+Tower (1423 BC),0x2000390
+Towne Linda (1423 BC),0x2000391
+Le Jester (1423 BC),0x2000392
+Shadow Guard,0x2000393
+Legends,0x2000394
+Dungeon (Pangea),0x2000395
+Baradin's Town (Pangea),0x2000396
+Pangea,0x2000397
+Dungeon (Jupiter),0x2000398
+Tower (Jupiter),0x2000399
+Village of the Preppies (Jupiter),0x200039a
+Jupiter,0x200039b
+Towne Mary (Mars),0x200039c
+Mars,0x200039d
+Dungeon (Mercury),0x200039e
+Mercury,0x200039f
+Computer Camp (Neptune),0x20003a0
+Neptune,0x20003a1
+Castle Barataria (Planet X),0x20003a2
+Towne Basko (Planet X),0x20003a3
+Planet X,0x20003a4
+Dungeon (Pluto),0x20003a5
+Towne Makler (Pluto),0x20003a6
+Tommersville (Pluto),0x20003a7
+Pluto,0x20003a8
+Saturn,0x20003a9
+Earth Orbit,0x20003aa
+Jupiter Orbit,0x20003ab
+Mars Orbit,0x20003ac
+Mercury Orbit,0x20003ad
+Neptune Orbit,0x20003ae
+Planet X Orbit,0x20003af
+Pluto Orbit,0x20003b0
+Saturn Orbit,0x20003b1
+Sol Vicinity,0x20003b2
+Sol Space,0x20003b3
+Uranus Orbit,0x20003b4
+Venus Orbit,0x20003b5
+New Jester (Uranus),0x20003b6
+Uranus,0x20003b7
+Venus,0x20003b8
+Alamo Armoury,0x20003b9
+The Armoury,0x20003ba
+Bradbury Armoury,0x20003bb
+Ozy Armoury,0x20003bc
+Beth's Armor,0x20003bd
+X Road Chapel,0x20003be
+Chad Mads,0x20003bf
+Red Magic,0x20003c0
+Holy Spells,0x20003c1
+Wizardry,0x20003c2
+The Church,0x20003c3
+Jovian Magic,0x20003c4
+Good Magic,0x20003c5
+Camp Magic,0x20003c6
+The Clergy,0x20003c7
+Mages Magic,0x20003c8
+Clergy Corner,0x20003c9
+Kurt's,0x20003ca
+Druid Magic,0x20003cb
+Magic is Fun,0x20003cc
+Mc Donalls,0x20003d3
+Alfred's Fish 'n Chips,0x20003d4
+Eat Preppies Izod Burgers,0x20003d5
+Mess Hall,0x20003d6
+The Deli,0x20003d7
+Your Chef,0x20003d8
+Jack in de Box,0x20003d9
+Texas Transport,0x20003da
+The Stables,0x20003db
+Martian Transport,0x20003dc
+X Transport,0x20003dd
+Makler Transport,0x20003de
+Swashbucklers Pub and Pizza,0x20003df
+Pub de Varg,0x20003e0
+The Pub,0x20003e1
+Get Drunk at Ozy's,0x20003e2
+Adam's Pub,0x20003e3
+Death 'N Destroy,0x20003e4
+Linda Weaponry,0x20003e5
+Burroughs Armaments,0x20003e6
+Weapons Ltd,0x20003e7
+George's Arms,0x20003e8
+Cleric,0x20003e9
+Fighter,0x20003ea
+Thief,0x20003eb
+Wizard,0x20003ec
+Tower,0x20003ed
+Agility,0x20003ee
+Ankhs,0x20003ef
+Blue Tassles,0x20003f0
+Boots,0x20003f1
+Brass Buttons,0x20003f2
+Charisma,0x20003f3
+Cloaks,0x20003f4
+Experience,0x20003f5
+Food,0x20003f6
+Gold,0x20003f7
+Green Idols,0x20003f8
+Helms,0x20003f9
+Hitpoints,0x20003fa
+Intelligence,0x20003fb
+Keys,0x20003fc
+Mana,0x20003fd
+Potions,0x20003fe
+Magic Ring,0x20003ff
+Rings,0x2000400
+Skull Keys,0x2000401
+Blink,0x2000402
+Down,0x2000403
+Heal,0x2000404
+Kill,0x2000405
+Light,0x2000406
+Magic Missile,0x2000407
+Prayer,0x2000408
+Surface,0x2000409
+Up,0x200040a
+Staves,0x200040b
+Stamina,0x200040c
+Strength,0x200040d
+Tools,0x200040e
+Torches,0x200040f
+Tri-Lithium,0x2000410
+Wands,0x2000411
+Wisdom,0x2000412
+"Anos: 190,000,000 B.C.",0x2000413
+Anos: 1423 B.C.,0x2000414
+Anos: 1990 A.D.,0x2000415
+Anos: 2112 A.D.,0x2000416
+Anos: Legends!,0x2000417
+Uranus,0x2000418
+Blink,0x2000419
+Down,0x200041a
+Heal,0x200041b
+Kill,0x200041c
+Light,0x200041d
+Magic Missile,0x200041e
+Prayer,0x200041f
+Surface,0x2000420
+Up,0x2000421
+secret door,0x2000422
+brick floor,0x2000423
+brick floor,0x2000424
+forest,0x2000425
+grass,0x2000426
+marsh,0x2000427
+mountains,0x2000428
+sign showing the letter 'A',0x2000429
+sign showing the letter 'B',0x200042a
+sign showing the letter 'C',0x200042b
+sign showing the letter 'D',0x200042c
+sign showing the letter 'E',0x200042d
+sign showing the letter 'F',0x200042e
+sign showing the letter 'G',0x200042f
+sign showing the letter 'H',0x2000430
+sign showing the letter 'I',0x2000431
+sign showing the letter 'J',0x2000432
+sign showing the letter 'K',0x2000433
+sign showing the letter 'L',0x2000434
+left edge of a sign,0x2000435
+sign showing the letter 'M',0x2000436
+sign showing the letter 'N',0x2000437
+sign showing the letter 'O',0x2000438
+sign showing the letter 'P',0x2000439
+sign showing the letter 'Q',0x200043a
+sign showing the letter 'R',0x200043b
+right edge of a sign,0x200043c
+sign showing the letter 'S',0x200043d
+sign showing a blank space,0x200043e
+sign showing the letter 'T',0x200043f
+sign showing the letter 'U',0x2000440
+sign showing the letter 'V',0x2000441
+sign showing the letter 'W',0x2000442
+sign showing the letter 'X',0x2000443
+sign showing the letter 'Y',0x2000444
+sign showing the letter 'Z',0x2000445
+brick wall,0x2000446
+brick wall,0x2000447
+water,0x2000448
+Axe,0x2000449
+Bow,0x200044a
+Cannon Fire,0x200044b
+Dagger,0x200044c
+Great Sword,0x200044d
+Light Sword,0x200044e
+Mace,0x200044f
+Magic Missile,0x2000450
+Phaser,0x2000451
+Quicksword,0x2000452
+Sword,0x2000453
+chest,0x2000454
+door,0x2000455
+locked door,0x2000456
+force field,0x2000457
+horse,0x2000458
+plane,0x2000459
+rocket,0x200045a
+armour cache,0x200045b
+ship,0x200045c
+signpost,0x200045d
+weapon cache,0x200045e
+Timegate,0x200045f
+Timegate,0x2000460
+Chain Mail,0x2000461
+Cloth,0x2000462
+Dragon Plate,0x2000463
+Exotic Armour,0x2000464
+Leather,0x2000465
+Plate Mail,0x2000466
+Steel Chain,0x2000467
+Card of,0x2000468
+Death,0x2000469
+Love,0x200046a
+Sol,0x200046b
+Moons,0x200046c
+You can see a glowing brand within the wall of flame.<b>Touch it?,0x200046d
+Adventurer,0x200046e
+Balron,0x200046f
+Bradle,0x2000470
+Brigand,0x2000471
+Cleric,0x2000472
+Crawler,0x2000473
+Cutpurse,0x2000474
+Daemon,0x2000475
+Devil,0x2000476
+Dragon,0x2000477
+Evil Trent,0x2000478
+Fighter,0x2000479
+Gargoyle,0x200047a
+Ghoul,0x200047b
+Giant,0x200047c
+Goblin,0x200047d
+Golem,0x200047e
+Gremlin,0x200047f
+Griffon,0x2000480
+Guard,0x2000481
+Horse,0x2000482
+Jester,0x2000483
+Lord British,0x2000484
+Lecher,0x2000485
+Mane,0x2000486
+Man-O-War,0x2000487
+Mimic,0x2000488
+Orc,0x2000489
+Orcus,0x200048a
+Pincher,0x200048b
+Pirate Ship,0x200048c
+Sea Serpent,0x200048d
+Skeleton,0x200048e
+Snatch,0x200048f
+Thief,0x2000490
+Time Lord,0x2000491
+Titan,0x2000492
+Troll,0x2000493
+Villager,0x2000494
+Floor,0x2000495
+Grass,0x2000496
+Wench,0x2000497
+Wizard,0x2000498
+Wyvern,0x2000499
+Zombie,0x200049a
+Gold,0x200049b
+Food,0x200049c
+Equipment,0x200049d
+Weapon,0x200049e
+Armour,0x200049f
+Bye,0x20004a0
+Experience more!,0x20004a1
+Thou art greater...,0x20004a2
+Welcome my child.,0x20004a3
+Seek ye the Mark of Kings!,0x20004a4
+No more!,0x20004a5
+Report Deeds,0x20004a6
+End Story,0x20004a7
+Ambrosia,0x20004a8
+Castle Fire,0x20004a9
+Castle British,0x20004aa
+Dardin's Pit,0x20004ab
+Doom,0x20004ac
+Fire,0x20004ad
+Mines of Morinia,0x20004ae
+Perinian Depths,0x20004af
+Snake,0x20004b0
+Time,0x20004b1
+Shrine of Dexterity,0x20004b2
+Shrine of Intelligence,0x20004b3
+Shrine of Strength,0x20004b4
+Shrine of Wisdom,0x20004b5
+Sosaria,0x20004b6
+Britain,0x20004b7
+Dawn,0x20004b8
+Death Gulch,0x20004b9
+Devil Guard,0x20004ba
+Fawn,0x20004bb
+Grey,0x20004bc
+Montor East,0x20004bd
+Montor West,0x20004be
+Moon,0x20004bf
+Yew,0x20004c0
+Mark of Kings,0x20004c1
+Mark of Force,0x20004c2
+Mark of Fire,0x20004c3
+Mark of the Snake,0x20004c4
+Alchemist,0x20004c5
+Barbarian,0x20004c6
+Cleric,0x20004c7
+Druid,0x20004c8
+Fighter,0x20004c9
+Illusionist,0x20004ca
+Lark,0x20004cb
+Paladin,0x20004cc
+Ranger,0x20004cd
+Thief,0x20004ce
+Wizard,0x20004cf
+Dexterity,0x20004d0
+Experience,0x20004d1
+Food,0x20004d2
+Gems,0x20004d3
+Gold,0x20004d4
+Hitpoints,0x20004d5
+Intelligence,0x20004d6
+Keys,0x20004d7
+Level,0x20004d8
+Mana,0x20004d9
+Potions,0x20004da
+Strength,0x20004db
+Torches,0x20004dc
+Wisdom,0x20004dd
+Alcort,0x20004de
+Altair,0x20004df
+Anju Sermani,0x20004e0
+Appar Unem,0x20004e1
+Dag Acron,0x20004e2
+Dag Lorum,0x20004e3
+Dag Mentor,0x20004e4
+Decorp,0x20004e5
+Dor Acron,0x20004e6
+Excuun,0x20004e7
+Fulgar,0x20004e8
+Lib Rec,0x20004e9
+Lorum,0x20004ea
+Luminae,0x20004eb
+Mentar,0x20004ec
+Mittar,0x20004ed
+Necorp,0x20004ee
+Noxum,0x20004ef
+Pontori,0x20004f0
+Rec Du,0x20004f1
+Rec Su,0x20004f2
+Repond,0x20004f3
+Sanctu Mani,0x20004f4
+Sanctu,0x20004f5
+Sequitu,0x20004f6
+Sominae,0x20004f7
+Sur Acron,0x20004f8
+Surmandum,0x20004f9
+----------,0x20004fa
+Vieda,0x20004fb
+Zxkuqyb,0x20004fc
+brush,0x20004fd
+secret door,0x20004fe
+brick floor,0x20004ff
+brick floor,0x2000500
+forest,0x2000501
+grass,0x2000502
+lava,0x2000503
+mountains,0x2000504
+sign showing the letter 'A',0x2000505
+sign showing the letter 'B',0x2000506
+sign showing the letter 'C',0x2000507
+sign showing the letter 'D',0x2000508
+sign showing the letter 'E',0x2000509
+sign showing the letter 'F',0x200050a
+sign showing the letter 'G',0x200050b
+sign showing the letter 'H',0x200050c
+sign showing the letter 'I',0x200050d
+sign showing the letter 'J',0x200050e
+sign showing the letter 'K',0x200050f
+sign showing the letter 'L',0x2000510
+left edge of a sign,0x2000511
+sign showing the letter 'M',0x2000512
+sign showing the letter 'N',0x2000513
+sign showing the letter 'O',0x2000514
+sign showing the letter 'P',0x2000515
+sign showing the letter 'Q',0x2000516
+sign showing the letter 'R',0x2000517
+right edge of a sign,0x2000518
+sign showing the letter 'S',0x2000519
+sign showing a blank space,0x200051a
+sign showing the letter 'T',0x200051b
+sign showing the letter 'U',0x200051c
+sign showing the letter 'V',0x200051d
+sign showing the letter 'W',0x200051e
+sign showing the letter 'X',0x200051f
+sign showing the letter 'Y',0x2000520
+sign showing the letter 'Z',0x2000521
+brick wall,0x2000522
+brick wall,0x2000523
+water,0x2000524
+Axe,0x2000525
+Bow,0x2000526
+Broad Axe,0x2000527
+Cannon Fire,0x2000528
+Dagger,0x2000529
+Exotic Arms,0x200052a
+Fighter s Axe,0x200052b
+Fireball,0x200052c
+Gauntlets,0x200052d
+Iron Sword,0x200052e
+Long Bow,0x200052f
+Mace,0x2000530
+Magic Missile,0x2000531
+Silver Bow,0x2000532
+Sling,0x2000533
+Sun Sword,0x2000534
+Sword,0x2000535
+Two-Handed Sword,0x2000536
+ashes,0x2000537
+chest,0x2000538
+door,0x2000539
+locked door,0x200053a
+Exodus,0x200053b
+force field,0x200053c
+fountain,0x200053d
+lava,0x200053e
+wall of fire,0x200053f
+glowing rod,0x2000540
+Moongate,0x2000541
+Moongate,0x2000542
+Silver Snake,0x2000543
+Silver Snake,0x2000544
+ship,0x2000545
+signpost,0x2000546
+concealed trap,0x2000547
+whirlpool,0x2000548
+Magic Chain,0x2000549
+Chain Mail,0x200054a
+Cloth,0x200054b
+Leather,0x200054c
+Magic Plate,0x200054d
+Plate Mail,0x200054e
+Mystic Robe,0x200054f
+"If all eight virtues combine into and are derived from the Three Principles of Truth, Love and Courage... Then what is the one thing which encompasses and is the whole of all undeniable Truth, unending Love, and unyielding Courage?",0x2000550
+Thou dost not know the true nature of the Universe.,0x2000551
+The boundless knowledge of the Codex of Ultimate Wisdom is revealed unto thee.,0x2000552
+"There is a sudden darkness, and you find yourself alone in an empty chamber.",0x2000553
+You use your Key of Three Parts.,0x2000554
+The floor rumbles beneath your feet.,0x2000555
+"If all else is imaginary, this is real...",0x2000556
+"What plunges to the depths, while soaring on the heights?",0x2000557
+What turns not away from any peril?,0x2000558
+Thy thoughts are not pure. I ask again.,0x2000559
+Thy quest is not yet complete.,0x200055a
+Thou art well versed in the virtues of the Avatar.,0x200055b
+What dost thou possess if all may rely upon your every word?,0x200055c
+What quality compels one to share in the journeys of others?,0x200055d
+What answers when great deeds are called for?,0x200055e
+What should be the same for Lord and Serf alike?,0x200055f
+What is loath to place the self above aught else?,0x2000560
+What shirks no duty?,0x2000561
+"What, in knowing the true self, knows all?",0x2000562
+What is that which Serfs are born with but Nobles must strive to obtain?,0x2000563
+A voice rings out:,0x2000564
+The voice asks:,0x2000565
+"Above the din, the voice asks:",0x2000566
+The voice says:,0x2000567
+What is the Word of Passage?,0x2000568
+Thou art not ready.,0x2000569
+Passage is granted.,0x200056a
+Land balloon!,0x200056b
+"As thou doth approach the altar, a voice rings out:",0x200056c
+The voice says: Use thy stone.,0x200056d
+Color:,0x200056e
+What virtue dost stem from Truth?,0x200056f
+What virtue dost stem from Love?,0x2000570
+What virtue dost stem from Courage?,0x2000571
+What virtue dost stem from Truth and Love?,0x2000572
+What virtue dost stem from Love and Courage?,0x2000573
+What virtue dost stem from Courage and Truth?,0x2000574
+"What virtue dost stem from Truth, Love and Courage?",0x2000575
+"What virtue exists independently of Truth, Love and Courage?",0x2000576
+Meditate at the shrine?,0x2000577
+Open the Codex?,0x2000578
+"On the altar, there are holes for four stones.",0x2000579
+Select which stones to insert:,0x200057a
+Drink from the fountain?,0x200057b
+Touch the orb?,0x200057c
+"Through the telescope, you see a cave to the north!",0x200057d
+You kneel before the shrine...,0x200057e
+For how many cycles (0-3)?,0x200057f
+Mantra?,0x2000580
+Upon what virtue dost thou meditate?,0x2000581
+Adventurer,0x2000582
+Ankh,0x2000583
+Balron,0x2000584
+Bard,0x2000585
+Giant Bat,0x2000586
+Beggar,0x2000587
+Bull,0x2000588
+Child,0x2000589
+Cyclops,0x200058a
+Daemon,0x200058b
+Dragon,0x200058c
+Druid,0x200058d
+Ettin,0x200058e
+Fighter,0x200058f
+Fire Spirit,0x2000590
+Gazer,0x2000591
+Ghost,0x2000592
+Gremlin,0x2000593
+Guard,0x2000594
+Headless,0x2000595
+Horse,0x2000596
+Hydra,0x2000597
+Insect Swarm,0x2000598
+Jester,0x2000599
+Lord British,0x200059a
+Lava Lizard,0x200059b
+Lich,0x200059c
+Mage,0x200059d
+Mimic,0x200059e
+Bard,0x200059f
+Nixie,0x20005a0
+Orc,0x20005a1
+Paladin,0x20005a2
+Phantom,0x20005a3
+Phantom,0x20005a4
+Pirate Ship,0x20005a5
+Ranger,0x20005a6
+Giant Rat,0x20005a7
+Reaper,0x20005a8
+Rogue,0x20005a9
+Sea Serpent,0x20005aa
+Seahorse,0x20005ab
+Serpent,0x20005ac
+Shepherd,0x20005ad
+Skeleton,0x20005ae
+Slime,0x20005af
+Giant Spider,0x20005b0
+Giant Squid,0x20005b1
+Tinker,0x20005b2
+Troll,0x20005b3
+Villager,0x20005b4
+Water Spirit,0x20005b5
+Wisp,0x20005b6
+Wizard,0x20005b7
+Casualty,0x20005b8
+Zorn,0x20005b9
+Gold,0x20005ba
+Food,0x20005bb
+Equipment,0x20005bc
+Reagent,0x20005bd
+Spell Mixture,0x20005be
+Weapon,0x20005bf
+Armour,0x20005c0
+"An official copy of Ultima IV is required to exist on your computer and can be downloaded freely and legally at gog.com. If Ultima IV is already installed, please specify the path to the game folder. The location you specify will be remembered.",0x20005c1
+Bell,0x20005c2
+Bell of Courage,0x20005c3
+Book,0x20005c4
+Book of Truth,0x20005c5
+Candle,0x20005c6
+Candle of Love,0x20005c7
+Old Daemon Horn,0x20005c8
+Key of Truth,0x20005c9
+Key of Love,0x20005ca
+Key of Courage,0x20005cb
+Sextant,0x20005cc
+Silver Horn,0x20005cd
+Skull Fragment,0x20005ce
+Key of Three Parts,0x20005cf
+Lord British says: Fare thee well my friend!,0x20005d0
+"Lord British rises and says: At long last! %s, thou hast come! We have waited such a long, long time...",0x20005d1
+"Lord British sits and says: A new age is upon Britannia. The great evil Lords are gone but our people lack direction and purpose in their lives... A champion of virtue is called for. Thou may be this champion, but only time shall tell. I will aid thee any way that I can!",0x20005d2
+"Lord British says: Welcome, %s.",0x20005d3
+"%s, thou art now level %d!",0x20005d4
+I cannot help thee with that.,0x20005d5
+How may I help thee?,0x20005d6
+What would thou ask of me?,0x20005d7
+What else?,0x20005d8
+Altar of Courage,0x20005d9
+Altar of Love,0x20005da
+Altar of Truth,0x20005db
+Britannia,0x20005dc
+Castle Britannia,0x20005dd
+Dragon's Lair,0x20005de
+Cave of the Lost,0x20005df
+Labyrinth of Humility,0x20005e0
+Mine,0x20005e1
+Chamber of the Codex,0x20005e2
+Covetous,0x20005e3
+Deceit,0x20005e4
+Despise,0x20005e5
+Destard,0x20005e6
+Hythloth,0x20005e7
+Shame,0x20005e8
+Great Stygian Abyss,0x20005e9
+Wrong,0x20005ea
+Empath Abbey,0x20005eb
+The Lycaeum,0x20005ec
+Serpent's Hold,0x20005ed
+Shrine of Compassion,0x20005ee
+Honesty,0x20005ef
+Shrine of Honor,0x20005f0
+Shrine of Humility,0x20005f1
+Shrine of Justice,0x20005f2
+Shrine of Sacrifice,0x20005f3
+Shrine of Spirituality,0x20005f4
+Shrine,0x20005f5
+Shrine of Valor,0x20005f6
+Britain,0x20005f7
+Jhelom,0x20005f8
+Magincia,0x20005f9
+Minoc,0x20005fa
+Moonglow,0x20005fb
+Skara Brae,0x20005fc
+Trinsic,0x20005fd
+Yew,0x20005fe
+Buccaneer's Den,0x20005ff
+Cove,0x2000600
+Paws,0x2000601
+Vesper,0x2000602
+Windsor Armour,0x2000603
+Winston,0x2000604
+Basic Armour,0x2000605
+Limpy,0x2000606
+"Well then, we've got",0x2000607
+Too bad.,0x2000608
+Wouldst thou like to buy?,0x2000609
+Good choice!,0x200060a
+says: Good bye.,0x200060b
+What are you try'n to pull? You can't pay!,0x200060c
+Anything else?,0x200060d
+"Cloth Armour is good for a tight budget, fairly priced at %ugp.",0x200060e
+"Leather Armour is both supple and strong, and costs a mere %ugp. A bargain!",0x200060f
+Chain Mail is the armour used by more warriors than all others. Ours cost %ugp.,0x2000610
+Full Plate armour is the ultimate non-magical armour. Get yours for %ugp.,0x2000611
+Magic Armour is rare and expensive. This chain sells for %ugp.,0x2000612
+Magic Plate armour is the best known protection. Only we have it. Cost: %ugp.,0x2000613
+Welcome to,0x2000614
+says: Welcome friend!,0x2000615
+Valiant's Armour,0x2000616
+Valiant,0x2000617
+Light Armour,0x2000618
+Pierre,0x2000619
+What'll it be?,0x200061a
+Want to Buy or Sell?,0x200061b
+What will you sell?,0x200061c
+Harumph.,0x200061d
+You have nothing to sell!,0x200061e
+I will give you %ugp for that %s. Deal?,0x200061f
+Fine!,0x2000620
+Duelling Armour,0x2000621
+Jean,0x2000622
+Pirate's Guild,0x2000623
+One Eyed Willey,0x2000624
+Hmmm... Grmbl...,0x2000625
+Fine... fine...,0x2000626
+says: See ya matie!,0x2000627
+What? Can't pay! Buzz off swine!,0x2000628
+"Ya see I gots Torches, Magic Gems, and Magic Keys.",0x2000629
+"Potions have magical healing powers, %u fer %ugp.",0x200062a
+"I've got magical mapping gems, %u for only %ugp.",0x200062b
+Avast ye mate! Shure ye wishes to buy from ol',0x200062c
+says: Welcome to ,0x200062d
+"Magical keys, 1 use each, %u for a fair price at %ugp.",0x200062e
+Like to see my goods?,0x200062f
+Will ya buy?,0x2000630
+says: See more?,0x2000631
+Wat'l it be?,0x2000632
+So... Ya want a Sextant... Well I gots one which I might part with fer %u gold!,0x2000633
+I can give ya %u long lasting torches for a mere %ugp.,0x2000634
+The Guild Shop,0x2000635
+Long John Leary,0x2000636
+says: Good mate!,0x2000637
+Wound Healing,0x2000638
+Celest,0x2000639
+says: May thy life be guarded by the powers of good.,0x200063a
+Thou suffers not from poison!,0x200063b
+Thou art already quite healthy!,0x200063c
+I see by thy purse that thou hast not enough gold. I cannot aid thee.,0x200063d
+Thy spirit is already bound!,0x200063e
+The Healer Shop,0x200063f
+Quat,0x2000640
+Cured!,0x2000641
+Curing,0x2000642
+"says: We can perform healing, curing, and resurrection. We also sell healing potions.",0x2000643
+"A curing will remove the poison that afflicts thee, but will cost thee %ugp.",0x2000644
+A healing will magically repair damage to thy body and will cost thee %ugp.,0x2000645
+Resurrection will bind thy spirit to thy flesh so that thou may reenter your body after death. This will cost thee %ugp.,0x2000646
+Our potions have magical healing powers. You get 5 vials for %ugp.,0x2000647
+Art thou willing to give 100pts of thy blood to aid others?,0x2000648
+Thou art a great help. We are in dire need!,0x2000649
+The Love Healer,0x200064a
+Sallé,0x200064b
+Welcome unto,0x200064c
+says: Peace and Joy be with you friend. Are you in need of help?,0x200064d
+Healed!,0x200064e
+Healing,0x200064f
+We cannot perform that service!,0x2000650
+Heal and Health,0x2000651
+Triplet,0x2000652
+The Royal Healer,0x2000653
+Pendragon,0x2000654
+The Truth Healer,0x2000655
+Starfire,0x2000656
+The Healer,0x2000657
+Harmony,0x2000658
+Healing Potions,0x2000659
+Sold!,0x200065a
+Wilt thou pay?,0x200065b
+Do you need more help?,0x200065c
+Your need?,0x200065d
+Binding successful!,0x200065e
+Resurrection,0x200065f
+Courage Healer,0x2000660
+Windwalker,0x2000661
+The Mystic Heal,0x2000662
+Spiran,0x2000663
+Then I cannot aid thee.,0x2000664
+Just Healing,0x2000665
+Justin,0x2000666
+Britannia Manor,0x2000667
+We have a modest sized room with 1 bed for %ugp.,0x2000668
+Jason,0x2000669
+You won't find a better deal in this towne!,0x200066a
+Very good. Have a pleasant night.,0x200066b
+"If you can't pay, you can't stay! Good Bye.",0x200066c
+"1, 2 or 3 beds?",0x200066d
+The Innkeep says: Welcome to ,0x200066e
+I am,0x200066f
+The Innkeeper says: Get that horse out of here!!!,0x2000670
+In the middle of the night...,0x2000671
+The Inn of Ends,0x2000672
+We have a very secure room of modest size and 1 bed for %ugp.,0x2000673
+Smirk,0x2000674
+"Oh, and don't mind the strange noises, it's only rats!",0x2000675
+Wayfarer's Inn,0x2000676
+"We have three rooms available, a 1, 2 and 3 bed room for %u, %u and %ugp each.",0x2000677
+Estro,0x2000678
+The Honest Inn,0x2000679
+We have a room with 2 beds that rents for %ugp.,0x200067a
+Scatu,0x200067b
+"Alas, there is no vacancy!",0x200067c
+says: Then you have come to the wrong place! Good day.,0x200067d
+Are you in need of lodging?,0x200067e
+Take it?,0x200067f
+"Sorry, but that room is no longer available!",0x2000680
+The Inn of the Spirits,0x2000681
+"Unfortunately, I have but only a very small room with 1 bed: worse yet, it is haunted! If you do wish to stay it costs %ugp.",0x2000682
+Tyrone,0x2000683
+Honorable Inn,0x2000684
+We have a single bed room with a back door for %ug.,0x2000685
+Zajac,0x2000686
+The Sleep Shop,0x2000687
+"All we have is that cot over there. But it is comfortable, and only %ugp.",0x2000688
+Tymus,0x2000689
+Adventure Food,0x200068a
+Windrick,0x200068b
+Too bad. Maybe next time.,0x200068c
+"Goodbye, come again!",0x200068d
+You have not the funds!,0x200068e
+"We have the best adventure rations, %u for only %u %s.",0x200068f
+You have not the need!,0x2000690
+"says: Good day, and welcome friend!",0x2000691
+The Sage Deli,0x2000692
+Shaman,0x2000693
+The Market,0x2000694
+Max,0x2000695
+May I interest you in some rations?,0x2000696
+How many packs of %u would you like?,0x2000697
+Anything else?,0x2000698
+Thank you.,0x2000699
+Food for Thought,0x200069a
+Mintol,0x200069b
+Welcome to,0x200069c
+The Dry Goods,0x200069d
+Donnar,0x200069e
+Magic Mentar,0x200069f
+Shannon,0x20006a0
+says: Perhaps another time then.... and slowly turns away.,0x20006a1
+"Very well, I have",0x20006a2
+"Very well, we sell %s for %ugp. How many would you like?",0x20006a3
+A blind woman turns to you and says: Welcome to ,0x20006a4
+I am,0x20006a5
+That reagent is not available here.,0x20006a6
+Magical Herbs,0x20006a7
+Margot,0x20006a8
+The Magics,0x20006a9
+Sheila,0x20006aa
+"Very good, that will be %ugp. You pay:",0x20006ab
+Are you in need of reagents?,0x20006ac
+How many would you like?,0x20006ad
+Anything else?,0x20006ae
+Your interest?,0x20006af
+"I see, then.",0x20006b0
+Very good.,0x20006b1
+Herbs and Spice,0x20006b2
+Sasha,0x20006b3
+"A shame, thou looks like thou could use a good horse!",0x20006b4
+"Here, a better breed thou shalt not find ever!",0x20006b5
+It seems thou hast not gold enough to pay!,0x20006b6
+For only %ugp thou can have the best! Wilt thou buy?,0x20006b7
+says: Welcome to ,0x20006b8
+I see thou dost own a great steed already!,0x20006b9
+Paws Pony,0x20006ba
+Buck,0x20006bb
+Can I interest thee in horses?,0x20006bc
+Wilt thou buy?,0x20006bd
+Ale,0x20006be
+Here's a mug of our best. That'll be %u %s. You pay?,0x20006bf
+Jolly Spirits,0x20006c0
+Sam,0x20006c1
+Lamb Chops,0x20006c2
+Captain Black Tavern,0x20006c3
+The Cap'n,0x20006c4
+Dog Meat Pie,0x20006c5
+See ya mate!,0x20006c6
+"That subject is a bit foggy, perhaps more gold will refresh my memory. You give:",0x20006c7
+Food,0x20006c8
+Here ye arr. Somethin' else?,0x20006c9
+says: Welcome to,0x20006ca
+The Bloody Pub,0x20006cb
+Celestial,0x20006cc
+Dragon Tartar,0x20006cd
+Fraid I can't help ya there friend!,0x20006ce
+"Sorry, I can't help ya mate!",0x20006cf
+Folley Tavern,0x20006d0
+Greg 'n Rob,0x20006d1
+Folley Filet,0x20006d2
+"What'll it be, Food er Ale?",0x20006d3
+Anythin' else?,0x20006d4
+"Our specialty is %s, which costs %u %s. Would you like a plate?",0x20006d5
+What'd you like to know friend?,0x20006d6
+The Keg Tap,0x20006d7
+Terran,0x20006d8
+Brown Beans,0x20006d9
+Axe 'n Ale,0x20006da
+Arron,0x20006db
+Green Granukit,0x20006dc
+"Won't pay, eh? Ya scum, be gone fore ey call the guards!",0x20006dd
+Windsor Weaponry,0x20006de
+Winston,0x20006df
+Hook's Arms,0x20006e0
+Hook,0x20006e1
+Very Good! I can show you a,0x20006e2
+Too bad.,0x20006e3
+Wouldst thou like to buy?,0x20006e4
+A fine choice!,0x20006e5
+says: Fare thee well!,0x20006e6
+You have not the funds!,0x20006e7
+Anything else?,0x20006e8
+"We are the only staff makers in Britannia, yet sell them for only %ugp.",0x20006e9
+"A Halberd is a mighty weapon to attack over obstacles, a must and only %ugp.",0x20006ea
+This magical axe can be thrown at thy enemy and will then return all for %ugp.,0x20006eb
+Magical swords such as these are rare indeed. I will part with one for %ugp.,0x20006ec
+A magical bow will keep thy enemies far away or dead! A must for %ugp!,0x20006ed
+"This magic wand casts mighty blue bolts to strike down thy foes, %ugp.",0x20006ee
+"We sell the most deadly of daggers, a bargain at only %ugp each.",0x20006ef
+"Our slings are made from only the finest gut and leather, 'tis yours for %ugp.",0x20006f0
+"These maces have a hardened shaft and a five-pound head, fairly priced at %ugp.",0x20006f1
+"Notice the fine workmanship on this axe, you'll agree %ugp is a good price.",0x20006f2
+"The fine work on these swords will be the dread of thy foes, for %ugp.",0x20006f3
+"Our bows are made of finest yew and the arrows willow, a steal at %ugp.",0x20006f4
+"Crossbows made from Iolo the Bard are the finest in the world, yours for %ugp.",0x20006f5
+Flasks of oil make great weapons and creates a wall of flame too. %ugp each.,0x20006f6
+Welcome to,0x20006f7
+says: Welcome friend! Art thou here to buy or sell?,0x20006f8
+Willard's Weaponry,0x20006f9
+Willard,0x20006fa
+The Iron Works,0x20006fb
+Peter,0x20006fc
+Your interest?,0x20006fd
+Buy or Sell?,0x20006fe
+Excellent! Which wouldst you sell?,0x20006ff
+Hmmph.,0x2000700
+You have nothing to sell!,0x2000701
+I will give you %ugp for that %s. Deal?,0x2000702
+Fine! Sold!,0x2000703
+Duelling Weapons,0x2000704
+Jumar,0x2000705
+Village Arms,0x2000706
+Wendy,0x2000707
+Avatar,0x2000708
+Bard,0x2000709
+Druid,0x200070a
+Fighter,0x200070b
+Mage,0x200070c
+Paladin,0x200070d
+Ranger,0x200070e
+Shepherd,0x200070f
+Tinker,0x2000710
+castle,0x2000711
+cave entrance,0x2000712
+dungeon entrance,0x2000713
+keep,0x2000714
+ladder leading down,0x2000715
+ladder leading up and down,0x2000716
+ladder leading up,0x2000717
+ruins,0x2000718
+shrine,0x2000719
+towne,0x200071a
+village,0x200071b
+volcano,0x200071c
+Dexterity,0x200071d
+Experience,0x200071e
+Food,0x200071f
+Gems,0x2000720
+Gold,0x2000721
+Hitpoints,0x2000722
+Horse,0x2000723
+Intelligence,0x2000724
+Bell,0x2000725
+Book,0x2000726
+Candle,0x2000727
+Sextant,0x2000728
+Silver Horn,0x2000729
+Skull Fragment,0x200072a
+Keys,0x200072b
+Level,0x200072c
+Mana,0x200072d
+Class,0x200072e
+Potions,0x200072f
+Black Pearl,0x2000730
+Blood Moss,0x2000731
+Garlic,0x2000732
+Ginseng,0x2000733
+Mandrake Root,0x2000734
+Nightshade,0x2000735
+Spider Silk,0x2000736
+Sulphurous Ash,0x2000737
+Awaken,0x2000738
+Blink,0x2000739
+Cure,0x200073a
+Dispell,0x200073b
+Energy Field,0x200073c
+Fireball,0x200073d
+Gate Travel,0x200073e
+Heal,0x200073f
+Iceball,0x2000740
+Jinx,0x2000741
+Kill,0x2000742
+Light,0x2000743
+Magic Missile,0x2000744
+Negate,0x2000745
+Open,0x2000746
+Protection,0x2000747
+Quickness,0x2000748
+Resurrect,0x2000749
+Sleep,0x200074a
+Tremor,0x200074b
+Undead,0x200074c
+View,0x200074d
+Wind Change,0x200074e
+X-it,0x200074f
+Y-up,0x2000750
+Z-down,0x2000751
+Strength,0x2000752
+Torches,0x2000753
+Compassion,0x2000754
+Honesty,0x2000755
+Honor,0x2000756
+Humility,0x2000757
+Justice,0x2000758
+Sacrifice,0x2000759
+Spirituality,0x200075a
+Valor,0x200075b
+Black Pearl,0x200075c
+Blood Moss,0x200075d
+Garlic,0x200075e
+Ginseng,0x200075f
+Mandrake Root,0x2000760
+Nightshade,0x2000761
+Spider Silk,0x2000762
+Sulphurous Ash,0x2000763
+Gemstone,0x2000764
+Bamboo,0x2000765
+Dragonscale,0x2000766
+Yew branch,0x2000767
+Soapstone,0x2000768
+Granite,0x2000769
+Ivory,0x200076a
+Bone,0x200076b
+Hawkwind says: Fare thee well and may thou complete the Quest!,0x200076c
+"Welcome, %s. I am Hawkwind, Seer of Souls. I see that which is within thee and drives thee to deeds of good or evil...",0x200076d
+He says: That is not a subject for enlightenment.,0x200076e
+Thou hast become a partial Avatar in that attribute. Thou need not my insights.,0x200076f
+For what path dost thou seek enlightenment?,0x2000770
+Hawkwind asks: What other path seeks clarity?,0x2000771
+Awaken,0x2000772
+Blink,0x2000773
+Cure,0x2000774
+Dispell,0x2000775
+Energy Field,0x2000776
+Fire,0x2000777
+Lightning,0x2000778
+Poison,0x2000779
+Sleep,0x200077a
+Fireball,0x200077b
+Gate Travel,0x200077c
+Heal,0x200077d
+Iceball,0x200077e
+Jinx,0x200077f
+Kill,0x2000780
+Light,0x2000781
+Magic Missile,0x2000782
+Negate,0x2000783
+Open,0x2000784
+Protection,0x2000785
+Quickness,0x2000786
+Resurrect,0x2000787
+Sleep,0x2000788
+Tremor,0x2000789
+Undead,0x200078a
+View,0x200078b
+Wind Change,0x200078c
+X-it,0x200078d
+Y-up,0x200078e
+Z-down,0x200078f
+Blue,0x2000790
+Yellow,0x2000791
+Red,0x2000792
+Green,0x2000793
+Orange,0x2000794
+Purple,0x2000795
+White,0x2000796
+Black,0x2000797
+bamboo,0x2000798
+box,0x2000799
+bridge railing,0x200079a
+bridge railing,0x200079b
+brush,0x200079c
+castle,0x200079d
+castle,0x200079e
+column,0x200079f
+crag,0x20007a0
+brick floor,0x20007a1
+planks,0x20007a2
+footbridge,0x20007a3
+forest,0x20007a4
+grass,0x20007a5
+hills,0x20007a6
+lava,0x20007a7
+marsh,0x20007a8
+mountains,0x20007a9
+rocks,0x20007aa
+mast,0x20007ab
+wheel,0x20007ac
+shallow water,0x20007ad
+sign showing the letter 'A',0x20007ae
+sign showing the letter 'B',0x20007af
+sign showing the letter 'C',0x20007b0
+sign showing the letter 'D',0x20007b1
+sign showing the letter 'E',0x20007b2
+sign showing the letter 'F',0x20007b3
+sign showing the letter 'G',0x20007b4
+sign showing the letter 'H',0x20007b5
+sign showing the letter 'I',0x20007b6
+sign showing the letter 'J',0x20007b7
+sign showing the letter 'K',0x20007b8
+sign showing the letter 'L',0x20007b9
+left edge of a sign,0x20007ba
+sign showing the letter 'M',0x20007bb
+sign showing the letter 'N',0x20007bc
+sign showing the letter 'O',0x20007bd
+sign showing the letter 'P',0x20007be
+sign showing the letter 'Q',0x20007bf
+sign showing the letter 'R',0x20007c0
+right edge of a sign,0x20007c1
+sign showing the letter 'S',0x20007c2
+sign showing a blank space,0x20007c3
+sign showing the letter 'T',0x20007c4
+sign showing the letter 'U',0x20007c5
+sign showing the letter 'V',0x20007c6
+sign showing the letter 'W',0x20007c7
+sign showing the letter 'X',0x20007c8
+sign showing the letter 'Y',0x20007c9
+sign showing the letter 'Z',0x20007ca
+brick wall,0x20007cb
+stone wall,0x20007cc
+white wall,0x20007cd
+deep water,0x20007ce
+water,0x20007cf
+window,0x20007d0
+Palm,0x20007d1
+Rose,0x20007d2
+Sword,0x20007d3
+Scales,0x20007d4
+Tear,0x20007d5
+Chalice,0x20007d6
+Ankh,0x20007d7
+Crook,0x20007d8
+Magic Axe,0x20007d9
+Axe,0x20007da
+Boulder,0x20007db
+Magic Bow,0x20007dc
+Bow,0x20007dd
+Cannon Fire,0x20007de
+Crossbow,0x20007df
+Dagger,0x20007e0
+Fire,0x20007e1
+Fireball,0x20007e2
+Flame Oil,0x20007e3
+Halberd,0x20007e4
+Iceball,0x20007e5
+Lava,0x20007e6
+Lightning,0x20007e7
+Mace,0x20007e8
+Magic Missile,0x20007e9
+Poison,0x20007ea
+Sleep,0x20007eb
+Sling,0x20007ec
+Staff,0x20007ed
+Magic Sword,0x20007ee
+Mystic Sword,0x20007ef
+Sword,0x20007f0
+Magic Wand,0x20007f1
+air balloon,0x20007f2
+altar,0x20007f3
+ankh,0x20007f4
+bed,0x20007f5
+bed,0x20007f6
+blood,0x20007f7
+corpse,0x20007f8
+body,0x20007f9
+dragon bones,0x20007fa
+bones,0x20007fb
+bookshelf,0x20007fc
+bookshelf,0x20007fd
+bookshelf,0x20007fe
+rocks,0x20007ff
+chest,0x2000800
+Codex of Ultimate Wisdom,0x2000801
+crate,0x2000802
+door,0x2000803
+door of the Codex Chamber,0x2000804
+locked door,0x2000805
+locked door with a window,0x2000806
+door with a window,0x2000807
+energy field,0x2000808
+fire field,0x2000809
+force field,0x200080a
+lightning field,0x200080b
+poison field,0x200080c
+sleep field,0x200080d
+fountain,0x200080e
+grate,0x200080f
+cross,0x2000810
+headstone,0x2000811
+Codex Guardian,0x2000812
+Codex Guardian,0x2000813
+horse,0x2000814
+Ivory Serpent,0x2000815
+Ivory Serpent,0x2000816
+lava,0x2000817
+magic field,0x2000818
+Moongate,0x2000819
+magical orb,0x200081a
+ship,0x200081b
+shallow water,0x200081c
+skiff,0x200081d
+spit,0x200081e
+stand,0x200081f
+statue of an adventurer,0x2000820
+statue of a daemon,0x2000821
+suit of armour,0x2000822
+table,0x2000823
+table,0x2000824
+table,0x2000825
+telescope,0x2000826
+concealed trap,0x2000827
+dead tree,0x2000828
+tree,0x2000829
+twister,0x200082a
+Void,0x200082b
+brick wall,0x200082c
+stone wall,0x200082d
+wall,0x200082e
+wall,0x200082f
+wall,0x2000830
+wall,0x2000831
+deep water,0x2000832
+water,0x2000833
+well,0x2000834
+whirlpool,0x2000835
+"An official copy of %s is required to exist on your computer and can be legally downloaded at gog.com. If %s is already installed, please specify the path to the game folder:",0x2000836
+secret door,0x2000837
+He,0x2000838
+She,0x2000839
+It,0x2000840
+The child,0x2000841
+Browse,0x2000842
+Path,0x2000843
+Energy Type,0x2000844
+tiled floor,0x2000845
+brick wall,0x2000846
+Void,0x2000847
+Number of mixtures?,0x2000848
+Back,0x2000849
+Cancel,0x200084a
+On,0x200084b
+Off,0x200084c
+Music,0x200084d
+SFX,0x200084e
+Volume,0x200084f
+Master,0x2000850
+Sound Pack,0x2000851
+Fullscreen,0x2000852
+Resolution,0x2000853
+Graphics Pack,0x2000854
+Display,0x2000855
+Audio,0x2000856
+Miscellaneous,0x2000857
+Close,0x2000858
+Player Names,0x2000859
+Player Vitals,0x200085a
+circle of stones,0x200085b
+Blow Horn!,0x200085c
+Your copy has been verified.,0x200085d
+Combat History,0x200085e
+Move History,0x200085f
+Britain Armoury,0x2000860
+Britain Weapons,0x2000861
+The Pub,0x2000862
+Ye Local Grocer,0x2000863
+Le Holy Healing,0x2000864
+Equine Emporium,0x2000865
+The Guild,0x2000866
+Radrion: Prophet of Life,0x2000867
+Unknown,0x2000868
+Location,0x2000869
+How many wouldst thou like to sell?,0x200086a
+I will buy each %s at %ugp each for a total of %ugp. Deal?,0x200086b
+How many?,0x200086c
+Map,0x200086d
+shrine,0x200086e
+village,0x200086f
+dungeon,0x2000870
+towne,0x2000871
+tower,0x2000872
+castle,0x2000873
+castle,0x2000874
+dungeon,0x2000875
+castle,0x2000876
+towne,0x2000877
+towne,0x2000878
+dungeon,0x2000879
+ladder leading up and down,0x200087a
+ladder leading down,0x200087b
+ladder leading up,0x200087c
+ladder leading down,0x200087d
+ladder leading up and down,0x200087e
+ladder leading up,0x200087f
+ladder leading up,0x2000880
+ladder leading down,0x2000881
+ladder leading up and down,0x2000882
+brick wall,0x2000883
+horse,0x2000884
+Alakazam!,0x2000885
+Tribute (100 Gold),0x2000886
+Agility + %d,0x2000887
+Charisma + %d,0x2000888
+Stamina + %d,0x2000889
+A clerk states: Welcome to the Hotel California!,0x200088a
+Request Room (50 Gold),0x200088b
+Request Room + Tip (100 Gold),0x200088c
+"Time and travel made me wise... Precious gold, a clue it buys!",0x200088d
+"Ask me no questions, I'll tell you no lies",0x200088e
+Pay %u Gold,0x200088f
+Get Cache!,0x2000890
+You find a magic ring!,0x2000891
+You find,0x2000892
+The sign reads:,0x2000893
+Blade,0x2000894
+Pommel,0x2000895
+Hilt,0x2000896
+Minax cries: Die fool!,0x2000898
+She's gone!!!,0x2000899
+Your spacecraft has been repaired!,0x200089b
+Mondain casts psionic shock!,0x200089c
+Mondain casts mind blaster!,0x200089d
+Mondain casts magic missile!,0x200089e
+INTERFICIO-NUNC! The spell doth seem to make him stronger!,0x200089f
+He's watching. That would be foolish!,0x20008a0
+Mondain will not negotiate!,0x20008a1
+Horse,0x20008a2
+Divine,0x20008a3
+Arcane,0x20008a4
+From which division of magic?,0x20008a5
+Fal Divi Sequitu,0x20008a6
+Are you sure you want to quit?,0x20008a7
+Board raft!,0x20008a8
+Grasp the Gem of Immortality!,0x20008a9
+Fare thee well and good luck!,0x20008ab
+Offer %u Gold?,0x20008ac
+The healer,0x20008ae
+I see by thy purse that thou hast not enough gold. I cannot aid thee.,0x20008af
+You can't carry more!,0x20008b0
+Thou hast achieved the rank of Space Ace!,0x20008b1
+Food and Health,0x20008b2
+Healers Three,0x20008b3
+Sanescere,0x20008b4
+Dawn Healing,0x20008b5
+The Royal Healer,0x20008b6
+Capessii Cantom,0x20008b7
+Grey Rations,0x20008b8
+Food and Health,0x20008b9
+Ambrosian Delight,0x20008ba
+Fawn Provisions,0x20008bb
+Yew Aliment,0x20008bc
+Draught or Spot,0x20008bd
+Dawn Grocery,0x20008be
+Dawn Armour,0x20008bf
+Dawn Weapons,0x20008c0
+Death Gulch Armours,0x20008c1
+Death Gulch Weapons,0x20008c2
+Grey Armour,0x20008c3
+Grey Weapons,0x20008c4
+Ace Armoury,0x20008c5
+Acme Weaponry,0x20008c6
+West Armour,0x20008c7
+West Weapon,0x20008c8
+The Blue Boar,0x20008c9
+Taphouse,0x20008ca
+Le Grogshop,0x20008cb
+The Brown Orc,0x20008cc
+West Bar,0x20008cd
+Canteen,0x20008ce
+Draught or Spot,0x20008cf
+Ballyhoo,0x20008d0
+Thieves Guild,0x20008d1
+Tools of Trade,0x20008d2
+Grey Guild,0x20008d3
+The Stables,0x20008d4
+<G#Prompt:vcenter>Welcome to <C#00FF00>Classic Ultima Online<C#FFFFFF>,0x20008d5
+<G#Prompt:vcenter><F#runes>Welcome to <C#00FF00>Classic Ultima Online<C#FFFFFF>,0x20008d6
+<G#Prompt:vcenter>This game is in alpha testing! Please report all bugs at <C#00FF00>www.shatteredmoon.com<C#FFFFFF>,0x20008d7
+<G#Prompt:vcenter>Press F1 to access game menu. Type /help for more information.,0x20008d8
+"Use arrow keys, numpad, or mouse to move.<b>Press F1 for the game menu.<b>Press 'Q' to quit game.<b><b>For a list of commands, type /help commands.",0x20008d9
+"/global [msg], /g [msg] - Send a chat message to all players.|/help [subcommand] - Provides game help.|/map [msg], /m [msg] - Send a chat message to all players on the same map.|/party [msg], /p [msg] - Send a chat message to all players in your party.|/password [old] [new] - Updates your game password.|/say [msg], /s [msg] - Sends a chat message to all players in your immediate vicinity.|/stuck - Kills the player.|/tell [player] [msg] - Sends a private chat to the designated player.|/who - Lists all online players.",0x20008da
+"A) Attack - Attempt to harm opponent with whatever weapon thou dost currently hold. Must be followed with a direction key.|B) Board - Board a horse, raft, frigate, or other form of transport--if thou art standing upon or near it.|C) Cast - Cast a spell.|D) Descend - Climb down the ladder to the next lower dungeon level.|E) Enter - Enter the towne, castle, dungeon, or other landmark upon which thou art standing.|F) Fire - Ye may fire upon foes using the guns of your ship, or any other armed vehicle.|G) Get - Pick up items which thou art standing over while in castles and other places.|I) Ignite - Ignite a torch - Lights a player's torch.K) Klimb - Ladders in dungeons may lead to fortune or doom; by means of this command thou canst use them.|N) Nip potion - Drinks a potion which will heal the player.|O) Open door - Open a door in the direction indicated.|Q) Quit (and save to disk) - Use this command to stop playing. Upon resuming thy quest, all will be as it was.|R) Ready - Equip thyself with a certain weapon. This must be performed prior to using an item.|S) Steal - May be used behind the unwatched counters of shoppes and in dark caches in castles. Beware, for the guards frown on this sort of behaviour.|T) Transact - Conduct business with merchants or kings.|U) Use - Use an item thou hast found during play.|V) Volume - Toggles Music and Sound Effects On/Off.|W) Wear - Wear a suit of armour. This must be performed prior to using an item.|X) X-it - Leave behind or dismount current craft and travel on foot.|Ztats - Shows vital statistics, possessions, and spells.",0x20008db
+"A) Attack - Attack attempts to damage foe with ""ready weapons"", must be followed by the direction of thy foe.|B) Board - Board a frigate or mount a horse.|C) Cast - Cast a magic spell; must be followed by the spell type (W/C) when needed, and the spell letter.|D) Descend - Climb down the ladder to the next lower dungeon level.|E) Enter - Go into places such as town, castles and dungeons.|F) Fire - Fire a ship's cannons (once thou hast boarded), in direction indicated in an attempt to obliterate thy foes.|G) Get chest - Open chest and acquire contents.|H) Hyperspace - Jump to solar system coordinates while in space.|I) Ignite a torch - Lights a player's torch.|J) Jimmy lock - Use a magical key to unlock a sealed door. Must be followed by the direction of the door that thou dost wish to unlock.|K) Klimb - Climb up a ladder to the next higher dungeon level or surface.|L) Look - Identifies object in given direction.|N) Nip potion - Drinks a potion which will heal the player.|O) Open door - Open a door in the direction indicated.|P) Peer - Players with certain special items may see a magical map of current terrain, one use per item.Q) Quit & Save - Exits gameplay and returns the player to the game menu.|R) Ready weapon - Equips a player with the weapon of thy choice, if owned, for use in combat.|S) Steal - Attempts to steal chests from behind store counters, success based on thieving ability.|T) Transact - Allows a player to trade with shops or talk to townspeople in order to collect clues vital to winning the game.|U) Use - Use an item thou hast found during play.|V) Volume - Toggles sound effects on and off.|W) Wear armour - Outfits a player with the armour of thy choice, if owned, for defense in combat.|X) Xit - That's exit, dismount horse or leave frigate.|Y) Yell - Allows player to yell any word one feels may be useful.|Z) Ztatus - Displays a player's status, attributes, and possessions.",0x20008dc
+"A) Attack - Attack attempts to damage foe with ""ready weapons"", must be followed by the direction of thy foe.|B) Board - Board a frigate or mount a horse.|C) Cast - Cast a magic spell; must be followed by the spell type (W/C) when needed, and the spell letter.|D) Descend - Climb down the ladder to the next lower dungeon level.|E) Enter - Go into places such as town, castles and dungeons.|F) Fire - Fire a ship's cannons (once thou hast boarded), in direction indicated in an attempt to obliterate thy foes.|G) Get chest - Open chest and acquire contents.|I) Ignite a torch - Lights a player's torch.|J) Jimmy lock - Use a magical key to unlock a sealed door. Must be followed by the direction of the door that thou dost wish to unlock.|K) Klimb - Climb up a ladder to the next higher dungeon level or surface.|L) Look - Identifies object in given direction.|N) Nip potion - Drinks a potion which will cure the player if poisoned or otherwise heal the player.|O) Open door - Open a door in the direction indicated.|O) Other command - Allows a player to enter a command-not given in this list but rather determined during game play.|P) Peer at a gem - Players with certain special items may see a magical map of current terrain, one use per item.Q) Quit & Save - Exits gameplay and returns the player to the game menu.|R) Ready weapon - Equips a player with the weapon of thy choice, if owned, for use in combat.|S) Steal - Attempts to steal chests from behind store counters, success based on thieving ability.|T) Transact - Allows a player to trade with shops or talk to townspeople in order to collect clues vital to winning the game.|U) Use - Use an item thou hast found during play.|V) Volume - Toggles sound effects on and off.|W) Wear armour - Outfits a player with the armour of thy choice, if owned, for defense in combat.|X) Xit - That's exit, dismount horse or leave frigate.|Y) Yell - Allows player to yell any word one feels may be useful.|Z) Ztatus - Displays a player's status, attributes, and possessions.",0x20008dd
+"A) Attack - Attempt to engage thy foe with the weapons thou hast readied (Ready Weapon command); must be followed by the direction of thy foe.|B) Board - Board a vessel or mount a horse.|C) Cast - Cast a magical spell; must be followed by the number of the player who wishes to cast it (not needed in combat or in dungeon rooms), and then the first letter of the desired spell. Note: All spells must have reagents mixed in advance of casting.|D) Descend - Climb down ladder to next level of dungeon or building.|E) Enter - Go into such places as villages, townes, castles, dungeons, and shrines.|F) Fire - Fire a ship's cannons (once thou hast Boarded); must be followed by a direction. Note: Broadsides only!|G) Get Chest - Attempt to open (and disarm, if trapped) chest.|H) Hole up and camp - Set up camp to rest and recover from thy wounds. Note: This command may only be used with limited frequency.|I) Ignite a torch - Light a torch for illumination in dungeons. Requires a special item.|J) Jimmy lock - Use a magical key to unlock a sealed door. Must be followed by the direction of the door that thou dost wish to unlock.|K) Klimb - Climb up a ladder to the next level of a building or dungeon, or to reach the surface from the topmost level of a dungeon.|L) Look - Describes everything in a given direction, and sometimes prompts the player for further instructions.|M) Mix Reagents - Prepare material components of spells for later use. Note: Thou must have reagents mixed ahead of time in order to cast any spells.|N) Nip potion - Drinks a potion which will cure the player if poisoned or otherwise heal the player.|O) Open door - Open a door in the direction indicated.|P) Peer at gem - Requires a special item.|Q) Quit & Save - Exits gameplay and returns the player to the game menu.|R) Ready a weapon - Equip a player with the weapon of thy choice (if owned) for use in combat.|S) Search - Search thy exact current location for unusual items.|T) Talk - Allows a player to converse with merchants or townsfolk in the direction indicated.|U) Use - Use an item thou hast found during play.|V) Volume - Toggles Music and Sound Effects On/Off.|W) Wear armour - Outfits a player with the armour of thy choice (if owned) for defense in combat.|X) Xit - That's (e)xit thy current form of transportation and continue on foot.|Y) Yell - Yell a message of your choice so that all nearby players might hear.|Z) Ztats - Displays the status and attributes of a selected player.",0x20008de
+Must be eight parts avatar!,0x20008df

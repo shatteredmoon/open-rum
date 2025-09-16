@@ -1,0 +1,19 @@
+Player is level 1: PASS
+Promoted to level 5: PASS
+Acquired Mark of Kings: PASS
+Player is dead: PASS
+Player is alive: PASS
+Promoted to level 25: PASS
+Acquired all cards: PASS
+Dexterity increased: PASS
+Intelligence increased: PASS
+Strength increased: PASS
+Wisdom increased: PASS
+All gold donated: PASS
+Player failed to move past serpent: PASS
+Acquired all marks: PASS
+Player equipped Exotic Weapon: PASS
+Player equipped Exotic Armour: PASS
+Player moved past serpent: PASS
+Destroyed Exodus: PASS
+Completed Ultima 3

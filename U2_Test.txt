@@ -1,0 +1,16 @@
+Player is dead: PASS
+Player is alive: PASS
+Hitpoints increased from tribute: PASS
+Stat increased from tribute: PASS
+Hitpoints increased from hotel stay: PASS
+Player moved to hotel room: PASS
+Stat increased from hotel stay: PASS
+Purchased all Oracle clues: PASS
+Failed to take Magic Ring: PASS
+Visited Father Antos: PASS
+Received Magic Ring directions: PASS
+Obtained Magic Ring: PASS
+Gathered all Quicksword materials: PASS
+Player equipped Quicksword: PASS
+Killed Minax: PASS
+Completed Ultima 2

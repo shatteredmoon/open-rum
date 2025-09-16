@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>PatchManager</class>
+ <widget class="QMainWindow" name="PatchManager">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Patch Manager</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QVBoxLayout" name="verticalLayout_2">
+    <item>
+     <widget class="QSplitter" name="splitter">
+      <property name="orientation">
+       <enum>Qt::Horizontal</enum>
+      </property>
+      <widget class="QSplitter" name="splitter_2">
+       <property name="orientation">
+        <enum>Qt::Vertical</enum>
+       </property>
+       <widget class="QTableWidget" name="tableWidget_Categories">
+        <property name="selectionMode">
+         <enum>QAbstractItemView::SingleSelection</enum>
+        </property>
+        <property name="columnCount">
+         <number>1</number>
+        </property>
+        <column/>
+       </widget>
+      </widget>
+      <widget class="QWidget" name="verticalLayoutWidget">
+       <layout class="QVBoxLayout" name="verticalLayout">
+        <property name="spacing">
+         <number>0</number>
+        </property>
+        <item>
+         <widget class="QToolBar" name="toolBar2">
+          <property name="windowTitle2" stdset="0">
+           <string>toolBar2</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QTableWidget" name="tableWidget_PatchFiles">
+          <property name="selectionMode">
+           <enum>QAbstractItemView::SingleSelection</enum>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>800</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuFile">
+    <property name="title">
+     <string>File</string>
+    </property>
+    <addaction name="separator"/>
+    <addaction name="actionSave"/>
+    <addaction name="separator"/>
+    <addaction name="actionClose"/>
+   </widget>
+   <widget class="QMenu" name="menuString">
+    <property name="title">
+     <string>Patch</string>
+    </property>
+    <addaction name="actionGenerate_Patch"/>
+    <addaction name="separator"/>
+    <addaction name="actionClear_Patch_Table"/>
+   </widget>
+   <addaction name="menuFile"/>
+   <addaction name="menuString"/>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <widget class="QToolBar" name="toolBar">
+   <property name="windowTitle">
+    <string>toolBar</string>
+   </property>
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+   <addaction name="actionSave"/>
+   <addaction name="actionGenerate_Patch"/>
+   <addaction name="separator"/>
+   <addaction name="actionAdd_Entry"/>
+   <addaction name="actionRemove_Entry"/>
+   <addaction name="separator"/>
+   <addaction name="actionClear_Patch_Table"/>
+  </widget>
+  <action name="actionClose">
+   <property name="text">
+    <string>Close</string>
+   </property>
+  </action>
+  <action name="actionGenerate_Patch">
+   <property name="text">
+    <string>Generate Patch</string>
+   </property>
+   <property name="toolTip">
+    <string>Generate Patch</string>
+   </property>
+  </action>
+  <action name="actionClear_Patch_Table">
+   <property name="text">
+    <string>Clear Patch Table</string>
+   </property>
+   <property name="toolTip">
+    <string>Removes all patch table entries for this release</string>
+   </property>
+  </action>
+  <action name="actionSave">
+   <property name="text">
+    <string>Save</string>
+   </property>
+  </action>
+  <action name="actionMove_Conditional">
+   <property name="text">
+    <string>Move to Conditional</string>
+   </property>
+  </action>
+  <action name="actionMove_Standard">
+   <property name="text">
+    <string>Move to Standard</string>
+   </property>
+  </action>
+  <action name="actionMove_Remove">
+   <property name="text">
+    <string>Move to Remove</string>
+   </property>
+  </action>
+  <action name="actionRemove_Entry">
+   <property name="text">
+    <string>Remove Entry</string>
+   </property>
+  </action>
+  <action name="actionMove_Ignore">
+   <property name="text">
+    <string>Move to Ignore</string>
+   </property>
+  </action>
+  <action name="actionAdd_Entry">
+   <property name="text">
+    <string>Add_Entry</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections>
+  <connection>
+   <sender>actionClose</sender>
+   <signal>triggered()</signal>
+   <receiver>PatchManager</receiver>
+   <slot>close()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>-1</x>
+     <y>-1</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>399</x>
+     <y>299</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+</ui>
